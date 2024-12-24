@@ -2,6 +2,7 @@
 
 Simple nouns:
 - **[Berg](b/be/Berg.md)** *masc.* ‘a hill, a mountain’
+- **[Tag](t/ta/Tag.md)** *masc.* ‘a day’
 
 Prefixes:
 - **[Ge-](prefixes/Ge_.md)** *neut.*
