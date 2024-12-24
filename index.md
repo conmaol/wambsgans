@@ -1,5 +1,11 @@
 # Wambsgans
 
+- [adjectives](adjectives/index.md)
+- [verbs](verbs/index.md)
+- [nouns](nouns/index.md)
+
+----
+
 > Als der bekannte Romanschriftsteller R. frühmorgens von dreitägigem erfrischendem Ausflug ins Gebirge wieder nach Wien zurückkehrte und am Bahnhof eine Zeitung kaufte, **wurde** er, kaum daß er das Datum überflog, erinnernd gewahr, daß heute sein Geburtstag sei.
 >
 > Der einundvierzigste, **besann** er sich rasch, und diese Feststellung **tat** ihm nicht wohl und nicht weh.
