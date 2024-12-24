@@ -30,7 +30,7 @@ Stem:
 ### Complement of preposition
 
 - **[von](../../../prepositions/von.md) Ausflug**
-  - **von Ausflug zurückkehren** ‘return from (an) excursion’
+  - **von Ausflug [zurückkehren](../../../verbs/z/zu/zurueckkehren.md)** ‘return from (an) excursion’
     - `Als der bekannte Romanschriftsteller R. frühmorgens von dreitägigem erfrischendem Ausflug ins Gebirge wieder nach Wien zurückkehrte [...]` ‘When the famous novelist R. returned to Vienna early in the morning from a refreshing three-day excursion into the mountains [...]’ *Stefan Zweig*
 
 ----
