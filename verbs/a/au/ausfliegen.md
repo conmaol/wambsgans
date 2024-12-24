@@ -5,7 +5,7 @@
 ## Structure
 
 Separable prefix:
-- **aus** ‘out’
+- **[aus](../../../prepositions/aus.md)** *prep.* ‘out of’
 
 Stem:
 - **[fliegen](../../f/fl/fliegen.md)** *vb.* ‘fly’
