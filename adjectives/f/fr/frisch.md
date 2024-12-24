@@ -7,7 +7,7 @@
 ### Stem
 
 Verbs:
-- [erfrischen](../../../verbs/e/er/erfrischen.md) vb. ‘refresh’
+- **[erfrischen](../../../verbs/e/er/erfrischen.md)** vb. ‘refresh’
 
 ----
 
