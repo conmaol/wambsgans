@@ -2,8 +2,18 @@
 
 `erfrischen` ‘refresh’ is a [verb](../../index.md).
 
-qv. [frisch](../../../adjectives/f/fr/frisch.md) *adj.* ‘fresh’
+## Structure
+
+Stem:
+- [frisch](../../../adjectives/f/fr/frisch.md) *adj.* ‘fresh’
 
 ## Functions
 
-qv. [erfrischend](../../../adjectives/e/er/erfrischend.md) *adj.* ‘refreshing’
+### Stem
+
+Adjectives:
+- [erfrischend](../../../adjectives/e/er/erfrischend.md) *adj.* ‘refreshing’
+
+----
+
+Back up to: [Verbs](../../index.md) | [Top](../../../index.md)
