@@ -4,11 +4,12 @@
 
 ## Structure
 
-drei
+Stem:
+- drei
+- Tag
 
-Tag
-
--ig
+Suffix:
+- -ig
 
 ## Functions
 
