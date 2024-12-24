@@ -4,7 +4,7 @@
 
 ## Functions
 
-### Root
+### Stem
 
 Verbs:
 - [erfrischen](../../../verbs/e/er/erfrischen.md) vb. ‘refresh’
