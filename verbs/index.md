@@ -1,7 +1,7 @@
 # Verbs
 
 Simple verbs:
-- **fliegen** vb. ‘fly’
+- **[fliegen](f/fl/fliegen.md)** *vb.* ‘fly’
 
 Prefixes:
 - **aus**
