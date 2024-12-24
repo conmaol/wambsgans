@@ -4,15 +4,18 @@
 
 ## Structure
 
+Prefix:
+- **[er-](../../prefixes/er_.md)**
+
 Stem:
-- [frisch](../../../adjectives/f/fr/frisch.md) *adj.* ‘fresh’
+- **[frisch](../../../adjectives/f/fr/frisch.md)** *adj.* ‘fresh’
 
 ## Functions
 
 ### Stem
 
 Adjectives:
-- [erfrischend](../../../adjectives/e/er/erfrischend.md) *adj.* ‘refreshing’
+- **[erfrischend](../../../adjectives/e/er/erfrischend.md)** *adj.* ‘refreshing’
 
 ----
 
