@@ -2,11 +2,22 @@
 
 `ausfliegen` ’fly out’ is a separable [verb](../../index.md).
 
-**[Ausflug](../../../nouns/a/au/Ausflug.md)** *masc.* ‘(an) excursion’
+## Structure
 
-fliegen
+Separable prefix:
+- **aus** ‘out’
 
-aus
+Stem:
+- **fliegen** *vb.* ‘fly’
+
+## Functions
+
+### Stem
+
+Nouns:
+- **[Ausflug](../../../nouns/a/au/Ausflug.md)** *masc.* ‘(an) excursion’
+
+
 
 ----
 
