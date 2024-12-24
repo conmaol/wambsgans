@@ -13,7 +13,7 @@
 
 ### Complement
 
-**von ... zurückkehren** ‘return from ...’
+**von ... [zurückkehren](../verbs/z/zu/zurueckkehren.md)** ‘return from ...’
 - `Als der bekannte Romanschriftsteller R. frühmorgens von dreitägigem erfrischendem Ausflug ins Gebirge wieder nach Wien zurückkehrte [...]` ‘When the famous novelist R. returned to Vienna early in the morning from a refreshing three-day excursion into the mountains [...]’ *Stefan Zweig*
 
 ----
