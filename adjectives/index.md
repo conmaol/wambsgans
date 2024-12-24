@@ -5,6 +5,7 @@ Simple adjectives:
 
 Suffixes:
 - **[-d](suffixes/_d.md)** ‘-ing’
+- **[-ig](suffixes/_ig.md)** ‘-(l)y’
 
 ----
 
