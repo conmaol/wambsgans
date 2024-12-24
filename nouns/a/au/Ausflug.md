@@ -2,6 +2,12 @@
 
 `Ausflug` ‘(an) excursion’ is a masculine [noun](../../index.md).
 
+## Structure
+
+Stem:
+- **ausfliegen** *vb.* ‘fly out’
+- **Flug** *masc.* ‘(a) flight’
+
 ## Dependents
 
 ### Modifiers
@@ -13,7 +19,10 @@
 
 ## Functions
 
-### Complement
+### Complement of preposition
+
+von Ausflug
+- von Ausflug zurückkehren ‘return from an excursion’
 
 - **[erfrischender]() Ausflug** ‘(a) refreshing excursion’
   - `Als der bekannte Romanschriftsteller R. frühmorgens von dreitägigem erfrischendem Ausflug ins Gebirge wieder nach Wien zurückkehrte [...]` ‘When R., the famous novelist, returned to Vienna early in the morning, after a refreshing three-day excursion into the mountains, [...]’ *Stefan Zweig*
