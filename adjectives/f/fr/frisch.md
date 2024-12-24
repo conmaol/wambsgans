@@ -4,7 +4,10 @@
 
 ## Functions
 
-qv. [erfrischen](../../../verbs/e/er/erfrischen.md) vb. ‘refresh’
+### Root
+
+Verbs:
+- [erfrischen](../../../verbs/e/er/erfrischen.md) vb. ‘refresh’
 
 ----
 
