@@ -1,7 +1,11 @@
 # Adjectives
 
-- [erfrischend](e/er/erfrischend.md) ‘refreshing’
-- [frisch](f/fr/frisch.md) ‘fresh’
+Simple adjectives:
+- [frisch](f/fr/frisch.md) *adj.* ‘fresh’
+
+Suffixes:
+- [-d](suffixes/_d.md) ‘-ing’
+  - [erfrischend](e/er/erfrischend.md) *adj.* ‘refreshing’
 
 ----
 
