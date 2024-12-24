@@ -5,7 +5,7 @@
 ## Structure
 
 Stem:
-- **ausfliegen** *vb.* ‘fly out’
+- **[ausfliegen](../../../verbs/a/au/ausfliegen.md)** *vb.* ‘fly out’
 - **Flug** *masc.* ‘(a) flight’
 
 ## Dependents
