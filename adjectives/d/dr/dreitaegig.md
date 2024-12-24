@@ -9,7 +9,7 @@ Stem:
 - **[Tag](../../../nouns/t/ta/Tag.md)** *masc.* ‘a day’
 
 Suffix:
-- -ig
+- **[-ig](../../suffixes/_ig.md)**
 
 ## Functions
 
