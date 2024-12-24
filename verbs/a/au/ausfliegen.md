@@ -8,7 +8,7 @@ Separable prefix:
 - **aus** ‘out’
 
 Stem:
-- **fliegen** *vb.* ‘fly’
+- **[fliegen](../../f/fl/fliegen.md)** *vb.* ‘fly’
 
 ## Functions
 
