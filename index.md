@@ -3,6 +3,7 @@
 - [adjectives](adjectives/index.md)
 - [verbs](verbs/index.md)
 - [nouns](nouns/index.md)
+- [prepositions](prepositions/index.md)
 
 ----
 
