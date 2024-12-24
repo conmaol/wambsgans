@@ -7,7 +7,7 @@
 ### Stem
 
 Adjectives:
-- [dreitägig](../adjectives/d/dr/dreitaegig.md)
+- **[dreitägig](../adjectives/d/dr/dreitaegig.md)** *adj.* ‘lasting for three days, three-day’ 
 
 ----
 
