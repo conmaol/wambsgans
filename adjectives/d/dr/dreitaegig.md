@@ -6,7 +6,7 @@
 
 Stem:
 - drei
-- Tag
+- **[Tag](../../../nouns/t/ta/Tag.md)** *masc.* ‘a day’
 
 Suffix:
 - -ig
