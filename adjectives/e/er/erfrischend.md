@@ -8,7 +8,7 @@ Stem:
 - [erfrischen](../../../verbs/e/er/erfrischen.md) *vb.* ‘refresh’
 
 Suffix:
-- [-d](../../suffixes/_d.md)
+- [-d](../../suffixes/_d.md) ‘-ing’
 
 ## Functions
 
