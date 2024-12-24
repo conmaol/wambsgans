@@ -10,6 +10,12 @@ Stem:
 
 ## Dependents
 
+### Complements
+
+- **Ausflug [in](../../../prepositions/in.md) ...** ‘(an) excursion into ...’
+  - **Ausflug ins [Gebirge](../../g/ge/Gebirge.md)** ‘(an) excursion into the mountains’
+    - `Als der bekannte Romanschriftsteller R. frühmorgens von dreitägigem erfrischendem Ausflug ins Gebirge wieder nach Wien zurückkehrte [...]` ‘When the famous novelist R. returned to Vienna early in the morning from a refreshing three-day excursion into the mountains [...]’ *Stefan Zweig*
+
 ### Modifiers
 
 #### Adjectives
