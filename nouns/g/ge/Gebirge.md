@@ -1,12 +1,14 @@
 # Gebirge
 
-`Gebirge` ‘mountain range’ is a neuter [noun](../../index.md).
+`Gebirge` ‘a mountain range’ is a neuter [noun](../../index.md).
 
 ## Structure
 
-Berg
+Prefix:
+- **[Ge-](../../prefixes/Ge_.md)** *neut.*
 
-Ge-
+Stem:
+- **[Berg](../../b/be/Berg.md)** *masc.* ‘a hill, a mountain’
 
 ## Functions
 
