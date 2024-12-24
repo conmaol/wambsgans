@@ -5,7 +5,7 @@
 ## Structure
 
 Stem:
-- drei
+- **[drei](../../../quantifiers/drei.md)** ‘three’
 - **[Tag](../../../nouns/t/ta/Tag.md)** *masc.* ‘a day’
 
 Suffix:
