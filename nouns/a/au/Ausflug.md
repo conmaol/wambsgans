@@ -6,7 +6,7 @@
 
 Stem:
 - **[ausfliegen](../../../verbs/a/au/ausfliegen.md)** *vb.* ‘fly out’
-- **Flug** *masc.* ‘(a) flight’
+- **[Flug](../../f/fl/Flug.md)** *masc.* ‘(a) flight’
 
 ## Dependents
 
