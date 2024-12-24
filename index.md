@@ -4,6 +4,7 @@
 - [verbs](verbs/index.md)
 - [nouns](nouns/index.md)
 - [prepositions](prepositions/index.md)
+- [quantifiers](quantifiers/index.md)
 
 ----
 
