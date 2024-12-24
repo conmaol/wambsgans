@@ -8,7 +8,7 @@
 
 #### Adjectives
 
-- **[erfrischender](../../adjectives/e/er/erfrischend.md) Ausflug** ‘(a) refreshing excursion’
+- **[erfrischender](../../../adjectives/e/er/erfrischend.md) Ausflug** ‘(a) refreshing excursion’
   - `Als der bekannte Romanschriftsteller R. frühmorgens von dreitägigem erfrischendem Ausflug ins Gebirge wieder nach Wien zurückkehrte [...]` ‘When R., the famous novelist, returned to Vienna early in the morning, after a refreshing three-day excursion into the mountains, [...]’ *Stefan Zweig*
 
 ## Functions
