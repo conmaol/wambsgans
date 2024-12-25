@@ -4,6 +4,8 @@
 
 ## Functions
 
+### Stem
+
 **[zurückkehren](../../z/zu/zurueckkehren.md)** *vb.* ‘return’
 
 ----
