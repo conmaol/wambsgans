@@ -5,7 +5,7 @@
 ## Structure
 
 Prefix:
-- **zurück** *adv.* ‘back’
+- **[zurück](../../../adverbs/z/zu/zurueck.md)** *adv.* ‘back’
 
 Stem:
 - **[kehren](../../k/ke/kehren.md)** *vb.* ‘turn’
