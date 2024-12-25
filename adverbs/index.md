@@ -1,6 +1,6 @@
 # Adverbs
 
-- [zurück](z/zu/zurueck.md) *adv.* ‘back’
+- **[zurück](z/zu/zurueck.md)** *adv.* ‘back’
 
 ----
 
