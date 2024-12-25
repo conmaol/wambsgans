@@ -4,9 +4,8 @@
 
 ## Structure
 
-Stems:
-- schriftstellen *vb.*
-- Steller *masc.*
+Stem:
+- **[Schrift](Schrift.md)** *fem.* ‘writing’
 
 ## Dependents
 
