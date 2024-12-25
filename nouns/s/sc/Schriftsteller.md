@@ -12,6 +12,8 @@ Stems:
 
 ein bekannter Schriftsteller
 
+Romanschriftsteller ?
+
 ## Functions
 
 ### Subject
