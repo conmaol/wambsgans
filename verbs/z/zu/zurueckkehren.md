@@ -2,49 +2,12 @@
 
 `zurückkehren` ‘return’ is a separable [verb](../../index.md).
 
-## Structure
+Head: **[kehren](../../k/ke/kehren.md)** *vb.* ‘turn’
 
-Prefix:
-- **[zurück](../../../adverbs/z/zu/zurueck.md)** *adv.* ‘back’
+Modifier: **[zurück](../../../adverbs/z/zu/zurueck.md)** *adv.* ‘back’
 
-Stem:
-- **[kehren](../../k/ke/kehren.md)** *vb.* ‘turn’
-
-## Dependents
-
-### Subjects
-
-**ein [Schriftsteller](../../../nouns/s/sc/Schriftsteller.md) kehrte zurück** ‘a writer returned’
-- `Als der bekannte Romanschriftsteller R. frühmorgens von dreitägigem erfrischendem Ausflug ins Gebirge wieder nach Wien zurückkehrte [...]` ‘When the famous novelist R. returned to Vienna early in the morning from a refreshing three-day excursion into the mountains [...]’ *Stefan Zweig*
-
-### Path complements
-
-#### Goal
-
-**[nach](../../../prepositions/nach.md) ... zurückkehren** ‘return to ...’
-- **nach Wien ... zurückkehren** ‘return to Vienna’
-  - `Als der bekannte Romanschriftsteller R. frühmorgens von dreitägigem erfrischendem Ausflug ins Gebirge wieder nach Wien zurückkehrte [...]` ‘When the famous novelist R. returned to Vienna early in the morning from a refreshing three-day excursion into the mountains [...]’ *Stefan Zweig*
-
-#### Source
-
-**[von](../../../prepositions/von.md) ... zurückkehren** ‘return from ...’
-- **von [Ausflug](../../../nouns/a/au/Ausflug.md) zurückkehren** ‘return from (an) excursion’
-  - `Als der bekannte Romanschriftsteller R. frühmorgens von dreitägigem erfrischendem Ausflug ins Gebirge wieder nach Wien zurückkehrte [...]` ‘When the famous novelist R. returned to Vienna early in the morning from a refreshing three-day excursion into the mountains [...]’ *Stefan Zweig*
-
-### Temporal modifiers
-
-**[wieder](../../../adverbs/w/wi/wieder.md) zurückkehren** ‘return again’
-- `Als der bekannte Romanschriftsteller R. frühmorgens von dreitägigem erfrischendem Ausflug ins Gebirge wieder nach Wien zurückkehrte [...]` ‘When the famous novelist R. returned to Vienna early in the morning from a refreshing three-day excursion into the mountains [...]’ *Stefan Zweig*
-
-**[frühmorgens](../../../adverbs/f/fr/fruehmorgens.md) zurückkehren** ‘return early in the morning’
-- `Als der bekannte Romanschriftsteller R. frühmorgens von dreitägigem erfrischendem Ausflug ins Gebirge wieder nach Wien zurückkehrte [...]` ‘When the famous novelist R. returned to Vienna early in the morning from a refreshing three-day excursion into the mountains [...]’ *Stefan Zweig*
-
-
-
-## Functions
-
-
-
+Examples:
+- **Als der bekannte [Romanschriftsteller](../../../nouns/r/ro/Romanschriftsteller.md) R. [frühmorgens](../../../adverbs/f/fr/fruehmorgens.md) [von](../../../prepositions/von.md) dreitägigem erfrischendem Ausflug ins Gebirge [wieder](../../../adverbs/w/wi/wieder.md) [nach](../../../prepositions/nach.md) Wien zurückkehrte und am Bahnhof eine Zeitung kaufte, wurde er, kaum daß er das Datum überflog, erinnernd gewahr, daß heute sein Geburtstag sei.** ‘When the famous novelist R. returned to Vienna early in the morning from a refreshing three-day excursion into the mountains and bought a newspaper at the railway station, he was reminded, as soon as he skimmed over the date, that today (must) be his birthday.’ *Stefan Zweig*
 
 ----
 
