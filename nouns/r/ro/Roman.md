@@ -2,7 +2,7 @@
 
 `Roman` ‘a novel’ is a masculine [noun](../../index.md).
 
-## Functions
+## Compounds
 
 ### Modifier
 
