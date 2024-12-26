@@ -7,6 +7,7 @@ Simple verbs:
 
 Prefixes:
 - **[aus](../prepositions/aus.md)** *prep.* ‘out of’
+- **[be-](prefixes/be_.md)**
 - **[er-](prefixes/er_.md)**
 - **[zurück](../adverbs/z/zu/zurueck.md)** *adv.* ‘back’
 
