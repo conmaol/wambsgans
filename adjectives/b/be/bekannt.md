@@ -2,6 +2,10 @@
 
 `bekannt` ‘famous’ is an [adjective](../../index.md).
 
+## Structure
+
+Stem:
+- **[bekennen](../../../verbs/b/be/bekennen.md)** *vb.*
 
 ## Functions
 
