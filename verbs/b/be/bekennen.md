@@ -2,18 +2,11 @@
 
 `bekennen` ‘admit’ is an inseparable [verb](../../index.md).
 
-## Structure
+Root: **[kennen](../../k/ke/kennen.md)** *vb.* ‘know’
 
-Prefix:
-- **[be-](../../prefixes/be_.md)**
+Prefix: **[be-](../../prefixes/be_.md)**
 
-Stem:
-- **[kennen](../../k/ke/kennen.md)** *vb.* ‘know’
-
-## Functions
-
-### Stem
-
+Derivatives:
 - **[bekannt](../../../adjectives/b/be/bekannt.md)** *adj.* ‘famous’ 
 
 ----
