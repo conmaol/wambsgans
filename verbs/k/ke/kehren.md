@@ -1,12 +1,9 @@
 # kehren
 
-`kehren` ‘turn’ is a [verb](../../index.md).
+`kehren` ‘turn’ is a simple [verb](../../index.md).
 
-## Functions
-
-### Stem
-
-**[zurückkehren](../../z/zu/zurueckkehren.md)** *vb.* ‘return’
+Separable derivatives:
+- **[zurückkehren](../../z/zu/zurueckkehren.md)** *vb.* ‘return’
 
 ----
 
