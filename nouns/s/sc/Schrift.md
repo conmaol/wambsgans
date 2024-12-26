@@ -1,12 +1,9 @@
 # Schrift
 
-`Schrift` ‘writing’ is a feminine [noun](../../index.md).
+`Schrift` ‘writing’ is a feminine simple [noun](../../index.md).
 
-## Functions
-
-### Prefix
-
-**[Schriftsteller](Schriftsteller.md)** *masc.* ‘a writer’
+Compounds (modifier):
+- **[Schriftsteller](Schriftsteller.md)** *masc.* ‘a writer’
 
 ----
 
