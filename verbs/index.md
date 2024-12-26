@@ -3,6 +3,7 @@
 Simple verbs:
 - **[fliegen](f/fl/fliegen.md)** *vb.* ‘fly’
 - **[kehren](k/ke/kehren.md)** *vb.* ‘turn’
+- **[kennen](k/ke/kennen.md)** *vb.* ‘know’
 
 Prefixes:
 - **[aus](../prepositions/aus.md)** *prep.* ‘out of’
