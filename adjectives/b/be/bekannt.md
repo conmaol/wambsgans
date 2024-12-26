@@ -5,7 +5,7 @@
 ## Structure
 
 Stem:
-- **[bekennen](../../../verbs/b/be/bekennen.md)** *vb.*
+- **[bekennen](../../../verbs/b/be/bekennen.md)** *vb.* ‘admit’
 
 ## Functions
 
