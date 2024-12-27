@@ -2,8 +2,6 @@
 
 `dreitägig` ‘three-day, lasting for three days’ is an [adjective](../../index.md).
 
-## Structure
-
 Roots:
 - **[drei](../../../quantifiers/drei.md)** ‘three’
 - **[Tag](../../../nouns/t/ta/Tag.md)** *masc.* ‘a day’
