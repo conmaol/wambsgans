@@ -2,7 +2,7 @@
 
 `er-` is a prefix that forms [verbs](../index.md) from [adjectives](../../adjectives/index.md).
 
-Examples:
+Derivatives:
 - **[erfrischen](../e/er/erfrischen.md)** *vb.* ‘refresh’
 
 ----
