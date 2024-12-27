@@ -2,11 +2,7 @@
 
 `drei` ‘three’ is a numeral.
 
-## Functions
-
-### Stem
-
-Adjectives:
+Derivatives:
 - **[dreitägig](../adjectives/d/dr/dreitaegig.md)** *adj.* ‘lasting for three days, three-day’ 
 
 ----
