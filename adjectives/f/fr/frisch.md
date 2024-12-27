@@ -1,12 +1,8 @@
 # frisch
 
-`frisch` ‘fresh’ is an [adjective](../../index.md).
+`frisch` ‘fresh’ is a simple [adjective](../../index.md).
 
-## Functions
-
-### Stem
-
-Verbs:
+Derivatives:
 - **[erfrischen](../../../verbs/e/er/erfrischen.md)** vb. ‘refresh’
 
 ----
