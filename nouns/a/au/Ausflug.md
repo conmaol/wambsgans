@@ -2,36 +2,12 @@
 
 `Ausflug` ‘(an) excursion’ is a masculine [noun](../../index.md).
 
-## Structure
+Head: **[Flug](../../f/fl/Flug.md)** *masc.* ‘(a) flight’
 
-Stem:
-- **[ausfliegen](../../../verbs/a/au/ausfliegen.md)** *vb.* ‘fly out’
-- **[Flug](../../f/fl/Flug.md)** *masc.* ‘(a) flight’
+Root: **[ausfliegen](../../../verbs/a/au/ausfliegen.md)** *vb.* ‘fly out’
 
-## Dependents
-
-### Complements
-
-- **Ausflug [in](../../../prepositions/in.md) ...** ‘(an) excursion into ...’
-  - **Ausflug ins [Gebirge](../../g/ge/Gebirge.md)** ‘(an) excursion into the mountains’
-    - `Als der bekannte Romanschriftsteller R. frühmorgens von dreitägigem erfrischendem Ausflug ins Gebirge wieder nach Wien zurückkehrte [...]` ‘When the famous novelist R. returned to Vienna early in the morning from a refreshing three-day excursion into the mountains [...]’ *Stefan Zweig*
-
-### Modifiers
-
-#### Adjectives
-
-- **[erfrischender](../../../adjectives/e/er/erfrischend.md) Ausflug** ‘(a) refreshing excursion’
-  - `Als der bekannte Romanschriftsteller R. frühmorgens von dreitägigem erfrischendem Ausflug ins Gebirge wieder nach Wien zurückkehrte [...]` ‘When the famous novelist R. returned to Vienna early in the morning from a refreshing three-day excursion into the mountains [...]’ *Stefan Zweig*
-- **[dreitägiger](../../../adjectives/d/dr/dreitaegig.md) Ausflug** ‘(a) three-day excursion’ 
-  - `Als der bekannte Romanschriftsteller R. frühmorgens von dreitägigem erfrischendem Ausflug ins Gebirge wieder nach Wien zurückkehrte [...]` ‘When the famous novelist R. returned to Vienna early in the morning from a refreshing three-day excursion into the mountains [...]’ *Stefan Zweig*
-  
-## Functions
-
-### Complement of preposition
-
-- **[von](../../../prepositions/von.md) Ausflug**
-  - **von Ausflug [zurückkehren](../../../verbs/z/zu/zurueckkehren.md)** ‘return from (an) excursion’
-    - `Als der bekannte Romanschriftsteller R. frühmorgens von dreitägigem erfrischendem Ausflug ins Gebirge wieder nach Wien zurückkehrte [...]` ‘When the famous novelist R. returned to Vienna early in the morning from a refreshing three-day excursion into the mountains [...]’ *Stefan Zweig*
+Examples:
+- **Als der bekannte Romanschriftsteller R. frühmorgens [von](../../../prepositions/von.md) [dreitägigem](../../../adjectives/d/dr/dreitaegig.md) [erfrischendem](../../../adjectives/e/er/erfrischend.md) <mark>Ausflug</mark> [ins](../../../prepositions/in.md) Gebirge wieder nach Wien zurückkehrte und am Bahnhof eine Zeitung kaufte, wurde er, kaum daß er das Datum überflog, erinnernd gewahr, daß heute sein Geburtstag sei.** ‘When the famous novelist R. returned to Vienna early in the morning from a refreshing three-day excursion into the mountains and bought a newspaper at the railway station, he was reminded, as soon as he skimmed over the date, that today (must) be his birthday.’ *Stefan Zweig*
 
 ----
 
