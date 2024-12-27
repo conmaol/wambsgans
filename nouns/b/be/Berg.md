@@ -1,11 +1,8 @@
 # Berg
 
-`Berg` ‘a hill, a mountain’ is a masculine [noun](../../index.md).
+`Berg` ‘a hill, a mountain’ is a masculine simple [noun](../../index.md).
 
-## Functions
-
-### Stem
-
+Derivatives:
 - **[Gebirge](../../g/ge/Gebirge.md)** *neut.* ‘a mountain range’
 
 ----
