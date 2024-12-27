@@ -2,7 +2,7 @@
 
 Simple adjectives:
 - **[frisch](f/fr/frisch.md)** *adj.* ‘fresh’
-- **[früh](f/fr/fruh.md)** *adj.* ‘early’
+- **[früh](f/fr/frueh.md)** *adj.* ‘early’
 
 Suffixes:
 - **[-d](suffixes/_d.md)** ‘-ing’
