@@ -2,11 +2,7 @@
 
 `aus` ‘out of’ is a [preposition](index.md).
 
-## Functions
-
-### Prefix
-
-Verbs:
+Separable verbs:
 - **[ausfliegen](../verbs/a/au/ausfliegen.md)** *vb.* ‘fly out’
 
 ----
