@@ -2,6 +2,7 @@
 
 Simple nouns:
 - **[Berg](b/be/Berg.md)** *masc.* ‘a hill, a mountain’
+- **[Morgen](m/mo/Morgen.md)** *masc.* ‘a morning’
 - **[Roman](r/ro/Roman.md)** *masc.* ‘a novel’
 - **[Schrift](s/sc/Schrift.md)** *fem.* ‘writing’
 - **[Tag](t/ta/Tag.md)** *masc.* ‘a day’
