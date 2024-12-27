@@ -15,6 +15,9 @@ Derived nouns:
 - **[Flug](f/fl/Flug.md)** *masc.* ‘(a) flight’
 - **[Schriftsteller](s/sc/Schriftsteller.md)** *masc.* ‘a writer’
 
+Proper nouns:
+- **[Wien](w/wi/Wien.md)** ‘Vienna’
+
 ----
 
 Back up to: [Top](../index.md)
