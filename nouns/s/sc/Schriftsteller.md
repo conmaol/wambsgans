@@ -2,9 +2,9 @@
 
 `Schriftsteller` ‘a writer’ is a masculine compound [noun](../../index.md).
 
-Modifier: **[Schrift](Schrift.md)** *fem.* ‘writing’
+*qv.* **[Schrift](Schrift.md)** *fem.* ‘writing’
 
-Compounds (head):
+Compounds:
 - **[Romanschriftsteller](../../r/ro/Romanschriftsteller.md)** *masc.* ‘a novelist’
 
 ----
