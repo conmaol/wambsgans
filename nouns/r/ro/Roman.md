@@ -2,7 +2,7 @@
 
 `Roman` ‘a novel’ is a masculine simple [noun](../../index.md).
 
-Compounds (modifier):
+Compounds:
   - **[Romanschriftsteller](Romanschriftsteller.md)** *masc.* ‘a novelist’
 
 ----
