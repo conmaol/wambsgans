@@ -1,20 +1,12 @@
 # erfrischen
 
-`erfrischen` ‘refresh’ is a [verb](../../index.md).
+`erfrischen` ‘refresh’ is an inseparable [verb](../../index.md).
 
-## Structure
+Root: **[frisch](../../../adjectives/f/fr/frisch.md)** *adj.* ‘fresh’
 
-Prefix:
-- **[er-](../../prefixes/er_.md)**
+Prefix: **[er-](../../prefixes/er_.md)**
 
-Stem:
-- **[frisch](../../../adjectives/f/fr/frisch.md)** *adj.* ‘fresh’
-
-## Functions
-
-### Stem
-
-Adjectives:
+Derivatives:
 - **[erfrischend](../../../adjectives/e/er/erfrischend.md)** *adj.* ‘refreshing’
 
 ----
