@@ -4,6 +4,7 @@
 - **[aus](aus.md)** *prep.* ‘out of’
 - **[in](in.md)** *prep.* ‘in, into’
 - **[nach](nach.md)** *prep.* ‘to, after’
+- **[über](ueber.md)** *prep.* ‘over, above’
 - **[von](von.md)** *prep.* ‘from’
 
 ----
