@@ -2,7 +2,7 @@
 
 `Schrift` ‘writing’ is a feminine simple [noun](../../index.md).
 
-Compounds (modifier):
+Compounds:
 - **[Schriftsteller](Schriftsteller.md)** *masc.* ‘a writer’
 
 ----
