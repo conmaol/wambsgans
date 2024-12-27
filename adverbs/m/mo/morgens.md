@@ -3,7 +3,7 @@
 `morgens` ‘in the morning’ is an [adverb](../../index.md).
 
 Compounds (head):
-**[frühmorgens](../../f/fr/fruehmorgens.md)** adv. ‘early in the morning’
+- **[frühmorgens](../../f/fr/fruehmorgens.md)** adv. ‘early in the morning’
 
 ----
 
