@@ -2,7 +2,7 @@
 
 `bekannt` ‘famous’ is a deverbal [adjective](../../index.md).
 
-qv. **[bekennen](../../../verbs/b/be/bekennen.md)** *vb.* ‘admit’
+*qv.* **[bekennen](../../../verbs/b/be/bekennen.md)** *vb.* ‘admit’
 
 Examples:
 
