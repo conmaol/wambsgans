@@ -1,16 +1,12 @@
 # fliegen
 
-`fliegen` ‘fly’ is a [verb](../../index.md).
+`fliegen` ‘fly’ is a simple [verb](../../index.md).
 
-## Functions
-
-### Stem
-
-Verbs:
-- **[ausfliegen](../../a/au/ausfliegen.md)** *vb.* ‘fly out’
-
-Nouns:
+Derivatives:
 - **[Flug](../../../nouns/f/fl/Flug.md)** *masc.* ‘(a) flight’
+
+Separable verbs:
+- **[ausfliegen](../../a/au/ausfliegen.md)** *vb.* ‘fly out’
 
 ----
 
