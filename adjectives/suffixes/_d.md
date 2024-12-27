@@ -4,6 +4,7 @@
 
 Derivatives:
 - **[erfrischend](../e/er/erfrischend.md)** *adj.* ‘refreshing’
+- **[erinnernd](../e/er/erinnernd.md)** *adj.* ‘reminding’
 
 ----
 
