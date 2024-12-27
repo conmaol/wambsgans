@@ -4,6 +4,7 @@
 
 Derivatives:
 - **[erfrischen](../e/er/erfrischen.md)** *vb.* ‘refresh’
+- **[erinnern](../e/er/erinnern.md)** *vb.* ‘remind’
 
 ----
 
