@@ -1,6 +1,7 @@
 # Nouns
 
 Simple nouns:
+- **[Bahn](b/ba/Bahn.md)** *fem.* ‘a track, a railway’
 - **[Berg](b/be/Berg.md)** *masc.* ‘a hill, a mountain’
 - **[Hof](h/ho/Hof.md)** *masc.* ‘a yard, a court’
 - **[Morgen](m/mo/Morgen.md)** *masc.* ‘a morning’
