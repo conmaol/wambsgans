@@ -2,7 +2,7 @@
 
 `Flug` ‘flight’ is a masculine deverbal [noun](../../index.md).
 
-Root: **[fliegen](../../../verbs/f/fl/fliegen.md)** *vb.* ‘fly’
+*qv.* **[fliegen](../../../verbs/f/fl/fliegen.md)** *vb.* ‘fly’
 
 Compounds:
 - **[Ausflug](../../a/au/Ausflug.md)** ‘(an) excursion’
