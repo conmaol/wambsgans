@@ -6,6 +6,7 @@ Simple nouns:
 - **[Roman](r/ro/Roman.md)** *masc.* ‘a novel’
 - **[Schrift](s/sc/Schrift.md)** *fem.* ‘writing’
 - **[Tag](t/ta/Tag.md)** *masc.* ‘a day’
+- **[Zeit](z/ze/Zeit.md)** *fem.* ‘(a) time’
 
 Prefixes:
 - **[Ge-](prefixes/Ge_.md)** *neut.*
