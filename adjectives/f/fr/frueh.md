@@ -2,7 +2,7 @@
 
 `früh` ‘early’ is an [adjective](../../index.md).
 
-Compounds (modifier):
+Compounds:
 - **[frühmorgens](../../../adverbs/f/fr/fruehmorgens.md)** *adv.* ‘early in the morning’
 
 ----
