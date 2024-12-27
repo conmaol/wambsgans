@@ -6,7 +6,7 @@
 
 Examples:
 
-> Als **der bekannte [Romanschriftsteller](../../../nouns/r/ro/Romanschriftsteller.md)** R. frühmorgens von dreitägigem erfrischendem Ausflug ins Gebirge wieder nach Wien zurückkehrte und am Bahnhof eine Zeitung kaufte, wurde er, kaum daß er das Datum überflog, erinnernd gewahr, daß heute sein Geburtstag sei. (*Stefan Zweig*) – ‘the famous novelist’
+> Als **der <mark>bekannte</mark> [Romanschriftsteller](../../../nouns/r/ro/Romanschriftsteller.md)** R. frühmorgens von dreitägigem erfrischendem Ausflug ins Gebirge wieder nach Wien zurückkehrte und am Bahnhof eine Zeitung kaufte, wurde er, kaum daß er das Datum überflog, erinnernd gewahr, daß heute sein Geburtstag sei. (*Stefan Zweig*) – ‘the famous novelist’
 
 ----
 
