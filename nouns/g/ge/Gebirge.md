@@ -2,7 +2,7 @@
 
 `Gebirge` ‘a mountain range’ is a neuter [noun](../../index.md).
 
-*qv.* **[Ge-](../../prefixes/Ge_.md)** *neut.*, **[Berg](../../b/be/Berg.md)** *masc.* ‘a hill, a mountain’
+*qv.* **[Berg](../../b/be/Berg.md)** *masc.* ‘a hill, a mountain’
 
 Examples:
 
