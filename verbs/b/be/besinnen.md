@@ -6,7 +6,7 @@
 
 Examples:
 
-> (Der bekannte Romanschriftsteller wurde erinnernd gewahr, daß heute sein Geburtstag sei.) **Der einundvierzigste, <mark>besann</mark> er sich [rasch](../../../adjectives/r/ra/rasch.md)**, und diese Feststellung tat ihm nicht wohl und nicht weh. (*Stefan Zweig*) – ‘he quickly reflected’
+> (Der bekannte Romanschriftsteller wurde erinnernd gewahr, daß heute sein Geburtstag sei.) **Der einundvierzigste, <mark>besann</mark> er sich [rasch](../../../adjectives/r/ra/rasch.md)**, und diese Feststellung tat ihm nicht wohl und nicht weh. (*Stefan Zweig*) – ‘his 41st (birthday), he quickly reflected’
 
 ----
 
