@@ -1,6 +1,6 @@
 # Diener
 
-`Diener` ‘manservant’ is a masculine derived [noun](../../index.md).
+`Diener` ‘a manservant’ is a masculine derived [noun](../../index.md).
 
 qv. **[dienen](../../../verbs/d/di/dienen.md)** *vb.* ‘serve’
 
