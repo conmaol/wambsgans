@@ -1,8 +1,8 @@
 # Mietautomobil
 
-`Mietautomobil` ‘taxi’ is a neuter compound [noun](../../index.md).
+`Mietautomobil` ‘a taxi’ is a neuter compound [noun](../../index.md).
 
-*qv.* **[Miete](Miete.md)** *fem.* ‘rent’, **[Automobil](../../a/au/Automobil.md)** *neut.* ‘automobile, car’
+*qv.* **[Miete](Miete.md)** *fem.* ‘rent’, **[Automobil](../../a/au/Automobil.md)** *neut.* ‘an automobile, a car’
 
 Examples:
 
