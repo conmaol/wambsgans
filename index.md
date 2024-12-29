@@ -9,7 +9,7 @@
 
 ----
 
-> Als der bekannte Romanschriftsteller R. frühmorgens von dreitägigem erfrischendem Ausflug ins Gebirge wieder nach Wien zurückkehrte und am Bahnhof eine Zeitung kaufte, **wurde** er, kaum daß er das Datum überflog, erinnernd gewahr, daß heute sein Geburtstag sei.
+> Als der bekannte Romanschriftsteller R. frühmorgens von dreitägigem erfrischendem Ausflug ins Gebirge wieder nach Wien [zurückkehrte](verbs/z/zu/zurueckkehren.md) und am Bahnhof eine Zeitung [kaufte](verbs/k/ka/kaufen.md), wurde er, kaum daß er das Datum [überflog](verbs/ue/ueb/ueberfliegen.md), erinnernd [gewahr](adjectives/g/ge/gewahr.md), daß heute sein Geburtstag sei.
 >
 > Der einundvierzigste, **besann** er sich rasch, und diese Feststellung **tat** ihm nicht wohl und nicht weh.
 >
