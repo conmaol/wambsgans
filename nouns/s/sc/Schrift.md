@@ -4,6 +4,7 @@
 
 Compounds:
 - **[Schriftsteller](Schriftsteller.md)** *masc.* ‘a writer’
+- **[Schriftzug](Schriftzug.md)** *masc.* ‘an inscription’
 
 ----
 
