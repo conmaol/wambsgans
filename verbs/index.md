@@ -1,6 +1,6 @@
 # Verbs
 
-- simple verbs
+- [simple verbs](simpleVerbs.md)
 - [derived verbs](derivedVerbs.md)
 - compound verbs
 
