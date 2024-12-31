@@ -1,6 +1,6 @@
 # lähmen
 
-`lähmen` ‘paralyse’ is a [deadjectival verb](../../deadjectivalVerbs.md).
+`lähmen` ‘paralyse’ is a [de-adjectival verb](../../deAdjectivalVerbs.md).
 
 *qv.* **[lahm](../../../adjectives/l/la/lahm.md)** *adj.* ‘lame’
 
