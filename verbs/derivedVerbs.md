@@ -1,6 +1,7 @@
 # Derived verbs
 
 - [inseparable verbs](inseparableVerbs.md)
+- [deadjectival verbs](deadjectivalVerbs.md)
 
 ----
 
