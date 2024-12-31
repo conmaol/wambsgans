@@ -8,4 +8,4 @@
 
 ----
 
-Back up to: [Adjectives](../../index.md) | [Top](../../../index.md)
+Back up to: [Adjectives](index.md) | [Top](../index.md)
