@@ -9,7 +9,7 @@ Compounds:
 - **[Geburtstag](../../g/ge/Geburtstag.md)** *masc.* ‘a birthday’
 
 Examples:
-- Am <mark>Tage</mark> seiner **[Entlassung](../../e/en/Entlassung.md)** konnte Dallow seine Finger nicht bewegen. (*[Christoph Hein](../../../texts/ChristophHein/DerTangoSpieler.md)* – ‘on the day of his release (from prison)’)
+- Am <mark>Tage</mark> seiner [Entlassung](../../e/en/Entlassung.md) konnte Dallow seine Finger nicht bewegen. (*[Christoph Hein](../../../texts/ChristophHein/DerTangoSpieler.md)* – ‘on the day of his release (from prison)’)
 
 ----
 
