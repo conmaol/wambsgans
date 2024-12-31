@@ -1,7 +1,7 @@
 # Adjectives
 
 - [simple adjectives](simpleAdjectives.md)
-- [deverbal adjectives](deverbalAdjectives.md)
+- [derived adjectives](derivedAdjectives.md)
 
 ----
 
