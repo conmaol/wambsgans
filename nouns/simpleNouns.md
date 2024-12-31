@@ -1,7 +1,8 @@
 # Simple nouns
 
 Monosyllables:
-- **[Bahn](b/ba/Bahn.md)** *fem.* ‘a track, a railway’
+- **[Amt](a/am/Amt.md)** *neut.* ‘a government employee’
+- **[Bahn](b/ba/Bahn.md)** *fem.* ‘a track’
 - **[Berg](b/be/Berg.md)** *masc.* ‘a hill, a mountain’
 - **[Hof](h/ho/Hof.md)** *masc.* ‘a yard, a court’
 - **[Schrift](s/sc/Schrift.md)** *fem.* ‘writing’
