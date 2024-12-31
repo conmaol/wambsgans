@@ -1,6 +1,6 @@
 # bekannt
 
-`bekannt` ‘famous’ is a deverbal [adjective](../../index.md).
+`bekannt` ‘famous’ is a [deverbal adjective](../../deverbalAdjectives.md).
 
 *qv.* **[bekennen](../../../verbs/b/be/bekennen.md)** *vb.* ‘admit’
 
