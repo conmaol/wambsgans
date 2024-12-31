@@ -12,8 +12,11 @@
 >
 > Inzwischen **war** der Tee aufgetragen worden, bequem **lehnte** er sich in den Fauteuil, **durchblätterte** noch einmal die Zeitung und einige Drucksachen; dann **zündete** er sich eine Zigarre an und **griff** nun nach dem zurückgelegten Briefe.
 
+----
 
+Back up to: [Texts](../index.md) | [Top](../../index.md)
 
+----
 
 > WHEN R., the famous novelist, returned to Vienna early in the morning, after a refreshing three-day excursion into the mountains, and bought a newspaper at the railway station, he was reminded as soon as his eye fell on the date that this was his birthday.
 >
