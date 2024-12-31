@@ -1,5 +1,9 @@
 # Verbs
 
+- simple verbs
+- [derived verbs](derivedVerbs.md)
+- compound verbs
+
 Simple verbs:
 - **[fliegen](f/fl/fliegen.md)** *vb.* ‘fly’
 - **[kehren](k/ke/kehren.md)** *vb.* ‘turn’
