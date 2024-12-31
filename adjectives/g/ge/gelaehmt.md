@@ -1,6 +1,6 @@
 # gelähmt
 
-`gelähmt` ‘paralysed’ is a [deverbal adjective](deverbalAdjectives.md).
+`gelähmt` ‘paralysed’ is a [deverbal adjective](../../deverbalAdjectives.md).
 
 *qv.* **[lähmen](../../../verbs/l/lae/laehmen.md)** *vb.* ‘paralyse’
 
