@@ -2,6 +2,8 @@
 
 `vorlegen` ‘present, lay out’ is a [separable verb](../../separableVerbs.md).
 
+qv. **[legen](../../l/le/legen.md)** *vb.* ‘lay’
+
 Examples:
 - (*Am Tage seiner Entlassung konnte Dallow seine Finger nicht bewegen.*) Die [Beamten](../../../nouns/b/be/Beamter.md) <mark>legten</mark> ihm vier [Papiere](../../../nouns/p/pa/Papier.md) vor, die er unterschreiben sollte. (*[Christoph Hein](../../../texts/ChristophHein/DerTangoSpieler.md)*) *‘the officials presented him with four sheets of paper’*
 
