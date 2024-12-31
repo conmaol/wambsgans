@@ -1,6 +1,6 @@
 # Entlassung
 
-`Entlassung` ‘release, discharge, dismissal’ is a feminine [derived noun](../../derivedNouns.md).
+`Entlassung` ‘release, discharge, dismissal’ is a feminine [deverbal noun](../../deverbalNouns.md).
 
 *qv.* **[entlassen](../../../verbs/e/en/entlassen.md)** *vb.* ‘release’
 
