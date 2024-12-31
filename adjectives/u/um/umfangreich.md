@@ -2,7 +2,7 @@
 
 `umfangreich` ‘extensive’ is a compound [adjective](../../index.md).
 
-*qv.* **Umfang** *masc.* ‘an extent’, **reich** *adj.* ‘rich’
+*qv.* **[Umfang](../../../nouns/u/um/Umfang.md)** *masc.* ‘an extent’, **[reich](../../r/re/reich.md)** *adj.* ‘rich’
 
 Examples:
 
