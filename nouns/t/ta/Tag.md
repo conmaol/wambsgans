@@ -1,6 +1,6 @@
 # Tag
 
-`Tag` ‘a day’ is a masculine simple [noun](../../index.md).
+`Tag` ‘a day’ is a masculine [simple noun](../../simpleNouns.md).
 
 Derivatives:
 - **[dreitägig](../../../adjectives/d/dr/dreitaegig.md)** *adj.* ‘lasting for three days’
