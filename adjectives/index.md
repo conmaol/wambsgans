@@ -1,5 +1,7 @@
 # Adjectives
 
+- [simple adjectives](simpleAdjectives.md)
+
 Simple adjectives:
 - **[frisch](f/fr/frisch.md)** *adj.* ‘fresh’
 - **[früh](f/fr/frueh.md)** *adj.* ‘early’
