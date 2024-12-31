@@ -1,6 +1,6 @@
 # Der Tangospieler
 
-> Am [Tage](../../nouns/t/ta/Tag.md) seiner [Entlassung](../../nouns/e/en/Entlassung.md) konnte Dallow seine [Finger](../../nouns/f/fi/Finger.md) nicht [bewegen](../../verbs/b/be/bewegen.md). Sie waren steif und kalt und wie gelähmt. Die Beamten legten ihm vier Papiere vor, die er unterschreiben sollte. Dallow klemmte den Stift zwischen Daumen und Zeigefinger und krakelte mühselig seine Unterschrift.
+> Am [Tage](../../nouns/t/ta/Tag.md) seiner [Entlassung](../../nouns/e/en/Entlassung.md) konnte Dallow seine [Finger](../../nouns/f/fi/Finger.md) nicht [bewegen](../../verbs/b/be/bewegen.md). Sie waren [steif](../../adjectives/s/st/steif.md) und [kalt](../../adjectives/k/ka/kalt.md) und wie [gelähmt](../../adjectives/g/ge/gelähmt). Die Beamten legten ihm vier Papiere vor, die er unterschreiben sollte. Dallow klemmte den Stift zwischen Daumen und Zeigefinger und krakelte mühselig seine Unterschrift.
 >
 > »Was ist mit Ihrer Hand?« fragte der Beamte, der vor ihm saß und ihm zusah.
 >
