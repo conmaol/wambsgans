@@ -1,6 +1,6 @@
 # unterschreiben
 
-`unterschreiben` ‘sign’ is an [inseparable verb](../../inseparableVerbs.md).
+`unterschreiben` ‘sign, write one’s signature’ is an [inseparable verb](../../inseparableVerbs.md).
 
 *qv.* **[schreiben](../../s/sc/schreiben.md)** *vb.* ‘write’
 
