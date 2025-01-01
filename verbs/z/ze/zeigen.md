@@ -1,7 +1,10 @@
 # zeigen
 
-[Zeigefinger](../../../nouns/z/ze/Zeigefinger.md)
+`zeigen` ‘point, show’ is a [simple verb](../../simpleVerbs.md).
+
+Compounds:
+- **[Zeigefinger](../../../nouns/z/ze/Zeigefinger.md)** *masc.* ‘an index finger’
 
 ----
 
-Back up to:
+Back up to: [Verbs](../../index.md) | [Top](../../../index.md)
