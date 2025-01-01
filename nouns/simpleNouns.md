@@ -15,6 +15,7 @@ Disyllables:
 
 French loanwords:
 - **[Roman](r/ro/Roman.md)** *masc.* ‘a novel’
+- **[Papier](p/pa/Papier.md)** *neut.* ‘paper’
 
 ----
 
