@@ -2,7 +2,7 @@
 
 - [simple verbs](simpleVerbs.md)
 - [derived verbs](derivedVerbs.md)
-- compound verbs
+- [compound verbs](compoundVerbs.md)
 
 Simple verbs:
 - **[fliegen](f/fl/fliegen.md)** *vb.* ‘fly’
