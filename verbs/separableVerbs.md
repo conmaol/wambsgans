@@ -1,6 +1,6 @@
 # Separable verbs
 
-- [vorlegen](v/vo/vorlegen.md) *vb.* ‘present’
+- **[vorlegen](v/vo/vorlegen.md)** *vb.* ‘present’
 
 ----
 
