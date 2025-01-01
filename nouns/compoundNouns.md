@@ -1,6 +1,6 @@
 # Compound nouns
 
-- [Zeigefinger](z/ze/Zeigefinger.md) *masc.* ‘an index finger’
+- **[Zeigefinger](z/ze/Zeigefinger.md)** *masc.* ‘an index finger’
 
 ----
 
