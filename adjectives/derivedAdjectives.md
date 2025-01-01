@@ -1,6 +1,7 @@
 # Derived Adjectives
 
 - [deverbal adjectives](deverbalAdjectives.md)
+- [denominal adjectives](denominalAdjectives.md)
 
 ----
 
