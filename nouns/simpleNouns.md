@@ -5,7 +5,6 @@ Monosyllables:
 - **[Bahn](b/ba/Bahn.md)** *fem.* ‘a track’
 - **[Berg](b/be/Berg.md)** *masc.* ‘a hill, a mountain’
 - **[Hof](h/ho/Hof.md)** *masc.* ‘a yard, a court’
-- **[Schrift](s/sc/Schrift.md)** *fem.* ‘writing’
 - **[Tag](t/ta/Tag.md)** *masc.* ‘a day’
 - **[Zeit](z/ze/Zeit.md)** *fem.* ‘(a) time’
 
