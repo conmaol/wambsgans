@@ -1,6 +1,6 @@
 # mühselig
 
-`mühselig` ‘laborious’ is a [derived adjective](../../derivedAdjectives.md).
+`mühselig` ‘laborious’ is a [denominal adjective](../../denominalAdjectives.md).
 
 *qv.* **[Mühsal](../../../nouns/m/mue/Muehsal)** *fem.* ‘hardship’
 
