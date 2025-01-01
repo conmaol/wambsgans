@@ -1,6 +1,7 @@
 # Deverbal nouns
 
 - **[Entlassung](e/en/Entlassung.md)** *fem.* ‘release’
+- **[Schrift](s/sc/Schrift.md)** *fem.* ‘writing, a script’
 
 ----
 
