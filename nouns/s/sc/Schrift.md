@@ -1,6 +1,8 @@
 # Schrift
 
-`Schrift` ‘writing’ is a feminine simple [noun](../../index.md).
+`Schrift` ‘writing, a script’ is a feminine [deverbal noun](../../deverbalNouns.md).
+
+*qv.* **[schreiben](../../../verbs/s/sc/schreiben.md)** *vb.* ‘write’
 
 Compounds:
 - **[Schriftsteller](Schriftsteller.md)** *masc.* ‘a writer’
