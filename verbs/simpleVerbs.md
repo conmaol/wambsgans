@@ -4,6 +4,7 @@
 - **[lassen](l/la/lassen.md)** *vb.* ‘let, allow’
 - **[legen](l/le/legen.md)** *vb.* ‘lay’
 - **[schreiben](s/sc/schreiben.md)** *vb.* ‘write’
+- **[zeigen](z/ze/zeigen.md)** *vb.* ‘point, show’
 
 ----
 
