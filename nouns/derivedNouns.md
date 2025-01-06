@@ -4,6 +4,7 @@
 
 Others:
 - **[Beamte(r)](b/be/Beamter.md)** *masc.* ‘a government employee’
+- **[Mühsal](m/mue/Muehsal.md)** *fem.* ‘hardship’
 
 ----
 
