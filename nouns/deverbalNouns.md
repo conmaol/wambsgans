@@ -2,6 +2,7 @@
 
 - **[Entlassung](e/en/Entlassung.md)** *fem.* ‘release’
 - **[Schrift](s/sc/Schrift.md)** *fem.* ‘writing, a script’
+- **[Schriftsteller](s/sc/Schriftsteller.md)** *masc.* ‘a writer’
 - **[Unterschrift](u/un/Unterschrift.md)** *fem.* ‘a signature’
 
 ----
