@@ -1,8 +1,8 @@
 # kennen
 
-`kennen` ‘know’ is a simple [verb](../../index.md).
+`kennen` ‘know’ is a [simple verb](../../simpleVerbs.md).
 
-Inseparable derivatives:
+Derivatives:
 - **[bekennen](../../b/be/bekennen.md)** *vb.* ‘admit’
 
 ----
