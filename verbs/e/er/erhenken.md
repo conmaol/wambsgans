@@ -2,7 +2,7 @@
 
 `erhenken` ‘hang, kill by hanging’ is an [inseparable verb](../../inseparableVerbs.md).
 
-*qv.* henken
+*qv.* **[henken](../../h/he/henken.md)** *vb.* ‘execute by hanging’
 
 Examples:
 
