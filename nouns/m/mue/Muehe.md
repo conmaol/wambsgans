@@ -1,6 +1,6 @@
 # Mühe
 
-`Mühe` is a feminine [simple noun](../../simpleNouns.md).
+`Mühe` ‘effort, hardship’ is a feminine [simple noun](../../simpleNouns.md).
 
 Derivatives:
 - **[Mühsal](Muehsal.md)** *fem.* ‘hardship’
