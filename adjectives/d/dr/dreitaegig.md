@@ -1,6 +1,6 @@
 # dreitägig
 
-`dreitägig` ‘lasting for three days’ is a [derived adjective](../../derivedAdjectives.md).
+`dreitägig` ‘lasting for three days’ is a [denominal adjective](../../denominalAdjectives.md).
 
 *qv.* **[drei](../../../quantifiers/drei.md)** ‘three’, **[Tag](../../../nouns/t/ta/Tag.md)** *masc.* ‘a day’
 
