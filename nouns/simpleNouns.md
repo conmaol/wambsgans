@@ -13,6 +13,7 @@ Disyllables:
 - **[Daumen](d/da/Daumen.md)** *masc.* ‘a thumb’
 - **[Finger](f/fi/Finger.md)** *masc.* ‘a finger’
 - **[Morgen](m/mo/Morgen.md)** *masc.* ‘a morning’
+- **[Mühe](m/mue/Muehe.md)** *fem.* ‘effort, difficulty’
 
 French loanwords:
 - **[Roman](r/ro/Roman.md)** *masc.* ‘a novel’
