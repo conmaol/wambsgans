@@ -1,6 +1,6 @@
 # früh
 
-`früh` ‘early’ is an [adjective](../../index.md).
+`früh` ‘early’ is a [simple adjective](../../simpleAdjectives.md).
 
 Compounds:
 - **[frühmorgens](../../../adverbs/f/fr/fruehmorgens.md)** *adv.* ‘early in the morning’
