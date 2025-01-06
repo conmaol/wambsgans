@@ -6,7 +6,7 @@
 
 Examples:
 
-> Als der bekannte Romanschriftsteller R. frühmorgens **von dreitägigem erfrischendem [Ausflug](../../a/au/Ausflug.md) ins <mark>Gebirge</mark>** wieder nach Wien zurückkehrte und am Bahnhof eine Zeitung kaufte, wurde er, kaum daß er das Datum überflog, erinnernd gewahr, daß heute sein Geburtstag sei.  (*Stefan Zweig*) – ‘a refreshing three-day excursion into the mountains’
+> Als der bekannte Romanschriftsteller R. frühmorgens von dreitägigem erfrischendem [Ausflug](../../a/au/Ausflug.md) ins <mark>Gebirge</mark> wieder nach Wien zurückkehrte und am Bahnhof eine Zeitung kaufte, wurde er, kaum daß er das Datum überflog, erinnernd gewahr, daß heute sein Geburtstag sei.  (*[Stefan Zweig](../../../texts/StefanZweig/BriefEinerUnbekannten.md)*) *‘a refreshing three-day excursion into the mountains’*
 
 ----
 
