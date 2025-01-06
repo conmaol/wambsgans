@@ -1,5 +1,6 @@
 # Denominal adjectives
 
+- **[dreitägig](d/dr/dreitaegigig.md)** *adj.* ‘lasting for three days’
 - **[mühselig](m/mue/muehselig.md)** *adj.* ‘laborious’
 
 ----
