@@ -1,6 +1,6 @@
 # Schriftsteller
 
-`Schriftsteller` ‘a writer’ is a masculine [derived noun](../../derivedNouns.md).
+`Schriftsteller` ‘a writer’ is a masculine [deverbal noun](../../deverbalNouns.md).
 
 *qv.* **[Schrift](Schrift.md)** *fem.* ‘writing’
 
