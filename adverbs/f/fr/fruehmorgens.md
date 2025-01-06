@@ -6,7 +6,7 @@
 
 Examples:
 
-> Als der bekannte Romanschriftsteller R. <mark>frühmorgens</mark> von dreitägigem erfrischendem Ausflug ins Gebirge wieder nach Wien [zurückkehrte](../../../verbs/z/zu/zurueckkehren.md) und am Bahnhof eine Zeitung [kaufte](../../../verbs/k/ka/kaufen.md), wurde er, kaum daß er das Datum überflog, erinnernd gewahr, daß heute sein Geburtstag sei. (*[Stefan Zweig](../../../texts/StefanZweig/BriefEinerUnbekannten.md)*) *‘the famous novelist returned to Vienna early in the morning’*
+> Als der bekannte Romanschriftsteller R. <mark>frühmorgens</mark> von dreitägigem erfrischendem Ausflug ins Gebirge wieder nach Wien [zurückkehrte](../../../verbs/z/zu/zurueckkehren.md) und am Bahnhof eine Zeitung [kaufte](../../../verbs/k/ka/kaufen.md), wurde er, kaum daß er das Datum überflog, erinnernd gewahr, daß heute sein Geburtstag sei. (*[Stefan Zweig](../../../texts/StefanZweig/BriefEinerUnbekannten.md)*) *‘the famous novelist returned to Vienna early in the morning and bought a newspaper’*
 
 ----
 
