@@ -1,8 +1,8 @@
 # bekennen
 
-`bekennen` ‘admit’ is an inseparable [verb](../../index.md).
+`bekennen` ‘admit’ is an [inseparable verb](../../inseparableVerbs.md).
 
-*qv.* **[be-](../../prefixes/be_.md)**, **[kennen](../../k/ke/kennen.md)** *vb.* ‘know’
+*qv.* **[kennen](../../k/ke/kennen.md)** *vb.* ‘know’
 
 Derivatives:
 - **[bekannt](../../../adjectives/b/be/bekannt.md)** *adj.* ‘famous’ 
