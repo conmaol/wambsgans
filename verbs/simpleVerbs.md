@@ -1,5 +1,6 @@
 # Simple verbs
 
+- **[kennen](k/ke/kennen.md)** *vb.* ‘know’
 - **[klemmen](k/kl/klemmen.md)** *vb.* ‘clamp’
 - **[krakeln](k/kr/krakeln.md)** *vb.* ‘scrawl’
 - **[lassen](l/la/lassen.md)** *vb.* ‘let, allow’
