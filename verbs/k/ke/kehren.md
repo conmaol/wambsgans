@@ -1,8 +1,8 @@
 # kehren
 
-`kehren` ‘turn’ is a simple [verb](../../index.md).
+`kehren` ‘turn’ is a [simple verb](../../simpleVerbs.md).
 
-Separable derivatives:
+Compounds:
 - **[zurückkehren](../../z/zu/zurueckkehren.md)** *vb.* ‘return’
 
 ----
