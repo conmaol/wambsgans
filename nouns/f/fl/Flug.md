@@ -1,6 +1,6 @@
 # Flug
 
-`Flug` ‘flight’ is a masculine deverbal [noun](../../index.md).
+`Flug` ‘flight’ is a masculine [deverbal noun](../../deverbalNouns.md).
 
 *qv.* **[fliegen](../../../verbs/f/fl/fliegen.md)** *vb.* ‘fly’
 
