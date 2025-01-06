@@ -1,5 +1,6 @@
 # Inseparable verbs
 
+- **[bekennen](b/be/bekennen.md)** *vb.* ‘accept’
 - **[bewegen](b/be/bewegen.md)** *vb.* ‘move’
 - **[entlassen](e/en/entlassen.md)** *vb.* ‘release’
 - **[unterschreiben](u/un/unterschreiben.md)** *vb.* ‘sign’
