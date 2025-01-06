@@ -1,6 +1,6 @@
 # Roman
 
-`Roman` ‘a novel’ is a masculine simple [noun](../../index.md).
+`Roman` ‘a novel’ is a masculine [simple noun](../../simpleNouns.md).
 
 Compounds:
   - **[Romanschriftsteller](Romanschriftsteller.md)** *masc.* ‘a novelist’
