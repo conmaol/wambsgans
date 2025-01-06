@@ -1,6 +1,7 @@
 # Simple verbs
 
 - **[fliegen](f/fl/fliegen.md)** *vb.* ‘fly’
+- **[henken](h/he/henken.md)** *vb.* ‘hang’
 - **[kehren](k/ke/kehren.md)** *vb.* ‘turn’
 - **[kennen](k/ke/kennen.md)** *vb.* ‘know’
 - **[klemmen](k/kl/klemmen.md)** *vb.* ‘clamp’
