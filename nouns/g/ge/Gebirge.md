@@ -1,6 +1,6 @@
 # Gebirge
 
-`Gebirge` ‘a mountain range’ is a neuter [noun](../../index.md).
+`Gebirge` ‘a mountain range’ is a neuter [derived noun](../../derivedNouns.md).
 
 *qv.* **[Berg](../../b/be/Berg.md)** *masc.* ‘a hill, a mountain’
 
