@@ -1,5 +1,6 @@
 # Compound nouns
 
+- **[Romanschriftsteller](r/ro/Romanschriftsteller.md)** *masc.* ‘a novelist’
 - **[Zeigefinger](z/ze/Zeigefinger.md)** *masc.* ‘an index finger’
 
 ----
