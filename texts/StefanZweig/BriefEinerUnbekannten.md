@@ -1,6 +1,6 @@
 # Brief einer Unbekannten
 
-> Als der [bekannte](../../adjectives/b/be/bekannt.md) [Romanschriftsteller](../../nouns/r/ro/Romanschriftsteller.md) R. [frühmorgens](../../adverbs/f/fr/fruehmorgens.md) von [dreitägigem](../../adjectives/d/dr/dreitaegig.md) [erfrischendem](../../adjectives/e/er/erfrischend.md) [Ausflug](../../nouns/a/au/Ausflug.md) ins Gebirge wieder nach Wien [zurückkehrte](verbs/z/zu/zurueckkehren.md) und am Bahnhof eine Zeitung [kaufte](verbs/k/ka/kaufen.md), wurde er, kaum daß er das Datum [überflog](verbs/ue/ueb/ueberfliegen.md), erinnernd [gewahr](adjectives/g/ge/gewahr.md), daß heute sein Geburtstag sei.
+> Als der [bekannte](../../adjectives/b/be/bekannt.md) [Romanschriftsteller](../../nouns/r/ro/Romanschriftsteller.md) R. [frühmorgens](../../adverbs/f/fr/fruehmorgens.md) von [dreitägigem](../../adjectives/d/dr/dreitaegig.md) [erfrischendem](../../adjectives/e/er/erfrischend.md) [Ausflug](../../nouns/a/au/Ausflug.md) ins [Gebirge](../../nouns/g/ge/Gebirge.md) wieder nach Wien [zurückkehrte](verbs/z/zu/zurueckkehren.md) und am Bahnhof eine Zeitung [kaufte](verbs/k/ka/kaufen.md), wurde er, kaum daß er das Datum [überflog](verbs/ue/ueb/ueberfliegen.md), erinnernd [gewahr](adjectives/g/ge/gewahr.md), daß heute sein Geburtstag sei.
 >
 > Der einundvierzigste, **besann** er sich rasch, und diese Feststellung **tat** ihm nicht wohl und nicht weh.
 >
