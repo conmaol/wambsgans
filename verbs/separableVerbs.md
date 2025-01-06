@@ -1,5 +1,6 @@
 # Separable verbs
 
+- **[ausfliegen](a/au/ausfliegen.md)** *vb.* ‘fly out’
 - **[vorlegen](v/vo/vorlegen.md)** *vb.* ‘present’
 
 ----
