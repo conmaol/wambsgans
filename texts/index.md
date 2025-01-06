@@ -1,7 +1,7 @@
 # Texts
 
-Heinrich von Kleist ():
-- *Das Erdbeben in Chile* ()
+Heinrich von Kleist (1777-1811):
+- **[Das Erdbeben in Chile](Kleist/DasErdbebenInChili.md)** (1807)
 
 Stefan Zweig (1882–1942):
 - **[Brief einer Unbekannten](StefanZweig/BriefEinerUnbekannten.md)** (1922)
