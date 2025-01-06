@@ -1,8 +1,8 @@
 # ausfliegen
 
-`ausfliegen` ’fly out’ is a separable [verb](../../index.md).
+`ausfliegen` ’fly out’ is a [separable verb](../../separableVerbs.md).
 
-*qv.* **[aus](../../../prepositions/aus.md)** *prep.* ‘out of’, **[fliegen](../../f/fl/fliegen.md)** *vb.* ‘fly’
+*qv.* **[fliegen](../../f/fl/fliegen.md)** *vb.* ‘fly’
 
 Derivatives:
 - **[Ausflug](../../../nouns/a/au/Ausflug.md)** *masc.* ‘(an) excursion’
