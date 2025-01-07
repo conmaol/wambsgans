@@ -1,6 +1,6 @@
 # angeklagt
 
-`angeklagt` ‘indicted, charged, accused’ is a [deverbal adjective](../../deverbalAdjectives).
+`angeklagt` ‘indicted, charged, accused’ is a [deverbal adjective](../../deverbalAdjectives.md).
 
 qv. **[anklagen](../../../verbs/a/an/anklagen.md)** *vb.* ‘indict’
 
