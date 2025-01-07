@@ -5,4 +5,6 @@
 Derivatives:
 - **[Spanier](Spanier.md)** *masc.* ‘a Spaniard’
 
+----
+
 Back up to: [Nouns](../../index.md) | [Top](../../../index.md)
