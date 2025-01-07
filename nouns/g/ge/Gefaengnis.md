@@ -2,7 +2,7 @@
 
 `Gefängnis` ‘a prison’ is a neuter [derived noun](../../derivedNouns.md).
 
-*qv.*
+*qv.* **[gefangen](../../../adjectives/g/ge/gefangen.md)** *adj.* ‘caught’
 
 Examples:
 
