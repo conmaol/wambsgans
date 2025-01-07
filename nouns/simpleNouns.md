@@ -18,6 +18,7 @@ Disyllables:
 - **[König](k/koe/Koenig.md)** *masc.* ‘a king’
 - **[Morgen](m/mo/Morgen.md)** *masc.* ‘a morning’
 - **[Mühe](m/mue/Muehe.md)** *fem.* ‘effort, difficulty’
+- **[Pfeiler](p/pf/Pfeiler.md)** *masc.* ‘a pillar’
 
 French loanwords:
 - **[Roman](r/ro/Roman.md)** *masc.* ‘a novel’
