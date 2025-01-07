@@ -1,5 +1,6 @@
 # Compound nouns
 
+- **[Hauptstadt](h/ha/Hauptstadt.md)** *fem.* ‘a capital city’
 - **[Romanschriftsteller](r/ro/Romanschriftsteller.md)** *masc.* ‘a novelist’
 - **[Zeigefinger](z/ze/Zeigefinger.md)** *masc.* ‘an index finger’
 
