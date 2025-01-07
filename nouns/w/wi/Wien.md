@@ -1,6 +1,6 @@
 # Wien
 
-`Wien` ‘Vienna’ is a proper [noun](../../index.md).
+`Wien` ‘Vienna’ is a neuter proper [noun](../../index.md).
 
 Examples:
 
