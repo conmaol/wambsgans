@@ -12,6 +12,7 @@
 - **[lassen](l/la/lassen.md)** *vb.* ‘let, allow’
 - **[legen](l/le/legen.md)** *vb.* ‘lay’
 - **[schreiben](s/sc/schreiben.md)** *vb.* ‘write’
+- **[sperren](s/sp/sperren.md)** *vb.* ‘lock’
 - **[stehen](s/st/stehen.md)** *vb.* ‘stand’
 - **[zeigen](z/ze/zeigen.md)** *vb.* ‘point, show’
 
