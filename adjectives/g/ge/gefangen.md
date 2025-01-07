@@ -1,6 +1,6 @@
 # gefangen
 
-`gefangen` ‘caught, imprisoned, trapped’ is a [deverbal adjective](../../deverbalSdjectives.md).
+`gefangen` ‘caught, imprisoned, trapped’ is a [deverbal adjective](../../deverbalAdjectives.md).
 
 *qv.* **[fangen](../../../verbs/f/fa/fangen.md)** *vb.* ‘catch’
 
