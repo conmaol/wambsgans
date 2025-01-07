@@ -14,6 +14,7 @@ Monosyllables:
 Disyllables:
 - **[Daumen](d/da/Daumen.md)** *masc.* ‘a thumb’
 - **[Finger](f/fi/Finger.md)** *masc.* ‘a finger’
+- **[König](k/koe/Koenig.md)** *masc.* ‘a king’
 - **[Morgen](m/mo/Morgen.md)** *masc.* ‘a morning’
 - **[Mühe](m/mue/Muehe.md)** *fem.* ‘effort, difficulty’
 
