@@ -4,6 +4,7 @@
 - **[henken](h/he/henken.md)** *vb.* ‘hang’
 - **[kehren](k/ke/kehren.md)** *vb.* ‘turn’
 - **[kennen](k/ke/kennen.md)** *vb.* ‘know’
+- **[klagen](k/kl/klagen.md)** *vb.* ‘complain’
 - **[klemmen](k/kl/klemmen.md)** *vb.* ‘clamp’
 - **[krakeln](k/kr/krakeln.md)** *vb.* ‘scrawl’
 - **[lassen](l/la/lassen.md)** *vb.* ‘let, allow’
