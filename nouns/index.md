@@ -5,7 +5,8 @@
 - [compound nouns](compoundNouns.md)
 
 Proper nouns:
-- **[Wien](w/wi/Wien.md)** ‘Vienna’
+- **[Spanien](s/sp/Spanien.md)** *neut.* ‘Spain’
+- **[Wien](w/wi/Wien.md)** *neut.* ‘Vienna’
 
 ----
 
