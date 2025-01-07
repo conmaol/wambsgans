@@ -2,7 +2,7 @@
 
 `anklagen` ‘indict, charge, accuse’ is a [separable verb](../../separableVerbs.md).
 
-qv. **klagen** *vb.* ‘complain’
+qv. **[klagen](../../k/kl/klagen.md)** *vb.* ‘complain’
 
 Examples:
 
