@@ -1,5 +1,6 @@
 # Simple verbs
 
+- **[brechen](b/br/brechen.md)** *vb.* ‘break’
 - **[fliegen](f/fl/fliegen.md)** *vb.* ‘fly’
 - **[henken](h/he/henken.md)** *vb.* ‘hang’
 - **[kehren](k/ke/kehren.md)** *vb.* ‘turn’
