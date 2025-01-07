@@ -6,6 +6,7 @@ Monosyllables:
 - **[Berg](b/be/Berg.md)** *masc.* ‘a hill, a mountain’
 - **[Haupt](h/ha/Haupt.md)** *neut.* ‘a head’
 - **[Hof](h/ho/Hof.md)** *masc.* ‘a yard, a court’
+- **[Stadt](s/st/Stadt.md)** *fem.* ‘a town’
 - **[Stift](s/st/Stift.md)** *masc.* ‘a pin, a pen’
 - **[Tag](t/ta/Tag.md)** *masc.* ‘a day’
 - **[Zeit](z/ze/Zeit.md)** *fem.* ‘(a) time’
