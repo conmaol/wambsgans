@@ -1,5 +1,6 @@
 # Separable verbs
 
+- **[anklagen](a/an/anklagen.md)** *vb.* ‘indict’
 - **[ausfliegen](a/au/ausfliegen.md)** *vb.* ‘fly out’
 - **[vorlegen](v/vo/vorlegen.md)** *vb.* ‘present’
 - **[zurückkehren](z/zu/zurueckkehren.md)** *vb.* ‘return’
