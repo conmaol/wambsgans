@@ -6,6 +6,7 @@
 - **[erfrischen](e/er/erfrischen.md)** *vb.* ‘refresh’
 - **[erhenken](e/er/erhenken.md)** *vb.* ‘kill by hanging’
 - **[unterschreiben](u/un/unterschreiben.md)** *vb.* ‘sign’
+- **[verbrechen](v/ve/verbrechen.md)** *vb.* ‘breach’
 
 ----
 
