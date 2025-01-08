@@ -4,6 +4,7 @@ Monosyllables:
 - **[Amt](a/am/Amt.md)** *neut.* ‘a government employee’
 - **[Bahn](b/ba/Bahn.md)** *fem.* ‘a track’
 - **[Berg](b/be/Berg.md)** *masc.* ‘a hill, a mountain’
+- **[Grund](g/gr/Grund.md)** *masc.* ‘ground’
 - **[Haupt](h/ha/Haupt.md)** *neut.* ‘a head’
 - **[Hof](h/ho/Hof.md)** *masc.* ‘a yard, a court’
 - **[Reich](r/re/Reich.md)** *neut.* ‘a realm’
