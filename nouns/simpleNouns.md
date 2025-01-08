@@ -20,7 +20,8 @@ Disyllables:
 - **[Mühe](m/mue/Muehe.md)** *fem.* ‘effort, difficulty’
 - **[Pfeiler](p/pf/Pfeiler.md)** *masc.* ‘a pillar’
 
-French loanwords:
+Loanwords:
+- **[Analyse](a/an/Analyse.md)** *fem.* ‘an analysis’
 - **[Roman](r/ro/Roman.md)** *masc.* ‘a novel’
 - **[Papier](p/pa/Papier.md)** *neut.* ‘paper’
 
