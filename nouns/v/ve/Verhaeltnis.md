@@ -5,7 +5,7 @@
 *qv.* **[verhalten](../../../verbs/v/ve/verhalten.md)** *vb.* ‘behave’
 
 Compounds:
-- [Grundverhältnis](../../g/gr/Grundverhaeltnis.md) *neut.* ‘a basic relationship’
+- **[Grundverhältnis](../../g/gr/Grundverhaeltnis.md)** *neut.* ‘a basic relationship’
 
 ----
 
