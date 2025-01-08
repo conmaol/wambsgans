@@ -3,7 +3,7 @@
 `kommen` ‘come’ is a [simple verb](../../simpleVerbs.md).
 
 Derivatives:
-- [bekommen](../../b/be/bekommen.md) ‘receive, get’
+- **[bekommen](../../b/be/bekommen.md)** ‘receive, get’
 
 ----
 
