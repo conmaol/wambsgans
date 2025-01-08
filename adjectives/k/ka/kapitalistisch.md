@@ -1,6 +1,6 @@
 # kapitalistisch
 
-`kapitalistisch` ‘capitalist(ic)’ is a [derived adjective](../../derivedAdjectives.md).
+`kapitalistisch` ‘capitalist(ic)’ is a [denominal adjective](../../denominalAdjectives.md).
 
 qv. **[Kapitalist](../../../nouns/k/ka/Kapitalist.md)** *masc.* ‘a capitalist’
 
