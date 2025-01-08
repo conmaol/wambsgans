@@ -1,0 +1,11 @@
+# Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit
+
+## Vorwort
+
+Als Marx die Analyse der kapitalistischen Produktionsweise unternahm, war diese Productionsweise in den Anfängen. Marx richtete seine Unternehmungen so ein, daß sie prognostischen Wert bekamen. Er ging auf die Grundverhältnisse der kapitalistischen Produktion zurück und stellte sie so dar, daß sich aus ihnen ergab, was man künftighin dem Kapitalismus noch zutrauen könne. Es ergab sich, daß man ihm nicht nur eine zunehmend verschärfte Ausbeutung der Proletarier zutrauen könne, sondern schließlich auch die Herstellung von Bedingungen, die die Abschaffung seiner selbst möglich machen.
+
+Die Umwälzung des Überbaus, die viel langsamer als die des Unterbaus vor sich geht, hat mehr als ein halbes Jahrhundert gebraucht, um auf allen Kulturgebieten die Veränderung der Produktionsbedingungen zur Geltung zu bringen.
+
+----
+
+Back up to: [Texts](../index.md) | [Top](../../index.md)
