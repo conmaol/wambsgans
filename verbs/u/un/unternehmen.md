@@ -4,6 +4,8 @@
 
 qv. **[nehmen](../../n/ne/nehmen.md)** *vb.* ‘take’
 
+Examples:
+
 > Als Marx die [Analyse](../../../nouns/a/an/Analyse.md) der kapitalistischen Produktionsweise <mark>unternahm</mark>, war diese Productionsweise in den Anfängen. (*[Walter Benjamin](../../../texts/WalterBenjamin/DasKunstWerk.md)*) *‘When Marx undertook the analysis of the capitalist mode of production, ...’*
 
 ----
