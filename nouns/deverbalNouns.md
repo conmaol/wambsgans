@@ -9,6 +9,7 @@
 - **[Unternehmung](u/un/Unternehmung.md)** *fem.* ‘an undertaking’
 - **[Unterschrift](u/un/Unterschrift.md)** *fem.* ‘a signature’
 - **[Verbrechen](v/ve/Verbrechen.md)** *neut.* ‘a crime’
+- **[Verhältnis](v/ve/Verhältnis.md)** *neut.* ‘a relation(ship)’
 
 ----
 
