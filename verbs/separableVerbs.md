@@ -6,6 +6,7 @@
 - **[einrichten](e/ei/einrichten.md)** *vb.* ‘set up’
 - **[einsperren](e/ei/einsperren.md)** *vb.* ‘lock up’
 - **[vorlegen](v/vo/vorlegen.md)** *vb.* ‘present’
+- **[zurückgehen](z/zu/zurueckgehen.md)** *vb.* ‘return’
 - **[zurückkehren](z/zu/zurueckkehren.md)** *vb.* ‘return’
 
 ----
