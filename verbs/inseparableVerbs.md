@@ -9,6 +9,7 @@
 - **[unternehmen](u/un/unternehmen.md)** *vb.* ‘undertake’
 - **[unterschreiben](u/un/unterschreiben.md)** *vb.* ‘sign’
 - **[verbrechen](v/ve/verbrechen.md)** *vb.* ‘breach’
+- **[verhalten](v/ve/verhalten.md)** *vb.* ‘behave’
 
 ----
 
