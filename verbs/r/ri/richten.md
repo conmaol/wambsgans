@@ -1,6 +1,6 @@
 # richten
 
-`richten` ‘direct, point, straighten’ is a [derived verb](../../derivedVerbs.md).
+`richten` ‘direct, point, straighten’ is a [de-adjectival verb](../../deAdjectivalVerbs.md).
 
 *qv.* **[recht](../../../adjectives/r/re/recht.md)** *adj.* ‘right, straight’
 
