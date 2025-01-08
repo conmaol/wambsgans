@@ -22,8 +22,9 @@ Disyllables:
 
 Loanwords:
 - **[Analyse](a/an/Analyse.md)** *fem.* ‘an analysis’
-- **[Roman](r/ro/Roman.md)** *masc.* ‘a novel’
 - **[Papier](p/pa/Papier.md)** *neut.* ‘paper’
+- **[Produktion](p/pr/Produktion.md)** *fem.* ‘(a) production’
+- **[Roman](r/ro/Roman.md)** *masc.* ‘a novel’
 
 ----
 
