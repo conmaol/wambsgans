@@ -1,5 +1,6 @@
 # Deverbal nouns
 
+- **[Anfang](a/an/Anfang.md)** *masc.* ‘a beginning’
 - **[Ausflug](a/au/Ausflug.md)** *masc.* ‘an excursion’
 - **[Entlassung](e/en/Entlassung.md)** *fem.* ‘release’
 - **[Flug](f/fl/Flug.md)** *masc.* ‘(a) flight’
