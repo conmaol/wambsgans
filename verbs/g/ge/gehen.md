@@ -2,8 +2,9 @@
 
 `gehen` ‘go’ is a [simple verb](../../simpleVerbs.md).
 
-zurückgehen *vb.* ‘return’
+Compounds:
+- **[zurückgehen](../../z/zu/zurueckgehen.md)** *vb.* ‘return’
 
 ----
 
-Back up to: 
+Back up to: [Verbs](../../index.md) | [Top](../../../index.md)
