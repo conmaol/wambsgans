@@ -1,5 +1,6 @@
 # Separable verbs
 
+- **[anfangen](a/an/anfangen.md)** *vb.* ‘begin’
 - **[anklagen](a/an/anklagen.md)** *vb.* ‘indict’
 - **[ausfliegen](a/au/ausfliegen.md)** *vb.* ‘fly out’
 - **[einsperren](e/ei/einsperren.md)** *vb.* ‘lock up’
