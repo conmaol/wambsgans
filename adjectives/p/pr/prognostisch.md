@@ -1,6 +1,6 @@
 # prognostisch
 
-`prognostisch` ‘prognostic, predictive’ is a [derived adjective](../../index.md).
+`prognostisch` ‘prognostic, predictive’ is a [denominal adjective](../../denominalAdjectives.md).
 
 *qv.* **[Prognose](../../../nouns/p/pr/Prognose.md)** *fem.* ‘a prognosis’
 
