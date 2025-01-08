@@ -6,7 +6,7 @@
 
 Examples:
 
-> \[Marx\] <mark>ging</mark> auf die Grundverhältnisse der kapitalistischen Produktion <mark>zurück</mark> und stellte sie so dar, daß sich aus ihnen ergab, was man künftighin dem Kapitalismus noch zutrauen könne. (*[Walter Benjamin](../../../texts/WalterBenjamin/DasKunstWerk.md)*) *‘Marx returned to the fundamental relationships of capitalistic production’*
+> \[Marx\] <mark>ging</mark> auf die [Grundverhältnisse](../../../nouns/g/gr/Grundverhaeltnis.md) der kapitalistischen Produktion <mark>zurück</mark> und stellte sie so dar, daß sich aus ihnen ergab, was man künftighin dem Kapitalismus noch zutrauen könne. (*[Walter Benjamin](../../../texts/WalterBenjamin/DasKunstWerk.md)*) *‘Marx returned to the fundamental relationships of capitalistic production’*
 
 ----
 
