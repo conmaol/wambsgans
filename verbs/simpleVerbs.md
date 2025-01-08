@@ -3,6 +3,7 @@
 - **[brechen](b/br/brechen.md)** *vb.* ‘break’
 - **[fangen](f/fa/fangen.md)** *vb.* ‘catch’
 - **[fliegen](f/fl/fliegen.md)** *vb.* ‘fly’
+- **[gehen](g/ge/gehen.md)** *vb.* ‘go’
 - **[henken](h/he/henken.md)** *vb.* ‘hang’
 - **[kehren](k/ke/kehren.md)** *vb.* ‘turn’
 - **[kennen](k/ke/kennen.md)** *vb.* ‘know’
