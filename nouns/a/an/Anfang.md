@@ -6,7 +6,7 @@
 
 Examples:
 
-> Als Marx die Analyse der kapitalistischen Produktionsweise unternahm, war diese [Productionsweise](../../p/pr/Produktionsweise.md) in den <mark>Anfängen</mark>. (*[Walter Benjamin](../../../texts/WalterBenjamin/DasKunstWerk.md)*) *‘the capitalist mode of production was in the starts’*
+> Als Marx die Analyse der kapitalistischen Produktionsweise unternahm, war diese [Productionsweise](../../p/pr/Produktionsweise.md) in den <mark>Anfängen</mark>. (*[Walter Benjamin](../../../texts/WalterBenjamin/DasKunstWerk.md)*) *‘the capitalist mode of production was in its early stages’*
 
 
 ----
