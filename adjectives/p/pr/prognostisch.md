@@ -1,7 +1,8 @@
 # prognostisch
 
+`prognostisch` ‘prognostic, predictive’ is a [derived adjective](../../index.md).
 
-qv. Prognose fem. ‘a prognosis’
+*qv.* **[Prognose](../../../nouns/p/pr/Prognose.md)** *fem.* ‘a prognosis’
 
 Examples:
 
