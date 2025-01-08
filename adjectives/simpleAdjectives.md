@@ -4,6 +4,7 @@
 - **[früh](f/fr/frueh.md)** *adj.* ‘early’
 - **[kalt](k/ka/kalt.md)** *adj.* ‘cold’
 - **[lahm](l/la/lahm.md)** *adj.* ‘lame’
+- **[recht](r/re/recht.md)** *adj.* ‘right’
 - **[steif](s/st/steif.md)** *adj.* ‘stiff’
 
 ----
