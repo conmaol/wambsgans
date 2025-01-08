@@ -1,8 +1,8 @@
 # verhalten
 
-verhalten is an inseparable verb.
+`verhalten` ‘behave’ is an [inseparable verb](../../inseparableVerbs.md).
 
-qv. halten
+*qv.* halten
 
 Derivatives:
 - **[Verhältnis](../../../nouns/v/ve/Verhaeltnis.md)** *neut.* ‘a relation(ship)’
