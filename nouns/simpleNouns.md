@@ -19,6 +19,7 @@ Disyllables:
 - **[Morgen](m/mo/Morgen.md)** *masc.* ‘a morning’
 - **[Mühe](m/mue/Muehe.md)** *fem.* ‘effort, difficulty’
 - **[Pfeiler](p/pf/Pfeiler.md)** *masc.* ‘a pillar’
+- **[Weise](w/we/Weise.md)** *fem.* ‘a way’
 
 Loanwords:
 - **[Analyse](a/an/Analyse.md)** *fem.* ‘an analysis’
