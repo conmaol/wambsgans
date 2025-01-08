@@ -2,10 +2,10 @@
 
 `Verhältnis` ‘a relation(ship)’ is a neuter [deverbal noun](../../deverbalNouns.md).
 
-qv. verhalten *vb.* ‘behave’
+*qv.* **[verhalten](../../../verbs/v/ve/verhalten.md)** *vb.* ‘behave’
 
 Compounds:
-- Grundverhältnis neut. ‘a basic relationship’
+- [Grundverhältnis](../../g/gr/Grundverhaeltnis.md) *neut.* ‘a basic relationship’
 
 ----
 
