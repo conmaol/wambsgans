@@ -1,6 +1,6 @@
 # zutrauen
 
-`zutrauen` ‘think someone capable of’ is a [separable verb](../../separableVerbs.md).
+`zutrauen` ‘think someone capable of, expect someone to do’ is a [separable verb](../../separableVerbs.md).
 
 *qv.* **[trauen](../../t/tr/trauen.md)** *vb.* ‘trust’
 
