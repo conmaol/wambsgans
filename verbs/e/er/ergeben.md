@@ -2,7 +2,7 @@
 
 `ergeben` ‘yield, produce, surrender, arise’ is an [inseparable verb](../../inseparableVerbs.md).
 
-qv. geben *vb.* ‘give’
+*qv.* **[geben](../../g/ge/geben.md)** *vb.* ‘give’
 
 Examples:
 
