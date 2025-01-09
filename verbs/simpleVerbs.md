@@ -18,6 +18,7 @@
 - **[schreiben](s/sc/schreiben.md)** *vb.* ‘write’
 - **[sperren](s/sp/sperren.md)** *vb.* ‘lock’
 - **[stehen](s/st/stehen.md)** *vb.* ‘stand’
+- **[trauen](t/tr/trauen.md)** *vb.* ‘trust’
 - **[zeigen](z/ze/zeigen.md)** *vb.* ‘point, show’
 
 ----
