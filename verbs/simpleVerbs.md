@@ -3,6 +3,7 @@
 - **[brechen](b/br/brechen.md)** *vb.* ‘break’
 - **[fangen](f/fa/fangen.md)** *vb.* ‘catch’
 - **[fliegen](f/fl/fliegen.md)** *vb.* ‘fly’
+- **[geben](g/ge/geben.md)** *vb.* ‘give’
 - **[gehen](g/ge/gehen.md)** *vb.* ‘go’
 - **[halten](h/ha/halten.md)** *vb.* ‘hold’
 - **[henken](h/he/henken.md)** *vb.* ‘hang’
