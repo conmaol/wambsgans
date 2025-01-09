@@ -1,6 +1,6 @@
 # künftighin
 
-`künftighin` ‘in the future’ is an [adverb](../../index.md).
+`künftighin` ‘in (the) future’ is an [adverb](../../index.md).
 
 qv. **[künftig](../../../adjectives/k/kue/kuenftig.md)** *adj.* ‘future’
 
