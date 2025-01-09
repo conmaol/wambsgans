@@ -1,6 +1,6 @@
 # künftig
 
-`künftig` ‘future’ is a [derived adjective](../../derivedAdjectives.md).
+`künftig` ‘future’ is a [denominal adjective](../../denominalAdjectives.md).
 
 qv. **[Kunft](../../../nouns/k/ku/Kunft.md)** *fem.* ‘coming’
 
