@@ -1,6 +1,6 @@
 # stellen
 
-`stellen` ‘put’ is a simple [verb](../../index.md).
+`stellen` ‘put’ is a [simple verb](../../simpleVerbs.md).
 
 Compounds:
 - **[darstellen](../../d/da/darstellen.md)** *vb.* ‘depict’
