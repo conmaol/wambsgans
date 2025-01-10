@@ -1,6 +1,6 @@
 # zunehmend
 
-`zunehmend` ‘increasing’ is a [derived adjective](../../derivedAdjectives.md).
+`zunehmend` ‘increasing’ is a [deverbal adjective](../../deverbalAdjectives.md).
 
 *qv.* **[zunehmen](../../../verbs/z/zu/zunehmen.md)** *vb.* ‘increase’
 
