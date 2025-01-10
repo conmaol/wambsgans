@@ -1,5 +1,8 @@
 # verschärft
 
+`verschärft` ‘tightened, aggravated, exacerbated’ is a [deverbal adjective](../../deverbalAdjectives.md).
+
+*qv.* **[verschärfen](../../../verbs/v/ve/verschaerfen.md)** *vb.* ‘aggravate’
 
 Examples:
 
