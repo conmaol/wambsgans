@@ -3,7 +3,7 @@
 `scharf` ‘sharp’ is a [simple adjective](../../simpleAdjectives.md).
 
 Derivatives:
-- [schärfen](../../../verbs/s/sc/schaerfen.md) *vb.* ‘sharpen’
+- **[schärfen](../../../verbs/s/sc/schaerfen.md)** *vb.* ‘sharpen’
 
 ----
 
