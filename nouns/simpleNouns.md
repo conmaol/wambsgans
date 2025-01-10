@@ -15,6 +15,7 @@ Monosyllables:
 - **[Zeit](z/ze/Zeit.md)** *fem.* ‘(a) time’
 
 Disyllables:
+- **[Beute](b/be/Beute.md)** *fem.* ‘booty’
 - **[Daumen](d/da/Daumen.md)** *masc.* ‘a thumb’
 - **[Finger](f/fi/Finger.md)** *masc.* ‘a finger’
 - **[König](k/koe/Koenig.md)** *masc.* ‘a king’
