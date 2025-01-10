@@ -1,6 +1,6 @@
 # schärfen
 
-`schärfen` ‘sharpen’ is a [derived verb](../../derivedVerbs.md).
+`schärfen` ‘sharpen’ is a [de-adjectival verb](../../deAdjectivalVerbs.md).
 
 *qv.* **[scharf](../../../adjectives/s/sc/scharf.md)** *adj.* ‘sharp’
 
