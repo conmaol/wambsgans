@@ -4,6 +4,7 @@
 
 Derivatives:
 - **[unternehmen](../../u/un/unternehmen.md)** *vb.* ‘undertake’
+- **[zunehmen](../../z/zu/zunehmen.md)** *vb.* ‘increase’
 
 ----
 
