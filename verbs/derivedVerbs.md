@@ -2,6 +2,7 @@
 
 - [inseparable verbs](inseparableVerbs.md)
 - [de-adjectival verbs](deAdjectivalVerbs.md)
+- [denominal verbs](denominalVerbs.md)
 
 ----
 
