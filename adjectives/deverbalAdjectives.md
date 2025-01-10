@@ -4,7 +4,8 @@
 - **[bekannt](b/be/bekannt.md)** *adj.* ‘famous’
 - **[erfrischend](e/er/erfrischend.md)** *adj.* ‘refreshing’
 - **[gefangen](g/ge/gefangen.md)** *adj.* ‘caught’
-- **[gelähmt](g/ge/gelaehmt.md)** ‘paralysed’
+- **[gelähmt](g/ge/gelaehmt.md)** *adj.* ‘paralysed’
+- **[verschärft](v/ve/verschaerft.md)** *adj.* ‘aggravated’
 
 ----
 
