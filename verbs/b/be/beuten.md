@@ -1,6 +1,6 @@
 # beuten
 
-`beuten` ‘plunder, acquire loot, treat as booty’ is a [derived verb](../../derivedVerbs.md).
+`beuten` ‘plunder, acquire loot, treat as booty’ is a [denominal verb](../../denominalVerbs.md).
 
 qv. **[Beute](../../../nouns/b/be/Beute.md)** *fem.* ‘booty’
 
