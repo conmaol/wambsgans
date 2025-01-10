@@ -1,6 +1,6 @@
 # verschärfen
 
-`verschärfen` ‘aggravate, tighten, exacerbate’ is an inseperable verb.
+`verschärfen` ‘aggravate, tighten, exacerbate’ is an [inseperable verb](../../inseparableVerbs.md).
 
 *qv.* **[schärfen](../../s/sc/schaerfen.md)** *vb.* ‘sharpen’
 
