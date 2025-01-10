@@ -1,6 +1,8 @@
 # zunehmend
 
-qv. zunehmen
+`zunehmend` ‘increasing’ is a [derived adjective](../../derivedAdjectives.md).
+
+*qv.* **[zunehmen](../../../verbs/z/zu/zunehmen.md)** *vb.* ‘increase’
 
 Examples:
 
