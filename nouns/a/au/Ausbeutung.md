@@ -1,6 +1,6 @@
 # Ausbeutung
 
-`Ausbeutung` ‘exploitation’ is a feminine [deverbal noun](../../deverbalNouns.md).
+`Ausbeutung` ‘(an) exploitation’ is a feminine [deverbal noun](../../deverbalNouns.md).
 
 qv. **[ausbeuten](../../../verbs/a/au/ausbeuten.md)** *vb.* ‘exploit’
 
