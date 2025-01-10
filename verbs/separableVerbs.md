@@ -2,6 +2,7 @@
 
 - **[anfangen](a/an/anfangen.md)** *vb.* ‘begin’
 - **[anklagen](a/an/anklagen.md)** *vb.* ‘indict’
+- **[ausbeuten](a/au/ausbeuten.md)** *vb.* ‘exploit’
 - **[ausfliegen](a/au/ausfliegen.md)** *vb.* ‘fly out’
 - **[darstellen](d/da/darstellen.md)** *vb.* ‘depict’
 - **[einrichten](e/ei/einrichten.md)** *vb.* ‘set up’
