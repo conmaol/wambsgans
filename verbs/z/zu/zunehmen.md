@@ -1,6 +1,6 @@
 # zunehmen
 
-`zunehmen` ‘increase’ is a [separable verb](../../separableVerbs.md).
+`zunehmen` ‘increase, gain weight’ is a [separable verb](../../separableVerbs.md).
 
 qv. **[nehmen](../../n/ne/nehmen.md)** *vb.* ‘take’ 
 
