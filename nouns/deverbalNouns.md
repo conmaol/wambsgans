@@ -5,6 +5,7 @@
 - **[Ausflug](a/au/Ausflug.md)** *masc.* ‘an excursion’
 - **[Entlassung](e/en/Entlassung.md)** *fem.* ‘release’
 - **[Flug](f/fl/Flug.md)** *masc.* ‘(a) flight’
+- **[Herstellung](h/he/Herstellung.md)** *fem.* ‘production’
 - **[Kunft](k/ku/Kunft.md)** *fem.* ‘coming’
 - **[Schrift](s/sc/Schrift.md)** *fem.* ‘writing, a script’
 - **[Schriftsteller](s/sc/Schriftsteller.md)** *masc.* ‘a writer’
