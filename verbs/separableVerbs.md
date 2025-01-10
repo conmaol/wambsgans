@@ -7,6 +7,7 @@
 - **[darstellen](d/da/darstellen.md)** *vb.* ‘depict’
 - **[einrichten](e/ei/einrichten.md)** *vb.* ‘set up’
 - **[einsperren](e/ei/einsperren.md)** *vb.* ‘lock up’
+- **[herstellen](h/he/herstellen.md)** *vb.* ‘produce’
 - **[vorlegen](v/vo/vorlegen.md)** *vb.* ‘present’
 - **[zunehmen](z/zu/zunehmen.md)** *vb.* ‘increase’
 - **[zurückgehen](z/zu/zurueckgehen.md)** *vb.* ‘return’
