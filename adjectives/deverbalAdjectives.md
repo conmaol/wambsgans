@@ -6,6 +6,7 @@
 - **[gefangen](g/ge/gefangen.md)** *adj.* ‘caught’
 - **[gelähmt](g/ge/gelaehmt.md)** *adj.* ‘paralysed’
 - **[verschärft](v/ve/verschaerft.md)** *adj.* ‘aggravated’
+- **[zunehmend](z/zu/zunehmend.md)** *adj.* ‘increasing’
 
 ----
 
