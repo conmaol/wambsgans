@@ -8,6 +8,7 @@
 - **[einrichten](e/ei/einrichten.md)** *vb.* ‘set up’
 - **[einsperren](e/ei/einsperren.md)** *vb.* ‘lock up’
 - **[vorlegen](v/vo/vorlegen.md)** *vb.* ‘present’
+- **[zunehmen](z/zu/zunehmen.md)** *vb.* ‘increase’
 - **[zurückgehen](z/zu/zurueckgehen.md)** *vb.* ‘return’
 - **[zurückkehren](z/zu/zurueckkehren.md)** *vb.* ‘return’
 - **[zutrauen](z/zu/zutrauen.md)** *vb.* ‘think someone capable of’
