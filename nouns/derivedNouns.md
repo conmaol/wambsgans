@@ -9,6 +9,7 @@ Others:
 - **[Kapitalismus](k/ka/Kapitalismus.md)** *masc.* ‘capitalism’
 - **[Kapitalist](k/ka/Kapitalist.md)** *masc.* ‘a capitalist’
 - **[Mühsal](m/mue/Muehsal.md)** *fem.* ‘hardship’
+- **[Proletarier](p/pr/Proletarier.md)** *masc.* ‘a proletarian’
 - **[Spanier](s/sp/Spanier.md)** *masc.* ‘a Spaniard’
 
 ----
