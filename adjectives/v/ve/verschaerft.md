@@ -6,7 +6,7 @@
 
 Examples:
 
-> (*Marx ging auf die Grundverhältnisse der kapitalistischen Produktion zurück und stellte sie so dar, daß sich aus ihnen ergab, was man künftighin dem Kapitalismus noch zutrauen könne.*) Es ergab sich, daß man ihm nicht nur eine [zunehmend]() <mark>verschärfte</mark> [Ausbeutung]() der Proletarier zutrauen könne, sondern schließlich auch die Herstellung von Bedingungen, die die Abschaffung seiner selbst möglich machen. (*[Walter Benjamin](../../../texts/WalterBenjamin/DasKunstWerk.md)*) *‘an increasingly intensified exploitation of the proletarians’*
+> (*Marx ging auf die Grundverhältnisse der kapitalistischen Produktion zurück und stellte sie so dar, daß sich aus ihnen ergab, was man künftighin dem Kapitalismus noch zutrauen könne.*) Es ergab sich, daß man ihm nicht nur eine [zunehmend](../../z/zu/zunehmend.md) <mark>verschärfte</mark> [Ausbeutung](../../../nouns/a/au/Ausbeutung.md) der Proletarier zutrauen könne, sondern schließlich auch die Herstellung von Bedingungen, die die Abschaffung seiner selbst möglich machen. (*[Walter Benjamin](../../../texts/WalterBenjamin/DasKunstWerk.md)*) *‘an increasingly intensified exploitation of the proletarians’*
 
 ----
 
