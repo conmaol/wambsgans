@@ -11,6 +11,7 @@
 - **[unterschreiben](u/un/unterschreiben.md)** *vb.* ‘sign’
 - **[verbrechen](v/ve/verbrechen.md)** *vb.* ‘breach’
 - **[verhalten](v/ve/verhalten.md)** *vb.* ‘behave’
+- **[verschärfen](v/ve/verschaerfen.md)** *vb.* ‘aggravate’
 
 ----
 
