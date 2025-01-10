@@ -2,6 +2,7 @@
 
 - **[lähmen](l/lae/laehmen.md)** *vb.* ‘paralyse’
 - **[richten](r/ri/richten.md)** *vb.* ‘straighten’
+- **[schärfen](s/sc/schaerfen.md)** *vb.* ‘sharpen’
 
 ----
 
