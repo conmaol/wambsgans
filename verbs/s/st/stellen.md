@@ -4,6 +4,7 @@
 
 Compounds:
 - **[darstellen](../../d/da/darstellen.md)** *vb.* ‘depict’
+- **[herstellen](../../h/he/herrstellen.md)** *vb.* ‘produce’
 - **[feststellen](../../f/fe/feststellen.md)** *vb.* ‘determine, realise’
 
 ----
