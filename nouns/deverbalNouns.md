@@ -3,6 +3,7 @@
 - **[Anfang](a/an/Anfang.md)** *masc.* ‘a beginning’
 - **[Ausbeutung](a/au/Ausbeutung.md)** *fem.* ‘(an) exploitation’
 - **[Ausflug](a/au/Ausflug.md)** *masc.* ‘an excursion’
+- **[Bedingung](b/be/Bedingung.md)** *fem.* ‘a condition’
 - **[Entlassung](e/en/Entlassung.md)** *fem.* ‘release’
 - **[Flug](f/fl/Flug.md)** *masc.* ‘(a) flight’
 - **[Herstellung](h/he/Herstellung.md)** *fem.* ‘production’
