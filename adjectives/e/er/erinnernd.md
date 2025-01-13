@@ -1,6 +1,6 @@
 # erinnernd
 
-`erinnernd` ‘reminding’ is a [derived adjective](../../derivedAdjectives.md).
+`erinnernd` ‘reminding’ is a [deverbal adjective](../../deverbalAdjectives.md).
 
 *qv.* **[erinnern](../../../verbs/e/er/erinnern.md)** *vb.* ‘remind’
 
