@@ -5,6 +5,7 @@
 - **[bekommen](b/be/bekommen.md)** *vb.* ‘receive’
 - **[bewegen](b/be/bewegen.md)** *vb.* ‘move’
 - **[entlassen](e/en/entlassen.md)** *vb.* ‘release’
+- **[erinnern](e/er/erinnern.md)** *vb.* ‘remind’
 - **[erfrischen](e/er/erfrischen.md)** *vb.* ‘refresh’
 - **[ergeben](e/er/ergeben.md)** *vb.* ‘yield’
 - **[erhenken](e/er/erhenken.md)** *vb.* ‘kill by hanging’
