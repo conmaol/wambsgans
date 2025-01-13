@@ -20,6 +20,7 @@
 - **[mögen](m/moe/moegen.md)** *vb.* ‘like’
 - **[schaffen](s/sc/schaffen.md)** *vb.* ‘create, manage’
 - **[schreiben](s/sc/schreiben.md)** *vb.* ‘write’
+- **[sinnen](s/si/sinnen.md)** *vb.* ‘think’
 - **[sperren](s/sp/sperren.md)** *vb.* ‘lock’
 - **[stehen](s/st/stehen.md)** *vb.* ‘stand’
 - **[stellen](s/st/stellen.md)** *vb.* ‘produce’
