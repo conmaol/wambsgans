@@ -1,6 +1,7 @@
 # Simple verbs
 
 - **[brechen](b/br/brechen.md)** *vb.* ‘break’
+- **[dingen](d/di/dingen.md)** *vb.* ‘hire (for a crime)’
 - **[fangen](f/fa/fangen.md)** *vb.* ‘catch’
 - **[fliegen](f/fl/fliegen.md)** *vb.* ‘fly’
 - **[geben](g/ge/geben.md)** *vb.* ‘give’
