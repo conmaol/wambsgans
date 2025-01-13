@@ -2,7 +2,7 @@
 
 `Bedingung` ‘a condition, a requirement, a prerequisite’ is a [deverbal noun](../../deverbalNouns.md).
 
-*qv.* [bedingen](../../../verbs/b/be/bedingen.md) *vb.* ‘require’
+*qv.* **[bedingen](../../../verbs/b/be/bedingen.md)** *vb.* ‘require’
 
 Examples:
 
