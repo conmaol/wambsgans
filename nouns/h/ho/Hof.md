@@ -1,6 +1,6 @@
 # Hof
 
-`Hof` ‘a yard, a court’ is a masculine [noun](../../index.md).
+`Hof` ‘a yard, a court’ is a masculine [simple noun](../../simpleNouns.md).
 
 Compounds:
 - **[Bahnhof](../../b/ba/Bahnhof.md)** *masc.* ‘a railway station’
