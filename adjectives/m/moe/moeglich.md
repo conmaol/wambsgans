@@ -1,6 +1,6 @@
 # möglich
 
-`möglich` ‘possible, potential, likely’ is a [derived adjective](../../derivedAdjectives.md).
+`möglich` ‘possible, potential, likely’ is a [deverbal adjective](../../deverbalAdjectives.md).
 
 *qv.* **[mögen](../../../verbs/m/moe/moegen.md)** *vb.* ‘like’
 
