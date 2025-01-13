@@ -7,6 +7,7 @@
 - **[Bedingung](b/be/Bedingung.md)** *fem.* ‘a condition’
 - **[Entlassung](e/en/Entlassung.md)** *fem.* ‘release’
 - **[Flug](f/fl/Flug.md)** *masc.* ‘(a) flight’
+- **[Geburt](g/ge/Geburt.md)** *fem.* ‘(a) birth’
 - **[Herstellung](h/he/Herstellung.md)** *fem.* ‘production’
 - **[Kunft](k/ku/Kunft.md)** *fem.* ‘coming’
 - **[Schrift](s/sc/Schrift.md)** *fem.* ‘writing, a script’
