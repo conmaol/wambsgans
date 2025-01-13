@@ -11,6 +11,7 @@ Others:
 - **[Mühsal](m/mue/Muehsal.md)** *fem.* ‘hardship’
 - **[Proletarier](p/pr/Proletarier.md)** *masc.* ‘a proletarian’
 - **[Spanier](s/sp/Spanier.md)** *masc.* ‘a Spaniard’
+- **[Zeitung](z/ze/Zeitung.md)** *fem.* ‘a newspaper’
 
 ----
 
