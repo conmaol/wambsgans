@@ -16,6 +16,7 @@
 - **[krakeln](k/kr/krakeln.md)** *vb.* ‘scrawl’
 - **[lassen](l/la/lassen.md)** *vb.* ‘let, allow’
 - **[legen](l/le/legen.md)** *vb.* ‘lay’
+- **[mögen](m/moe/moegen.md)** *vb.* ‘like’
 - **[schreiben](s/sc/schreiben.md)** *vb.* ‘write’
 - **[sperren](s/sp/sperren.md)** *vb.* ‘lock’
 - **[stehen](s/st/stehen.md)** *vb.* ‘stand’
