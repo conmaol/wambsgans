@@ -5,6 +5,7 @@ Monosyllables:
 - **[früh](f/fr/frueh.md)** *adj.* ‘early’
 - **[kalt](k/ka/kalt.md)** *adj.* ‘cold’
 - **[lahm](l/la/lahm.md)** *adj.* ‘lame’
+- **[rasch](r/ra/rasch.md)** *adj.* ‘quick’
 - **[recht](r/re/recht.md)** *adj.* ‘right’
 - **[scharf](s/sc/scharf.md)** *adj.* ‘sharp’
 - **[steif](s/st/steif.md)** *adj.* ‘stiff’
