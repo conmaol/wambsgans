@@ -9,6 +9,7 @@
 - **[erfrischen](e/er/erfrischen.md)** *vb.* ‘refresh’
 - **[ergeben](e/er/ergeben.md)** *vb.* ‘yield’
 - **[erhenken](e/er/erhenken.md)** *vb.* ‘kill by hanging’
+- **[überfliegen](u/ue/ueberfliegen.md)** *vb.* ‘fly over’
 - **[unternehmen](u/un/unternehmen.md)** *vb.* ‘undertake’
 - **[unterschreiben](u/un/unterschreiben.md)** *vb.* ‘sign’
 - **[verbrechen](v/ve/verbrechen.md)** *vb.* ‘breach’
