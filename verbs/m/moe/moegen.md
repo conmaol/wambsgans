@@ -1,4 +1,10 @@
 # mögen
 
-[möglich](../../../adjectives/m/moe/moeglich.md) 
+`mögen` ‘like’ is a [simple verb](../../index.md).
 
+Derivatives:
+- **[möglich](../../../adjectives/m/moe/moeglich.md)** *adj.* ‘likely, possible’
+
+----
+
+Back up to: [Verbs](../../index.md) | [Top](../../../index.md)
