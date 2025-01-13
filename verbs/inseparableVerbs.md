@@ -1,5 +1,6 @@
 # Inseparable verbs
 
+- **[bedingen](b/be/bedingen.md)** *vb.* ‘require’
 - **[bekennen](b/be/bekennen.md)** *vb.* ‘accept’
 - **[bekommen](b/be/bekommen.md)** *vb.* ‘receive’
 - **[bewegen](b/be/bewegen.md)** *vb.* ‘move’
