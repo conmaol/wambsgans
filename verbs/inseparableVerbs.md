@@ -3,6 +3,7 @@
 - **[bedingen](b/be/bedingen.md)** *vb.* ‘require’
 - **[bekennen](b/be/bekennen.md)** *vb.* ‘accept’
 - **[bekommen](b/be/bekommen.md)** *vb.* ‘receive’
+- **[besinnen](b/be/besinnen.md)** *vb.* ‘reflect’
 - **[bewegen](b/be/bewegen.md)** *vb.* ‘move’
 - **[entlassen](e/en/entlassen.md)** *vb.* ‘release’
 - **[erinnern](e/er/erinnern.md)** *vb.* ‘remind’
