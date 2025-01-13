@@ -1,8 +1,6 @@
 # erinnern
 
-`erinnern` ‘remind’ is an inseparable [verb](../../index.md).
-
-Prefix: **[er-](../../prefixes/er_.md)**
+`erinnern` ‘remind’ is an [inseparable verb](../../inseparableVerbs.md).
 
 Derivatives:
 - **[erinnernd](../../../adjectives/e/er/erinnernd.md)** *adj.* ‘reminding’
