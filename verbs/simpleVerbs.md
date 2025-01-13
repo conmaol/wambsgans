@@ -8,6 +8,7 @@
 - **[gehen](g/ge/gehen.md)** *vb.* ‘go’
 - **[halten](h/ha/halten.md)** *vb.* ‘hold’
 - **[henken](h/he/henken.md)** *vb.* ‘hang’
+- **[kaufen](k/ka/kaufen.md)** *vb.* ‘buy’
 - **[kehren](k/ke/kehren.md)** *vb.* ‘turn’
 - **[kennen](k/ke/kennen.md)** *vb.* ‘know’
 - **[klagen](k/kl/klagen.md)** *vb.* ‘complain’
