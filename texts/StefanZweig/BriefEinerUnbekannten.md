@@ -2,7 +2,7 @@
 
 > Als der [bekannte](../../adjectives/b/be/bekannt.md) [Romanschriftsteller](../../nouns/r/ro/Romanschriftsteller.md) R. [frühmorgens](../../adverbs/f/fr/fruehmorgens.md) von [dreitägigem](../../adjectives/d/dr/dreitaegig.md) [erfrischendem](../../adjectives/e/er/erfrischend.md) [Ausflug](../../nouns/a/au/Ausflug.md) ins [Gebirge](../../nouns/g/ge/Gebirge.md) [wieder](../../adverbs/w/wi/wieder.md) nach [Wien](../../nouns/w/wi/Wien.md) [zurückkehrte](../../verbs/z/zu/zurueckkehren.md) und am [Bahnhof](../../nouns/b/ba/Bahnhof.md) eine [Zeitung](../../nouns/z/ze/Zeitung.md) [kaufte](../../verbs/k/ka/kaufen.md), wurde er, [kaum](../../adverbs/k/ka/kaum.md) daß er das [Datum](../../nouns/d/da/Datum.md) [überflog](../../verbs/ue/ueb/ueberfliegen.md), [erinnernd](../../adjectives/e/er/erinnernd.md) [gewahr](../../adjectives/g/ge/gewahr.md), daß [heute](../../adverbs/h/he/heute.md) sein [Geburtstag](../../nouns/g/ge/Geburtstag.md) sei.
 >
-> Der einundvierzigste, **besann** er sich rasch, und diese Feststellung **tat** ihm nicht wohl und nicht weh.
+> Der einundvierzigste, [besann](../../verbs/b/be/besinnen.md) er sich [rasch](../../adjectives/r/ra/rasch.md), und diese Feststellung tat ihm nicht wohl und nicht weh.
 >
 > Flüchtig **überblätterte** er die knisternden Seiten der Zeitung und **fuhr** mit einem Mietautomobil in seine Wohnung.
 >
