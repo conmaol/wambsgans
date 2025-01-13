@@ -26,6 +26,7 @@ Disyllables:
 
 Loanwords:
 - **[Analyse](a/an/Analyse.md)** *fem.* ‘an analysis’
+- **[Datum](d/da/Datum.md)** *neut.* ‘a date’
 - **[Kapital](k/ka/Kapital.md)** *neut.* ‘capital’
 - **[Papier](p/pa/Papier.md)** *neut.* ‘paper’
 - **[Produktion](p/pr/Produktion.md)** *fem.* ‘(a) production’
