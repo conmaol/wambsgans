@@ -1,6 +1,6 @@
 # besinnen
 
-`besinnen` ‘reflect’ is an inseparable [verb](../../index.md).
+`besinnen` ‘reflect’ is an [inseparable verb](../../inseparableVerbs.md).
 
 *qv.* **[sinnen](../../s/si/sinnen.md)** vb. ‘think’
 
