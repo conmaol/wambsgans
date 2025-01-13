@@ -5,7 +5,7 @@
 *qv.* **[schaffen](../../s/sc/schaffen.md)** *vb.* ‘create, manage’
 
 Derivatives:
-- [Abschaffung](../../../nouns/a/ab/Abschaffung.md) *fem.* ‘abolition’
+- **[Abschaffung](../../../nouns/a/ab/Abschaffung.md)** *fem.* ‘abolition’
 
 ----
 
