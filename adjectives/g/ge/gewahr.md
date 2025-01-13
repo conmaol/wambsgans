@@ -1,6 +1,6 @@
 # gewahr
 
-`gewahr` ‘aware’ is an [adjective](../../index.md).
+`gewahr` ‘aware’ is a [simple adjective](../../simpleAdjectives.md).
 
 Examples:
 
