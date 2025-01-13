@@ -1,6 +1,6 @@
 # sinnen
 
-`sinnen` ‘think’ is a simple [verb](../../index.md).
+`sinnen` ‘think’ is a [simple verb](../../simpleVerbs.md).
 
 Compounds:
 - **[besinnen](../../b/be/besinnen.md)** *vb.* ‘reflect’
