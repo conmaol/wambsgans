@@ -4,7 +4,7 @@
 
 Examples:
 
-> (*Der bekannte Romanschriftsteller R. kehrte frühmorgens von dreitägigem erfrischendem Ausflug ins Gebirge wieder nach Wien zurück und kaufte am Bahnhof eine Zeitung.*) Flüchtig [überblätterte](../../../verbs/ue/ueb/ueberblaettern.md) er die [knisternden](../../../adjectives/k/kn/knisternd.md) <mark>Seiten</mark> der [Zeitung](../../z/ze/Zeitung.md) und fuhr mit einem Mietautomobil in seine Wohnung. (*Stefan Zweig*) – ‘he leafed through the rustling pages of the newspaper’
+> (*Der bekannte Romanschriftsteller R. kehrte frühmorgens von dreitägigem erfrischendem Ausflug ins Gebirge wieder nach Wien zurück und kaufte am Bahnhof eine Zeitung.*) Flüchtig [überblätterte](../../../verbs/ue/ueb/ueberblaettern.md) er die [knisternden](../../../adjectives/k/kn/knisternd.md) <mark>Seiten</mark> der [Zeitung](../../z/ze/Zeitung.md) und fuhr mit einem Mietautomobil in seine Wohnung. (*[Stefan Zweig](../../../texts/StefanZweig/BriefEinerUnbekannten.md)*) – *‘he leafed through the rustling pages of the newspaper’*
 
 ----
 
