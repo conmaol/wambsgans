@@ -4,6 +4,7 @@
 - **[dingen](d/di/dingen.md)** *vb.* ‘hire (for a crime)’
 - **[fangen](f/fa/fangen.md)** *vb.* ‘catch’
 - **[fliegen](f/fl/fliegen.md)** *vb.* ‘fly’
+- **[fliehen](f/fl/fliehen.md)** *vb.* ‘flee’
 - **[geben](g/ge/geben.md)** *vb.* ‘give’
 - **[gehen](g/ge/gehen.md)** *vb.* ‘go’
 - **[halten](h/ha/halten.md)** *vb.* ‘hold’
