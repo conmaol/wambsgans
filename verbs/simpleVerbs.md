@@ -23,7 +23,7 @@
 - **[sinnen](s/si/sinnen.md)** *vb.* ‘think’
 - **[sperren](s/sp/sperren.md)** *vb.* ‘lock’
 - **[stehen](s/st/stehen.md)** *vb.* ‘stand’
-- **[stellen](s/st/stellen.md)** *vb.* ‘produce’
+- **[stellen](s/st/stellen.md)** *vb.* ‘put’
 - **[trauen](t/tr/trauen.md)** *vb.* ‘trust’
 - **[zeigen](z/ze/zeigen.md)** *vb.* ‘point, show’
 
