@@ -6,7 +6,7 @@
 
 Examples:
 
-> [Flüchtig](../../../adjectives/f/fl/fluechtig.md) <mark>überblätterte</mark> er die knisternden [Seiten](../../../nouns/s/se/Seite.md) der Zeitung und fuhr mit einem Mietautomobil in seine Wohnung. (*[Stefan Zweig](../../../texts/StefanZweig/BriefEinerUnbekannten.md)*) *‘he leafed/flicked through the pages’*
+> (*Der bekannte Romanschriftsteller R. kehrte frühmorgens von dreitägigem erfrischendem Ausflug ins Gebirge wieder nach Wien zurück und kaufte am Bahnhof eine Zeitung.*) [Flüchtig](../../../adjectives/f/fl/fluechtig.md) <mark>überblätterte</mark> er die knisternden [Seiten](../../../nouns/s/se/Seite.md) der Zeitung und fuhr mit einem Mietautomobil in seine Wohnung. (*[Stefan Zweig](../../../texts/StefanZweig/BriefEinerUnbekannten.md)*) *‘he leafed/flicked through the pages’*
 
 ----
 
