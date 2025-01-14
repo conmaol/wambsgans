@@ -1,6 +1,6 @@
 # knistern
 
-`knistern` ‘crackle, rustle’ is a simple [verb](../../index.md).
+`knistern` ‘crackle, rustle’ is a [simple verb](../../simpleVerbs.md).
 
 Derivatives:
 - **[knisternd](../../../adjectives/k/kn/knisternd.md)** *adj.* ‘rustling’
