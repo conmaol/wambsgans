@@ -6,6 +6,7 @@
 - **[erinnernd](e/er/erinnernd.md)** *adj.* ‘reminding’
 - **[gefangen](g/ge/gefangen.md)** *adj.* ‘caught’
 - **[gelähmt](g/ge/gelaehmt.md)** *adj.* ‘paralysed’
+- **[knisternd](k/kn/knisternd.md)** *adj.* ‘rustling’
 - **[möglich](m/moe/moeglich.md)** *adj.* ‘possible’
 - **[verschärft](v/ve/verschaerft.md)** *adj.* ‘aggravated’
 - **[zunehmend](z/zu/zunehmend.md)** *adj.* ‘increasing’
