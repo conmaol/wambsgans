@@ -14,6 +14,7 @@
 - **[kennen](k/ke/kennen.md)** *vb.* ‘know’
 - **[klagen](k/kl/klagen.md)** *vb.* ‘complain’
 - **[klemmen](k/kl/klemmen.md)** *vb.* ‘clamp’
+- **[knistern](k/kn/knistern.md)** *vb.* ‘crackle’
 - **[kommen](k/ko/kommen.md)** *vb.* ‘come’
 - **[krakeln](k/kr/krakeln.md)** *vb.* ‘scrawl’
 - **[lassen](l/la/lassen.md)** *vb.* ‘let, allow’
