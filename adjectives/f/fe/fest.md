@@ -1,6 +1,6 @@
 # fest
 
-`fest` ‘firm’ is a simple [adjective](../../index.md).
+`fest` ‘firm’ is a [simple adjective](../../simpleAdjectives.md).
 
 Compounds:
 - **[feststellen](../../../verbs/f/fe/feststellen.md)** *vb.* ‘determine, realise’
