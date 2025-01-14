@@ -1,6 +1,6 @@
 # fliehen
 
-`fliehen` ‘flee’ is a simple [verb](../../index.md).
+`fliehen` ‘flee, escape’ is a [simple verb](../../simpleVerbs.md).
 
 Derivatives:
 - **[Flucht](../../../nouns/f/fl/Flucht.md)** *fem.* ‘(a) flight, (an) escape’
