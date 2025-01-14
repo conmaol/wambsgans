@@ -1,9 +1,10 @@
 # weh
 
-`weh` ‘sore’ is a simple [adjective](../../index.md).
+`weh` ‘sore’ is a [simple adjective](../../simpleAdjectives.md).
 
-Compounds:
-- **[wehtun](../../../verbs/w/we/wehtun.md)** *vb.* ‘hurt’
+Examples:
+
+> (*Der bekannte Romanschriftsteller wurde erinnernd gewahr, daß heute sein Geburtstag sei.*) Der einundvierzigste, besann er sich rasch, und diese [Feststellung](../../../nouns/f/fe/Feststellung.md) tat ihm nicht wohl und nicht <mark>weh</mark>. (*[Stefan Zweig](../../../texts/StefanZweig/BriefEinerUnbekannten.md)*) *‘this observation neither pleased nor hurt him’*
 
 ----
 
