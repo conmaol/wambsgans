@@ -1,8 +1,8 @@
 # Flucht
 
-`Flucht` ‘(a) flight, (an) escape’ is a feminine derived [noun](../../index.md).
+`Flucht` ‘(a) flight, (an) escape’ is a feminine [deverbal noun](../../deverbalNouns.md).
 
-qv. **[fliehen](../../../verbs/f/fl/fliehen.md)** *vb.* ‘flee’
+*qv.* **[fliehen](../../../verbs/f/fl/fliehen.md)** *vb.* ‘flee’
 
 Derivatives:
 - **[flüchtig](../../../adjectives/f/fl/fluechtig.md)** *adj.* ‘fleeting’
