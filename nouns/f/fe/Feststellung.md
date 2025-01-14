@@ -6,7 +6,7 @@
 
 Examples:
 
-> (*Der bekannte Romanschriftsteller wurde erinnernd gewahr, daß heute sein Geburtstag sei.*) Der einundvierzigste, besann er sich rasch, und diese <mark>Feststellung</mark> tat ihm nicht [wohl](../../../verbs/w/wo/wohltun.md) und nicht [weh](../../../verbs/w/we/wehtun.md). (*[Stefan Zweig](../../../texts/StefanZweig/BriefEinerUnbekannten.md)*) *‘this observation neither pleased nor displeased him’*
+> (*Der bekannte Romanschriftsteller wurde erinnernd gewahr, daß heute sein Geburtstag sei.*) Der einundvierzigste, besann er sich rasch, und diese <mark>Feststellung</mark> tat ihm nicht [wohl](../../../adjectives/w/wo/wohl.md) und nicht [weh](../../../adjectives/w/we/weh.md). (*[Stefan Zweig](../../../texts/StefanZweig/BriefEinerUnbekannten.md)*) *‘this observation neither pleased nor displeased him’*
 
 ----
 
