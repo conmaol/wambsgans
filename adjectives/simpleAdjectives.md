@@ -10,6 +10,7 @@ Monosyllables:
 - **[recht](r/re/recht.md)** *adj.* ‘right’
 - **[scharf](s/sc/scharf.md)** *adj.* ‘sharp’
 - **[steif](s/st/steif.md)** *adj.* ‘stiff’
+- **[wohl](w/wo/wohl.md)** *adj.* ‘well’
 
 Disyllables:
 - **[gewahr](g/ge/gewahr.md)** *adj.* ‘aware’
