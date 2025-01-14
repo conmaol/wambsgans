@@ -1,6 +1,6 @@
 # blättern
 
-`blättern` ‘browse’ is a [derived verb](../../derivedVerbs.md).
+`blättern` ‘browse’ is a [denominal verb](../../denominalVerbs.md).
 
 qv. **[Blatt](../../../nouns/b/bl/Blatt.md)** *neut.* ‘a leaf’
 
