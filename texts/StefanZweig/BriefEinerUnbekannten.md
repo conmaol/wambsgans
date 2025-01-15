@@ -4,7 +4,7 @@
 >
 > Der einundvierzigste, [besann](../../verbs/b/be/besinnen.md) er sich [rasch](../../adjectives/r/ra/rasch.md), und diese [Feststellung](../../nouns/f/fe/Feststellung.md) tat ihm nicht [wohl](../../adjectives/w/wo/wohl.md) und nicht [weh](../../adjectives/w/we/weh.md).
 >
-> [Flüchtig](../../adjectives/f/fl/fluechtig.md) [überblätterte](../../verbs/ue/ueb/ueberblaettern.md) er die [knisternden](../../adjectives/k/kn/knisternd.md) [Seiten](../../nouns/s/se/Seite.md) der Zeitung und fuhr mit einem Mietautomobil in seine Wohnung.
+> [Flüchtig](../../adjectives/f/fl/fluechtig.md) [überblätterte](../../verbs/ue/ueb/ueberblaettern.md) er die [knisternden](../../adjectives/k/kn/knisternd.md) [Seiten](../../nouns/s/se/Seite.md) der [Zeitung](../../nouns/z/ze/Zeitung.md) und fuhr mit einem Mietautomobil in seine Wohnung.
 >
 > Der Diener meldete aus der Zeit seiner Abwesenheit zwei Besuche sowie einige Telephonanrufe und überbrachte auf einem Tablett die angesammelte Post.
 >
