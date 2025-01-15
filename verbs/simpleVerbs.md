@@ -2,6 +2,7 @@
 
 - **[brechen](b/br/brechen.md)** *vb.* ‘break’
 - **[dingen](d/di/dingen.md)** *vb.* ‘hire (for a crime)’
+- **[fahren](f/fa/fahren.md)** *vb.* ‘go’
 - **[fangen](f/fa/fangen.md)** *vb.* ‘catch’
 - **[fliegen](f/fl/fliegen.md)** *vb.* ‘fly’
 - **[fliehen](f/fl/fliehen.md)** *vb.* ‘flee’
