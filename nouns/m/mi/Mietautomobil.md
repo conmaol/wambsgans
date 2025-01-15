@@ -1,6 +1,6 @@
 # Mietautomobil
 
-`Mietautomobil` ‘a taxi’ is a neuter compound [noun](../../index.md).
+`Mietautomobil` ‘a taxi’ is a neuter [compound noun](../../compoundNouns.md).
 
 *qv.* **[Miete](Miete.md)** *fem.* ‘rent’, **[Automobil](../../a/au/Automobil.md)** *neut.* ‘an automobile, a car’
 
