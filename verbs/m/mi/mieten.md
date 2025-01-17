@@ -1,6 +1,6 @@
 # mieten
 
-`meiten` ‘rent, hire’ is a simple [verb](../../index.md).
+`meiten` ‘rent, hire’ is a [simple verb](../../simpleVerbs.md).
 
 Derivatives:
 - **[Miete](../../../nouns/m/mi/Miete.md)** *fem.* ‘rent’
