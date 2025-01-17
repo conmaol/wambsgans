@@ -1,6 +1,6 @@
 # Miete
 
-`Miete` ‘rent’ is a feminine derived [noun](../../index.md).
+`Miete` ‘rent’ is a feminine [deverbal noun](../../deverbalNouns.md).
 
 *qv.* **[mieten](../../../verbs/m/mi/mieten.md)** *vb.* ‘rent, hire’
 
