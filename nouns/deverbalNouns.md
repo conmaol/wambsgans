@@ -19,6 +19,7 @@
 - **[Unterschrift](u/un/Unterschrift.md)** *fem.* ‘a signature’
 - **[Verbrechen](v/ve/Verbrechen.md)** *neut.* ‘a crime’
 - **[Verhältnis](v/ve/Verhaeltnis.md)** *neut.* ‘a relation(ship)’
+- **[Wohnung](w/wo/Wohnung.md)** *fem.* ‘an apartment’
 
 ----
 
