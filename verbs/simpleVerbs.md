@@ -1,6 +1,7 @@
 # Simple verbs
 
 - **[brechen](b/br/brechen.md)** *vb.* ‘break’
+- **[dienen](d/di/dienen.md)** *vb.* ‘serve’
 - **[dingen](d/di/dingen.md)** *vb.* ‘hire (for a crime)’
 - **[fahren](f/fa/fahren.md)** *vb.* ‘go’
 - **[fangen](f/fa/fangen.md)** *vb.* ‘catch’
