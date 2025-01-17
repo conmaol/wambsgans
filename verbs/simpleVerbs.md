@@ -21,6 +21,7 @@
 - **[krakeln](k/kr/krakeln.md)** *vb.* ‘scrawl’
 - **[lassen](l/la/lassen.md)** *vb.* ‘let, allow’
 - **[legen](l/le/legen.md)** *vb.* ‘lay’
+- **[melden](m/me/melden.md)** *vb.* ‘report’
 - **[mieten](m/mi/mieten.md)** *vb.* ‘rent, hire’
 - **[mögen](m/moe/moegen.md)** *vb.* ‘like’
 - **[schaffen](s/sc/schaffen.md)** *vb.* ‘create, manage’
