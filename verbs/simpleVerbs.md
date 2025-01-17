@@ -29,6 +29,7 @@
 - **[stehen](s/st/stehen.md)** *vb.* ‘stand’
 - **[stellen](s/st/stellen.md)** *vb.* ‘put’
 - **[trauen](t/tr/trauen.md)** *vb.* ‘trust’
+- **[wohnen](w/wo/wohnen.md)** *vb.* ‘reside’
 - **[zeigen](z/ze/zeigen.md)** *vb.* ‘point, show’
 
 ----
