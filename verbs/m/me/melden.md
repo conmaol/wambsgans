@@ -1,6 +1,6 @@
 # melden
 
-`melden` ‘report’ is a [simple verb](../../index.md).
+`melden` ‘report’ is a [simple verb](../../simpleVerbs.md).
 
 Examples:
 
