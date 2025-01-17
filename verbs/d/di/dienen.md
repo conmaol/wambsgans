@@ -1,6 +1,6 @@
 # dienen
 
-`dienen` ‘serve’ is a simple [verb](../../index.md).
+`dienen` ‘serve’ is a [simple verb](../../simpleVerbs.md).
 
 Derivatives:
 - **[Diener](../../../nouns/d/di/Diener.md)** *masc.* ‘a manservant’
