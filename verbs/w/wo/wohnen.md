@@ -1,6 +1,6 @@
 # wohnen
 
-`wohnen` ‘live’ is a simple [verb](../../index.md).
+`wohnen` ‘live, reside’ is a [simple verb](../../simpleVerbs.md).
 
 Derivatives:
 - **[Wohnung](../../../nouns/w/wo/Wohnung.md)** *fem.* ‘an apartment’
