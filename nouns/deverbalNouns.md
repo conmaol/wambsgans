@@ -12,6 +12,7 @@
 - **[Geburt](g/ge/Geburt.md)** *fem.* ‘(a) birth’
 - **[Herstellung](h/he/Herstellung.md)** *fem.* ‘production’
 - **[Kunft](k/ku/Kunft.md)** *fem.* ‘coming’
+- **[Miete](m/mi/Miete.md)** *fem.* ‘rent’
 - **[Schrift](s/sc/Schrift.md)** *fem.* ‘writing, a script’
 - **[Schriftsteller](s/sc/Schriftsteller.md)** *masc.* ‘a writer’
 - **[Unternehmung](u/un/Unternehmung.md)** *fem.* ‘an undertaking’
