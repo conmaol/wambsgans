@@ -1,6 +1,6 @@
 # abwesend
 
-`abwesend` ‘absent’ is a [derived adjective](../../derivedAdjectives.md).
+`abwesend` ‘absent’ is a [deverbal adjective](../../deverbalAdjectives.md).
 
 Derivatives:
 - **[Abwesenheit](../../../nouns/a/ab/Abwesenheit.md)** *fem.* ‘(an) absence’
