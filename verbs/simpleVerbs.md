@@ -30,6 +30,7 @@
 - **[sperren](s/sp/sperren.md)** *vb.* ‘lock’
 - **[stehen](s/st/stehen.md)** *vb.* ‘stand’
 - **[stellen](s/st/stellen.md)** *vb.* ‘put’
+- **[suchen](s/su/suchen.md)** *vb.* ‘seek’
 - **[trauen](t/tr/trauen.md)** *vb.* ‘trust’
 - **[wohnen](w/wo/wohnen.md)** *vb.* ‘reside’
 - **[zeigen](z/ze/zeigen.md)** *vb.* ‘point, show’
