@@ -4,7 +4,7 @@
 
 Examples:
 
-> Wenn ich versuche, für die Zeit vor dem Ersten Weltkriege, in der ich aufgewachsen bin, eine [handliche](../../../adjectives/h/ha/handlich.md) <mark>Formel</mark> zu [finden](../../../verbs/f/fi/finden.md), so hoffe ich am prägnantesten zu sein, wenn ich sage: es war das goldene Zeitalter der Sicherheit. (*[Stefan Zweig](../../../texts/StefanZweig/DieWeltDerSicherheit.md)*) *‘when I try to find a handy formula’*
+> Wenn ich versuche, für die [Zeit](../../z/ze/Zeit.md) vor dem Ersten Weltkriege, in der ich aufgewachsen bin, eine [handliche](../../../adjectives/h/ha/handlich.md) <mark>Formel</mark> zu [finden](../../../verbs/f/fi/finden.md), so hoffe ich am prägnantesten zu sein, wenn ich sage: es war das goldene Zeitalter der Sicherheit. (*[Stefan Zweig](../../../texts/StefanZweig/DieWeltDerSicherheit.md)*) *‘when I try to find a handy formula’*
 
 ----
 
