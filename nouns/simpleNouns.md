@@ -30,6 +30,7 @@ Loanwords:
 - **[Analyse](a/an/Analyse.md)** *fem.* ‘an analysis’
 - **[Automobil](a/au/Automobil.md)** *neut.* ‘an automobile, a car’
 - **[Datum](d/da/Datum.md)** *neut.* ‘a date’
+- **[Formel](f/fo/Formel.md)** *fem.* ‘a formula’
 - **[Kapital](k/ka/Kapital.md)** *neut.* ‘capital’
 - **[Papier](p/pa/Papier.md)** *neut.* ‘paper’
 - **[Produktion](p/pr/Produktion.md)** *fem.* ‘(a) production’
