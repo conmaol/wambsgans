@@ -6,6 +6,7 @@ Monosyllables:
 - **[Berg](b/be/Berg.md)** *masc.* ‘a hill, a mountain’
 - **[Blatt](b/bl/Blatt.md)** *neut.* ‘a leaf’
 - **[Grund](g/gr/Grund.md)** *masc.* ‘ground’
+- **[Hand](h/ha/Hand.md)** *masc.* ‘a hand’
 - **[Haupt](h/ha/Haupt.md)** *neut.* ‘a head’
 - **[Hof](h/ho/Hof.md)** *masc.* ‘a yard, a court’
 - **[Reich](r/re/Reich.md)** *neut.* ‘a realm’
