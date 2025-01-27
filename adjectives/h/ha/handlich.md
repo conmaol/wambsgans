@@ -2,7 +2,7 @@
 
 `handlich` ‘handy, manageable’ is a [denominal adjective](../../denominalAdjectives.md).
 
-*qv.* **[Hand](../../../nouns/nouns/h/ha/Hand.md)** *masc.* ‘a hand’
+*qv.* **[Hand](../../../nouns/h/ha/Hand.md)** *masc.* ‘a hand’
 
 Examples:
 
