@@ -13,6 +13,7 @@ Monosyllables:
 - **[Stadt](s/st/Stadt.md)** *fem.* ‘a town’
 - **[Stift](s/st/Stift.md)** *masc.* ‘a pin, a pen’
 - **[Tag](t/ta/Tag.md)** *masc.* ‘a day’
+- **[Welt](w/we/Welt.md)** *fem.* ‘world’
 - **[Wert](w/we/Wert.md)** *masc.* ‘worth’
 - **[Zeit](z/ze/Zeit.md)** *fem.* ‘(a) time’
 
