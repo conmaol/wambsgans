@@ -9,6 +9,7 @@ Monosyllables:
 - **[Hand](h/ha/Hand.md)** *masc.* ‘a hand’
 - **[Haupt](h/ha/Haupt.md)** *neut.* ‘a head’
 - **[Hof](h/ho/Hof.md)** *masc.* ‘a yard, a court’
+- **[Krieg](k/kr/Krieg.md)** *masc.* ‘a war’
 - **[Reich](r/re/Reich.md)** *neut.* ‘a realm’
 - **[Stadt](s/st/Stadt.md)** *fem.* ‘a town’
 - **[Stift](s/st/Stift.md)** *masc.* ‘a pin, a pen’
