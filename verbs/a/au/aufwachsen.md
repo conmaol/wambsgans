@@ -8,4 +8,4 @@ Examples:
 
 ----
 
-Back up to: [verbs](../../index.md) | [Top](../../../index.md)
+Back up to: [Verbs](../../index.md) | [Top](../../../index.md)
