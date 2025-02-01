@@ -1,6 +1,6 @@
 # hoffen
 
-`hoffen` ‘hope’ is a [simple verb](../../simpleerbs.md).
+`hoffen` ‘hope’ is a [simple verb](../../simpleVerbs.md).
 
 Examples:
 
