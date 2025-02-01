@@ -10,6 +10,7 @@
 - **[Romanschriftsteller](r/ro/Romanschriftsteller.md)** *masc.* ‘a novelist’
 - **[Weltkrieg](w/we/Weltkrieg.md)** *masc.* ‘a world war’
 - **[Zeigefinger](z/ze/Zeigefinger.md)** *masc.* ‘an index finger’
+- **[Zeitalter](z/ze/Zeitalter.md)** *neut.* ‘an age, an era’
 
 ----
 
