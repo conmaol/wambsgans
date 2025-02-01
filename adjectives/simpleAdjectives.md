@@ -16,6 +16,9 @@ Monosyllables:
 Disyllables:
 - **[gewahr](g/ge/gewahr.md)** *adj.* ‘aware’
 
+Loanwords:
+- **[prägnant](p/pr/praegnant.md)** *adj.* ‘pithy’
+
 ----
 
 Back up to: [Adjectives](index.md) | [Top](../index.md)
