@@ -2,8 +2,10 @@
 
 `Alter` ‘(an) age’ is a neuter [derived noun](../../derivedNouns.md).
 
+*qv.* **[alt](../../../adjectives/a/al/alt.md)** *adj.* ‘old’
+
 Compounds:
-- **[Zeitalter](Zeitalter.md)** *neut.* ‘an age’
+- **[Zeitalter](../../z/ze/Zeitalter.md)** *neut.* ‘an age’
 
 ----
 
