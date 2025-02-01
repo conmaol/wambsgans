@@ -1,6 +1,10 @@
 # wachsen
 
-Separable verbs:
-aufwachsen grow up
+`wachsen` ‘grow’ is a [simple verb](../../simpleVerbs.md).
 
-Back up to: Verbs | Top
+Separable verbs:
+- **[aufwachsen](../../a/au/aufwachsen.md)** *vb.* ‘grow up’
+
+----
+
+Back up to: [Verbs](../../index.md) | [Top](../../../index.md)
