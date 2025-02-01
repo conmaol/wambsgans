@@ -1,6 +1,7 @@
 # Simple adjectives
 
 Monosyllables:
+- **[alt](a/al/alt.md)** *adj.* ‘old’
 - **[fest](f/fe/fest.md)** *adj.* ‘firm’
 - **[frisch](f/fr/frisch.md)** *adj.* ‘fresh’
 - **[früh](f/fr/frueh.md)** *adj.* ‘early’
