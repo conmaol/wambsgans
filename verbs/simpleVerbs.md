@@ -12,6 +12,7 @@
 - **[gehen](g/ge/gehen.md)** *vb.* ‘go’
 - **[halten](h/ha/halten.md)** *vb.* ‘hold’
 - **[henken](h/he/henken.md)** *vb.* ‘hang’
+- **[hoffen](h/ho/hoffen.md)** *vb.* ‘hope’
 - **[kaufen](k/ka/kaufen.md)** *vb.* ‘buy’
 - **[kehren](k/ke/kehren.md)** *vb.* ‘turn’
 - **[kennen](k/ke/kennen.md)** *vb.* ‘know’
