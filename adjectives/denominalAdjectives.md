@@ -2,6 +2,7 @@
 
 - **[dreitägig](d/dr/dreitaegig.md)** *adj.* ‘lasting for three days’
 - **[flüchtig](f/fl/fluechtig.md)** *adj.* ‘fleeting’
+- **[golden](g/go/golden.md)** *adj.* ‘golden’
 - **[handlich](h/ha/handlich.md)** *adj.* ‘handy’
 - **[kapitalistisch](k/ka/kapitalistisch.md)** *adj.* ‘capitalist(ic)’
 - **[künftig](k/kue/kuenftig.md)** *adj.* ‘future’
