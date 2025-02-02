@@ -5,6 +5,7 @@ Monosyllables:
 - **[Bahn](b/ba/Bahn.md)** *fem.* ‘a track’
 - **[Berg](b/be/Berg.md)** *masc.* ‘a hill, a mountain’
 - **[Blatt](b/bl/Blatt.md)** *neut.* ‘a leaf’
+- **[Gold](g/go/Gold.md)** *neut.* ‘gold’
 - **[Grund](g/gr/Grund.md)** *masc.* ‘ground’
 - **[Hand](h/ha/Hand.md)** *masc.* ‘a hand’
 - **[Haupt](h/ha/Haupt.md)** *neut.* ‘a head’
