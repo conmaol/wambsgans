@@ -16,6 +16,7 @@ Monosyllables:
 
 Disyllables:
 - **[gewahr](g/ge/gewahr.md)** *adj.* ‘aware’
+- **[sicher](s/si/sicher.md)** *adj.* ‘safe, secure’
 
 Loanwords:
 - **[prägnant](p/pr/praegnant.md)** *adj.* ‘pithy’
