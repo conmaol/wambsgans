@@ -1,6 +1,6 @@
 # tausendjährig
 
-`tausendjährig` ‘thousand year old’ is a [derived adjective](../../derivedAdjectives.md).
+`tausendjährig` ‘lasting for one thousand years, thousand year old’ is a [denominal adjective](../../denominalAdjectives.md).
 
 *qv.* **[Tausend](../../../nouns/t/ta/Tausend.md)** *neut.* ‘a thousand’, **[Jahr](../../../nouns/j/ja/Jahr.md)** *neut.* ‘a year’
 
