@@ -28,6 +28,7 @@ Disyllables:
 - **[Mühe](m/mue/Muehe.md)** *fem.* ‘effort, difficulty’
 - **[Pfeiler](p/pf/Pfeiler.md)** *masc.* ‘a pillar’
 - **[Seite](s/se/Seite.md)** *fem.* ‘a side’
+- **[Tausend](t/ta/Tausend.md)** *neut.* ‘a thousand’
 - **[Weise](w/we/Weise.md)** *fem.* ‘a way’
 
 Loanwords:
