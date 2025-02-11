@@ -12,6 +12,7 @@ Others:
 - **[Kapitalist](k/ka/Kapitalist.md)** *masc.* ‘a capitalist’
 - **[Mühsal](m/mue/Muehsal.md)** *fem.* ‘hardship’
 - **[Proletarier](p/pr/Proletarier.md)** *masc.* ‘a proletarian’
+- **[Sicherheit](s/si/Sicherheit.md)** *fem.* ‘safety, security’
 - **[Spanier](s/sp/Spanier.md)** *masc.* ‘a Spaniard’
 - **[Zeitung](z/ze/Zeitung.md)** *fem.* ‘a newspaper’
 
