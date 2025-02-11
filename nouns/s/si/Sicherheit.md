@@ -2,7 +2,7 @@
 
 `Sicherheit` ‘safety, security’ is a feminine [derived noun](../../derivedNouns.md).
 
-*qv.* **[sicher](../../../adjectives/s/si/sicher.md.md)** *adj.* ‘safe’
+*qv.* **[sicher](../../../adjectives/s/si/sicher.md)** *adj.* ‘safe’
 
 Examples:
 
