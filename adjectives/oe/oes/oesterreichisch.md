@@ -1,8 +1,8 @@
 # österreichisch
 
-`österreichisch` ‘Austrian’ is a [derived adjective](../../derivedAdjectives.md).
+`österreichisch` ‘Austrian’ is a [denominal adjective](../../denominalAdjectives.md).
 
-qv. Österreich neut. ‘Austria’
+*qv.* **[Österreich](../../../nouns/oe/oes/Oesterreich.md)** *neut.* ‘Austria’
 
 Examples:
 
