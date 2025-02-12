@@ -1,8 +1,8 @@
 # Österreich
 
-`Österreich` ‘Austria’ is a proper compound noun.
+`Österreich` ‘Austria’ is a neuter proper [noun](../../index.md).
 
-qv. ost, Reich
+qv. ost, **[Reich](../../r/re/Reich.md)** *neut.* ‘a realm’
 
 Derivatives:
 - **[österreichisch](../../../adjectives/oe/oes/oesterreichisch.md)** adj. ‘Austrian’
