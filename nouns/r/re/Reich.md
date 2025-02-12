@@ -4,6 +4,7 @@
 
 Compounds:
 - **[Königreich](../../k/koe/Koenigreich.md)** *neut.* ‘a kingdom’
+- **[Österreich](../../oe/oes/Oesterreich.md)** *neut.* ‘Austria’
 
 ----
 
