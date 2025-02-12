@@ -38,6 +38,7 @@ Loanwords:
 - **[Datum](d/da/Datum.md)** *neut.* ‘a date’
 - **[Formel](f/fo/Formel.md)** *fem.* ‘a formula’
 - **[Kapital](k/ka/Kapital.md)** *neut.* ‘capital’
+- **[Monarchie](m/mo/Monarchie.md)** *fem.* ‘a monarchy’
 - **[Papier](p/pa/Papier.md)** *neut.* ‘paper’
 - **[Produktion](p/pr/Produktion.md)** *fem.* ‘(a) production’
 - **[Prognose](p/pr/Prognose.md)** *fem.* ‘a prognosis’
