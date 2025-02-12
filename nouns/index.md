@@ -5,6 +5,7 @@
 - [compound nouns](compoundNouns.md)
 
 Proper nouns:
+- **[Österreich](oe/oes/Oesterreich.md)** *neut.* ‘Austria’
 - **[Spanien](s/sp/Spanien.md)** *neut.* ‘Spain’
 - **[Wien](w/wi/Wien.md)** *neut.* ‘Vienna’
 
