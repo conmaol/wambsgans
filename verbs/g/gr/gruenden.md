@@ -1,6 +1,6 @@
 # gründen
 
-`gründen` ‘build, base, found, establish, institute’ is a [derived verb](../../derivedVerbs.md).
+`gründen` ‘build, base, found, establish, institute’ is a [denominal verb](../../denominalVerbs.md).
 
 *qv.* **[Grund](../../../nouns/g/gr/Grund.md)** *masc.* ‘ground’
 
