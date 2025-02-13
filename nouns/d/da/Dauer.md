@@ -1,6 +1,6 @@
 # Dauer
 
-`Dauer` ‘duration, permanence’ is a feminine [derived noun](../../derivedNouns.md).
+`Dauer` ‘duration, permanence’ is a feminine [deverbal noun](../../deverbalNouns.md).
 
 *qv.* **[dauern](../../../verbs/d/da/dauern.md)** *vb.* ‘continue, persist’
 
