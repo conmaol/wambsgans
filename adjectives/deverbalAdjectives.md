@@ -6,6 +6,7 @@
 - **[erfrischend](e/er/erfrischend.md)** *adj.* ‘refreshing’
 - **[erinnernd](e/er/erinnernd.md)** *adj.* ‘reminding’
 - **[gefangen](g/ge/gefangen.md)** *adj.* ‘caught’
+- **[gegründet](g/ge/gegruendet.md)** *adj.* ‘based, founded’
 - **[gelähmt](g/ge/gelaehmt.md)** *adj.* ‘paralysed’
 - **[knisternd](k/kn/knisternd.md)** *adj.* ‘rustling’
 - **[möglich](m/moe/moeglich.md)** *adj.* ‘possible’
