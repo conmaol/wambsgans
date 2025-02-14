@@ -6,7 +6,7 @@ Others:
 - **[Abwesentheit](a/ab/Abwesenheit.md)** *fem.* ‘(an) absence’
 - **[Alter](a/al/Alter.md)** *neut.* ‘(an) age’
 - **[Beamte(r)](b/be/Beamter.md)** *masc.* ‘a government employee’
-- **[Beständigkeit](b/be/bestaendigkeit.md)** *fem.* ‘stability’
+- **[Beständigkeit](b/be/Bestaendigkeit.md)** *fem.* ‘stability’
 - **[Gebirge](g/ge/Gebirge.md)** *neut.* ‘a mountain range’
 - **[Gefängnis](g/ge/Gefaengnis.md)** *neut.* ‘a prison’
 - **[Kapitalismus](k/ka/Kapitalismus.md)** *masc.* ‘capitalism’
