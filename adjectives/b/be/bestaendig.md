@@ -1,6 +1,6 @@
 # beständig
 
-`beständig` ‘constant, stable, steady’ is a [derived adjective](../../derivedAdjectives.md).
+`beständig` ‘constant, stable, steady’ is a [deverbal adjective](../../deverbalAdjectives.md).
 
 *qv.* **[bestehen](../../../verbs/b/be/bestehen.md)** *vb.* ‘exist’
 
