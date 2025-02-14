@@ -38,6 +38,7 @@ Loanwords:
 - **[Automobil](a/au/Automobil.md)** *neut.* ‘an automobile, a car’
 - **[Datum](d/da/Datum.md)** *neut.* ‘a date’
 - **[Formel](f/fo/Formel.md)** *fem.* ‘a formula’
+- **[Garant](g/ga/Garant.md)** *masc.* ‘a guarantor’
 - **[Kapital](k/ka/Kapital.md)** *neut.* ‘capital’
 - **[Monarchie](m/mo/Monarchie.md)** *fem.* ‘a monarchy’
 - **[Papier](p/pa/Papier.md)** *neut.* ‘paper’
