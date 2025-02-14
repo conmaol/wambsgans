@@ -1,5 +1,6 @@
 # Denominal adjectives
 
+- **[beständig](b/be/bestaendig.md)** *adj.* ‘stable’
 - **[dreitägig](d/dr/dreitaegig.md)** *adj.* ‘lasting for three days’
 - **[flüchtig](f/fl/fluechtig.md)** *adj.* ‘fleeting’
 - **[golden](g/go/golden.md)** *adj.* ‘golden’
