@@ -13,6 +13,7 @@ Monosyllables:
 - **[Jahr](j/ja/Jahr.md)** *neut.* ‘a year’
 - **[Krieg](k/kr/Krieg.md)** *masc.* ‘a war’
 - **[Reich](r/re/Reich.md)** *neut.* ‘a realm’
+- **[Staat](s/st/Staat.md)** *masc.* ‘a state’
 - **[Stadt](s/st/Stadt.md)** *fem.* ‘a town’
 - **[Stift](s/st/Stift.md)** *masc.* ‘a pin, a pen’
 - **[Tag](t/ta/Tag.md)** *masc.* ‘a day’
