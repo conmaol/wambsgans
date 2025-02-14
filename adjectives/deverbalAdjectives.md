@@ -3,6 +3,7 @@
 - **[abwesend](a/ab/abwesend.md)** *adj.* ‘absent’
 - **[angeklagt](a/an/angeklagt.md)** *adj.* ‘indicted’
 - **[bekannt](b/be/bekannt.md)** *adj.* ‘famous’
+- **[beständig](b/be/bestaendig.md)** *adj.* ‘stable’
 - **[erfrischend](e/er/erfrischend.md)** *adj.* ‘refreshing’
 - **[erinnernd](e/er/erinnernd.md)** *adj.* ‘reminding’
 - **[gefangen](g/ge/gefangen.md)** *adj.* ‘caught’
