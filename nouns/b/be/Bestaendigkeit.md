@@ -1,6 +1,6 @@
 # Beständigkeit
 
-`Beständigkeit` ‘stability, reliability, resistance’ is a feminine [de-adjectival noun](../../deAdjectivalNouns.md).
+`Beständigkeit` ‘stability, reliability, resistance’ is a feminine [derived noun](../../derivedNouns.md).
 
 *qv.* **[beständig](../../../adjectives/b/be/bestaendig.md)** *adj.* ‘stable’
 
