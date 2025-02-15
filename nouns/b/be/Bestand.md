@@ -1,6 +1,6 @@
 # Bestand
 
-`Bestand` ‘durable existence, ’ is a masculine [deverbal noun](../../deverbalNouns.md).
+`Bestand` ‘durable existence, persistence, duration’ is a masculine [deverbal noun](../../deverbalNouns.md).
 
 *qv.* **[bestehen](../../../verbs/b/be/bestehen.md)** *vb.* ‘exist’
 
