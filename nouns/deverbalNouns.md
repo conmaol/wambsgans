@@ -5,6 +5,7 @@
 - **[Ausbeutung](a/au/Ausbeutung.md)** *fem.* ‘(an) exploitation’
 - **[Ausflug](a/au/Ausflug.md)** *masc.* ‘an excursion’
 - **[Bedingung](b/be/Bedingung.md)** *fem.* ‘a condition’
+- **[Bestand](b/be/Bestand.md)** *masc.* ‘durable existence’
 - **[Dauer](d/da/Dauer.md)** *fem.* ‘duration, permanence’
 - **[Diener](d/di/Diener.md)** *masc.* ‘a manservant’
 - **[Entlassung](e/en/Entlassung.md)** *fem.* ‘release’
