@@ -1,6 +1,6 @@
 # obere(r)
 
-`obere(r)` ‘upper, superior’ is a simple adjective.
+`obere(r)` ‘upper, superior’ is a [simple adjective](../../simpleAdjectives.md).
 
 Examples:
 
