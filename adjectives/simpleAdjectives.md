@@ -16,6 +16,7 @@ Monosyllables:
 
 Disyllables:
 - **[gewahr](g/ge/gewahr.md)** *adj.* ‘aware’
+- **[obere(r)](o/ob/oberer.md)** *adj.* ‘upper, superior’
 - **[sicher](s/si/sicher.md)** *adj.* ‘safe, secure’
 
 Loanwords:
