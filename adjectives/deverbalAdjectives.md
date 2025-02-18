@@ -10,6 +10,7 @@
 - **[gelähmt](g/ge/gelaehmt.md)** *adj.* ‘paralysed’
 - **[knisternd](k/kn/knisternd.md)** *adj.* ‘rustling’
 - **[möglich](m/moe/moeglich.md)** *adj.* ‘possible’
+- **[verbrieft](v/ve/verbrieft.md)** *adj.* ‘assured’
 - **[verschärft](v/ve/verschaerft.md)** *adj.* ‘aggravated’
 - **[zunehmend](z/zu/zunehmend.md)** *adj.* ‘increasing’
 
