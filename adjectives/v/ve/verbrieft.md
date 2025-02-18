@@ -2,7 +2,7 @@
 
 `verbrieft` ‘documented, assured, guaranteed, certified, sealed’ is a [deverbal adjective](../../deverbalAdjectives.md).
 
-*qv.* **[verbriefen](../../../verbs/v/ve/verbriefen.md)** *vb.* ‘’
+*qv.* **[verbriefen](../../../verbs/v/ve/verbriefen.md)** *vb.* ‘guarantee’
 
 Examples:
 
