@@ -43,6 +43,7 @@ Loanwords:
 - **[Kapital](k/ka/Kapital.md)** *neut.* ‘capital’
 - **[Monarchie](m/mo/Monarchie.md)** *fem.* ‘a monarchy’
 - **[Papier](p/pa/Papier.md)** *neut.* ‘paper’
+- **[Parlament](p/pa/Parlament.md)** *neut.* ‘a parliament’
 - **[Produktion](p/pr/Produktion.md)** *fem.* ‘(a) production’
 - **[Prognose](p/pr/Prognose.md)** *fem.* ‘a prognosis’
 - **[Roman](r/ro/Roman.md)** *masc.* ‘a novel’
