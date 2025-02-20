@@ -16,6 +16,7 @@
 - **[unternehmen](u/un/unternehmen.md)** *vb.* ‘undertake’
 - **[unterschreiben](u/un/unterschreiben.md)** *vb.* ‘sign’
 - **[verbrechen](v/ve/verbrechen.md)** *vb.* ‘breach’
+- **[verbriefen](v/ve/verbriefen.md)** *vb.* ‘guarantee, assure’
 - **[verhalten](v/ve/verhalten.md)** *vb.* ‘behave’
 - **[verschärfen](v/ve/verschaerfen.md)** *vb.* ‘aggravate’
 - **[versuchen](v/ve/versuchen.md)** *vb.* ‘attempt’
