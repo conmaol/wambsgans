@@ -6,7 +6,7 @@
 
 Examples:
 
-> In St. Jago, der Hauptstadt des Königreichs Chili, [stand](../../../verbs/s/st/stehen.md) [gerade](../../../adverbs/g/ge/gerade.md) in dem <mark>Augenblicke</mark> der großen [Erderschütterung](../../e/er/Erdserchuetterung.md) vom Jahre 1647, bei welcher viele tausend Menschen ihren Untergang fanden, ein junger, auf ein Verbrechen angeklagter Spanier, namens *Jeronimo Rugera*, an einem Pfeiler des Gefängnisses, in welches man ihn eingesperrt hatte, und wollte sich erhenken. (*[Heinrich von Kleist](../../../texts/Kleist/DasErdbebenInChili.md)*) *‘a young Spaniard was standing by a pillar in Santiago exactly in the moment of the great earthquake of 1647’*
+> In St. Jago, der Hauptstadt des Königreichs Chili, [stand](../../../verbs/s/st/stehen.md) [gerade](../../../adverbs/g/ge/gerade.md) in dem <mark>Augenblicke</mark> der großen [Erderschütterung](../../e/er/Erderschuetterung.md) vom Jahre 1647, bei welcher viele tausend Menschen ihren Untergang fanden, ein junger, auf ein Verbrechen angeklagter Spanier, namens *Jeronimo Rugera*, an einem Pfeiler des Gefängnisses, in welches man ihn eingesperrt hatte, und wollte sich erhenken. (*[Heinrich von Kleist](../../../texts/Kleist/DasErdbebenInChili.md)*) *‘a young Spaniard was standing by a pillar in Santiago exactly in the moment of the great earthquake of 1647’*
 
 ----
 
