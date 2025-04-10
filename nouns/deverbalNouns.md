@@ -9,6 +9,7 @@
 - **[Dauer](d/da/Dauer.md)** *fem.* ‘duration, permanence’
 - **[Diener](d/di/Diener.md)** *masc.* ‘a manservant’
 - **[Entlassung](e/en/Entlassung.md)** *fem.* ‘release’
+- **[Erschütterung](e/er/Erschuetterung.md)** *fem.* ‘a vibration’
 - **[Feststellung](f/fe/Feststellung.md)** *fem.* ‘a finding’
 - **[Flucht](f/fl/Flucht.md)** *fem.* ‘(a) flight’
 - **[Flug](f/fl/Flug.md)** *masc.* ‘(a) flight’
