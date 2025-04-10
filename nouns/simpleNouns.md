@@ -27,6 +27,7 @@ Disyllables:
 - **[Auge](a/au/Auge.md)** *neut.* ‘an eye’
 - **[Beute](b/be/Beute.md)** *fem.* ‘booty’
 - **[Daumen](d/da/Daumen.md)** *masc.* ‘a thumb’
+- **[Erde](e/er/Erde.md)** *fem.* ‘(the) earth’
 - **[Finger](f/fi/Finger.md)** *masc.* ‘a finger’
 - **[König](k/koe/Koenig.md)** *masc.* ‘a king’
 - **[Morgen](m/mo/Morgen.md)** *masc.* ‘a morning’
