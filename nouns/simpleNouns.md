@@ -23,6 +23,7 @@ Monosyllables:
 - **[Zeit](z/ze/Zeit.md)** *fem.* ‘(a) time’
 
 Disyllables:
+- **[Auge](a/au/Auge.md)** *neut.* ‘an eye’
 - **[Beute](b/be/Beute.md)** *fem.* ‘booty’
 - **[Daumen](d/da/Daumen.md)** *masc.* ‘a thumb’
 - **[Finger](f/fi/Finger.md)** *masc.* ‘a finger’
