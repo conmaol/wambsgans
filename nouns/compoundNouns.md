@@ -2,6 +2,7 @@
 
 - **[Augenblick](a/au/Augenblick.md)** *neut.* ‘a blink of an eye’
 - **[Bahnhof](b/ba/Bahnhof.md)** *masc.* ‘a railway station’
+- **[Erderschütterung](e/er/Erderschuetterung.md)** *fem.* ‘an earthquake‘
 - **[Geburtstag](g/ge/Geburtstag.md)** *masc.* ‘a birthday’
 - **[Grundverhältnis](g/gr/Grundverhaeltnis.md)** *neut.* ‘a basic relationship’
 - **[Hauptstadt](h/ha/Hauptstadt.md)** *fem.* ‘a capital city’
