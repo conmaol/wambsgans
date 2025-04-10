@@ -1,5 +1,6 @@
 # Compound nouns
 
+- **[Augenblick](a/au/Augenblick.md)** *neut.* ‘blink of an eye’
 - **[Bahnhof](b/ba/Bahnhof.md)** *masc.* ‘a railway station’
 - **[Geburtstag](g/ge/Geburtstag.md)** *masc.* ‘a birthday’
 - **[Grundverhältnis](g/gr/Grundverhaeltnis.md)** *neut.* ‘a basic relationship’
