@@ -1,6 +1,6 @@
 # gerade
 
-`gerade` ‘noe, just exactly’ is an [adverb](../../index.md).
+`gerade` ‘now, just exactly’ is an [adverb](../../index.md).
 
 Examples:
 
