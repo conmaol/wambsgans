@@ -11,6 +11,7 @@
 - **[erfrischen](e/er/erfrischen.md)** *vb.* ‘refresh’
 - **[ergeben](e/er/ergeben.md)** *vb.* ‘yield’
 - **[erhenken](e/er/erhenken.md)** *vb.* ‘kill by hanging’
+- **[erschüttern](e/er/erschuettern.md)** *vb.* ‘shake’
 - **[überblättern](ue/ueb/ueberblaettern.md)** *vb.* ‘leaf through’
 - **[überfliegen](ue/ueb/ueberfliegen.md)** *vb.* ‘fly over’
 - **[unternehmen](u/un/unternehmen.md)** *vb.* ‘undertake’
