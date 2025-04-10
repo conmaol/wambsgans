@@ -2,7 +2,7 @@
 
 `Erderschütterung` ‘an earthquake’ is a feminine [compound noun](../../compoundNouns.md).
 
-*qv.* **[Erde](Erde.md)**  *fem.* ‘(the) earth, (the) ground, (the) world’, **[Erschütterung](Erschuetterung.md)** *fem.* ‘a vibration’
+*qv.* **[Erde](Erde.md)**  *fem.* ‘(the) earth’, **[Erschütterung](Erschuetterung.md)** *fem.* ‘a vibration’
 
 Examples:
 
