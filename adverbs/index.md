@@ -1,6 +1,7 @@
 # Adverbs
 
 - **[frühmorgens](f/fr/fruehmorgens.md)** *adv.* ‘early in the morning’
+- **[gerade](g/ge/gerade.md)** *adv.* ‘just, now, exactly’
 - **[heute](h/he/heute.md)** *adv.* ‘today’
 - **[kaum](k/ka/kaum.md)** *adv.* ‘scarcely’
 - **[künftighin](k/kue/kuenftighin.md)** *adv.* ‘in (the) future’
