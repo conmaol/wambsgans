@@ -31,6 +31,7 @@
 - **[schaffen](s/sc/schaffen.md)** *vb.* ‘create, manage’
 - **[scheinen](s/sc/scheinen.md)** *vb.* ‘shine, seem’
 - **[schreiben](s/sc/schreiben.md)** *vb.* ‘write’
+- **[schüttern](s/sc/schuettern.md)** *vb.*
 - **[sinnen](s/si/sinnen.md)** *vb.* ‘think’
 - **[sperren](s/sp/sperren.md)** *vb.* ‘lock’
 - **[stehen](s/st/stehen.md)** *vb.* ‘stand’
