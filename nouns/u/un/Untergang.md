@@ -1,6 +1,6 @@
 # Untergang
 
-`Untergang` ‘fall, downfall, death, doom, sinking’ is a masculine [deverbal noun](../../deverbalNouns.md).
+`Untergang` ‘a fall, a downfall, a death, doom, a sinking’ is a masculine [deverbal noun](../../deverbalNouns.md).
 
 *qv.* **[untergehen](../../../verbs/u/un/untergehen.md)** *vb.* ‘go down’
 
