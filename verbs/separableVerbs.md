@@ -11,6 +11,7 @@
 - **[einsperren](e/ei/einsperren.md)** *vb.* ‘lock up’
 - **[feststellen](f/fe/feststellen.md)** *vb.* ‘determine’
 - **[herstellen](h/he/herstellen.md)** *vb.* ‘produce’
+- **[untergehen](u/un/untergehen.md)** *vb.* ‘go down’
 - **[vorlegen](v/vo/vorlegen.md)** *vb.* ‘present’
 - **[zunehmen](z/zu/zunehmen.md)** *vb.* ‘increase’
 - **[zurückgehen](z/zu/zurueckgehen.md)** *vb.* ‘return’
