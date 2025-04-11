@@ -1,6 +1,6 @@
 # untergehen
 
-`untergehen` ‘go down, fall, go under, sink, perish, vanish, set’ is an [separable verb](../../separableVerbs.md).
+`untergehen` ‘go down, fall, go under, sink, perish, vanish, set’ is a [separable verb](../../separableVerbs.md).
 
 *qv.* **[gehen](../../g/ge/gehen.md)** *vb.* ‘go’
 
