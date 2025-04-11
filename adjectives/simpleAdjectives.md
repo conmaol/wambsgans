@@ -5,6 +5,7 @@ Monosyllables:
 - **[fest](f/fe/fest.md)** *adj.* ‘firm’
 - **[frisch](f/fr/frisch.md)** *adj.* ‘fresh’
 - **[früh](f/fr/frueh.md)** *adj.* ‘early’
+- **[groß](g/gr/gross.md)** *adj.* ‘big’
 - **[kalt](k/ka/kalt.md)** *adj.* ‘cold’
 - **[lahm](l/la/lahm.md)** *adj.* ‘lame’
 - **[rasch](r/ra/rasch.md)** *adj.* ‘quick’
