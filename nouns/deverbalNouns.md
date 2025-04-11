@@ -19,6 +19,7 @@
 - **[Miete](m/mi/Miete.md)** *fem.* ‘rent’
 - **[Schrift](s/sc/Schrift.md)** *fem.* ‘writing, a script’
 - **[Schriftsteller](s/sc/Schriftsteller.md)** *masc.* ‘a writer’
+- **[Untergang](u/un/Untergang.md)** *masc.* ‘a downfall’
 - **[Unternehmung](u/un/Unternehmung.md)** *fem.* ‘an undertaking’
 - **[Unterschrift](u/un/Unterschrift.md)** *fem.* ‘a signature’
 - **[Verbrechen](v/ve/Verbrechen.md)** *neut.* ‘a crime’
