@@ -27,6 +27,7 @@
 - **[melden](m/me/melden.md)** *vb.* ‘report’
 - **[mieten](m/mi/mieten.md)** *vb.* ‘rent, hire’
 - **[mögen](m/moe/moegen.md)** *vb.* ‘like’
+- **[rufen](r/ru/rufen.md)** *vb.* ‘shout’
 - **[sagen](s/sa/sagen.md)** *vb.* ‘say’
 - **[schaffen](s/sc/schaffen.md)** *vb.* ‘create, manage’
 - **[scheinen](s/sc/scheinen.md)** *vb.* ‘shine, seem’
