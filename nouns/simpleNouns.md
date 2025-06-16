@@ -43,6 +43,7 @@ Loanwords:
 - **[Datum](d/da/Datum.md)** *neut.* ‘a date’
 - **[Formel](f/fo/Formel.md)** *fem.* ‘a formula’
 - **[Garant](g/ga/Garant.md)** *masc.* ‘a guarantor’
+- **[Interesse](i/in/Interesse.md)** *neut.* ‘(an) interest’
 - **[Kapital](k/ka/Kapital.md)** *neut.* ‘capital’
 - **[Kuvert](k/ku/Kuvert.md)** *neut.* ‘an envelope’
 - **[Monarchie](m/mo/Monarchie.md)** *fem.* ‘a monarchy’
