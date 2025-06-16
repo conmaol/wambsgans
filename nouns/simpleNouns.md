@@ -50,6 +50,7 @@ Loanwords:
 - **[Produktion](p/pr/Produktion.md)** *fem.* ‘(a) production’
 - **[Prognose](p/pr/Prognose.md)** *fem.* ‘a prognosis’
 - **[Roman](r/ro/Roman.md)** *masc.* ‘a novel’
+- **[Tablett](t/ta/Tablett.md)** *neut.* ‘a tray’
 
 ----
 
