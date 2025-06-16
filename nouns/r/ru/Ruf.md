@@ -1,6 +1,6 @@
 # Ruf
 
-`Ruf` ‘a shout’ is a masculine derived [noun](../../index.md).
+`Ruf` ‘a shout’ is a masculine [deverbal noun](../../deverbalNouns.md).
 
 *qv.* **[rufen](../../../verbs/r/ru/rufen.md)** *vb.* ‘shout, call’
 
