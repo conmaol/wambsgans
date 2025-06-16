@@ -1,6 +1,6 @@
 # Anruf
 
-`Anruf` ‘a call’ is a masculine derived [noun](../../index.md).
+`Anruf` ‘a call’ is a masculine [deverbal noun](../../deverbalNouns.md).
 
 *qv.* **[anrufen](../../../verbs/a/an/anrufen.md)** *vb.* ‘call’, **[Ruf](../../r/ru/Ruf.md)** *masc.* ‘a shout’
 
