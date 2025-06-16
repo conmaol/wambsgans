@@ -1,6 +1,6 @@
 # Besuch
 
-`Besuch` ‘a visit’ is a masculine derived [noun](../../index.md).
+`Besuch` ‘a visit’ is a masculine [deverbal noun](../../deverbalNouns.md).
 
 *qv.* **[besuchen](../../../verbs/b/be/besuchen.md)** *vb.* ‘visit’
 
