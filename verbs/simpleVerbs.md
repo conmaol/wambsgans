@@ -1,6 +1,7 @@
 # Simple verbs
 
 - **[brechen](b/br/brechen.md)** *vb.* ‘break’
+- **[bringen](b/br/bringen.md)** *vb.* ‘bring’
 - **[dauern](d/da/dauern.md)** *vb.* ‘persist’
 - **[dienen](d/di/dienen.md)** *vb.* ‘serve’
 - **[dingen](d/di/dingen.md)** *vb.* ‘hire (for a crime)’
