@@ -1,8 +1,8 @@
 # sehen
 
-`sehen` ‘see’ is a simple [verb](../../index.md).
+`sehen` ‘see’ is a [simple verb](../../simpleVerbs.md).
 
-Separable compounds:
+Compounds:
 - **[ansehen](../../a/an/ansehen.md)** *vb.* ‘look at, watch’
 
 ----
