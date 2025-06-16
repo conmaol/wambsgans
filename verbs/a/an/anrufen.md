@@ -1,6 +1,6 @@
 # anrufen
 
-`anrufen` ‘call’ is a separable [verb](../../index.md).
+`anrufen` ‘call’ is a [separable verb](../../separableVerbs.md).
 
 qv. **[rufen](../../r/ru/rufen.md)** *vb.* ‘shout, call’
 
