@@ -10,6 +10,7 @@
 - **[gegründet](g/ge/gegruendet.md)** *adj.* ‘based, founded’
 - **[gelähmt](g/ge/gelaehmt.md)** *adj.* ‘paralysed’
 - **[knisternd](k/kn/knisternd.md)** *adj.* ‘rustling’
+- **[lässig](l/lae/laessig.md)** *adj.* ‘casual, easy-going’
 - **[möglich](m/moe/moeglich.md)** *adj.* ‘possible’
 - **[verbrieft](v/ve/verbrieft.md)** *adj.* ‘assured’
 - **[verschärft](v/ve/verschaerft.md)** *adj.* ‘aggravated’
