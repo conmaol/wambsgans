@@ -10,6 +10,7 @@
 - **[ausbeuten](a/au/ausbeuten.md)** *vb.* ‘exploit’
 - **[ausfliegen](a/au/ausfliegen.md)** *vb.* ‘fly out’
 - **[darstellen](d/da/darstellen.md)** *vb.* ‘depict’
+- **[einlaufen](e/ei/einlaufen.md)** *vb.* ‘run in’
 - **[einrichten](e/ei/einrichten.md)** *vb.* ‘set up’
 - **[einsperren](e/ei/einsperren.md)** *vb.* ‘lock up’
 - **[feststellen](f/fe/feststellen.md)** *vb.* ‘determine’
