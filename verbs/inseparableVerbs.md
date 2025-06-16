@@ -5,6 +5,7 @@
 - **[bekommen](b/be/bekommen.md)** *vb.* ‘receive’
 - **[besinnen](b/be/besinnen.md)** *vb.* ‘reflect’
 - **[bestehen](b/be/bestehen.md)** *vb.* ‘exist, insist, consist’
+- **[besuchen](b/be/besuchen.md)** *vb.* ‘visit’
 - **[bewegen](b/be/bewegen.md)** *vb.* ‘move’
 - **[entlassen](e/en/entlassen.md)** *vb.* ‘release’
 - **[erinnern](e/er/erinnern.md)** *vb.* ‘remind’
