@@ -30,6 +30,7 @@
 - **[mögen](m/moe/moegen.md)** *vb.* ‘like’
 - **[rufen](r/ru/rufen.md)** *vb.* ‘shout’
 - **[sagen](s/sa/sagen.md)** *vb.* ‘say’
+- **[sammeln](s/sa/sammeln.md)** *vb.* ‘gather’
 - **[schaffen](s/sc/schaffen.md)** *vb.* ‘create, manage’
 - **[scheinen](s/sc/scheinen.md)** *vb.* ‘shine, seem’
 - **[schreiben](s/sc/schreiben.md)** *vb.* ‘write’
