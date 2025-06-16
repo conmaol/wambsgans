@@ -5,6 +5,7 @@
 - **[anklagen](a/an/anklagen.md)** *vb.* ‘indict’
 - **[anrufen](a/an/anrufen.md)** *vb.* ‘call’
 - **[ansammeln](a/an/ansammeln.md)** *vb.* ‘accumulate’
+- **[ansehen](a/an/ansehen.md)** *vb.* ‘look at, watch’
 - **[aufwachsen](a/au/aufwachsen.md)** *vb.* ‘grow up’
 - **[ausbeuten](a/au/ausbeuten.md)** *vb.* ‘exploit’
 - **[ausfliegen](a/au/ausfliegen.md)** *vb.* ‘fly out’
