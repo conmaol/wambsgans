@@ -3,6 +3,7 @@
 - **[abschaffen](a/ab/abschaffen.md)** *vb.* ‘abolish’
 - **[anfangen](a/an/anfangen.md)** *vb.* ‘begin’
 - **[anklagen](a/an/anklagen.md)** *vb.* ‘indict’
+- **[anrufen](a/an/anrufen.md)** *vb.* ‘call’
 - **[aufwachsen](a/au/aufwachsen.md)** *vb.* ‘grow up’
 - **[ausbeuten](a/au/ausbeuten.md)** *vb.* ‘exploit’
 - **[ausfliegen](a/au/ausfliegen.md)** *vb.* ‘fly out’
