@@ -10,6 +10,7 @@
 - **[Besuch](b/be/Besuch.md)** *masc.* ‘a visit’
 - **[Dauer](d/da/Dauer.md)** *fem.* ‘duration, permanence’
 - **[Diener](d/di/Diener.md)** *masc.* ‘a manservant’
+- **[Einlauf](e/ei/Einlauf.md)** *masc.* ‘a run-in’
 - **[Entlassung](e/en/Entlassung.md)** *fem.* ‘release’
 - **[Erschütterung](e/er/Erschuetterung.md)** *fem.* ‘a vibration’
 - **[Feststellung](f/fe/Feststellung.md)** *fem.* ‘a finding’
