@@ -4,6 +4,7 @@
 
 Derivatives:
 - **[entlassen](../../e/en/entlassen.md)** *vb.* ‘release’
+- **[lässig](../../../adjectives/l/lae/laessig.md)** *adj.* ‘casual, easy-going’
 
 ----
 
