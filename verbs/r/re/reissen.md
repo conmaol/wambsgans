@@ -1,8 +1,8 @@
 # reißen
 
-`reißen` ‘rip, tear’ is a simple [verb](../../index.md).
+`reißen` ‘rip, tear’ is a [simple verb](../../simpleVerbs.md).
 
-Separable compounds:
+Compounds:
 - **[aufreißen](../../a/au/aufreissen.md)** *vb.* ‘rip open’
 
 ----
