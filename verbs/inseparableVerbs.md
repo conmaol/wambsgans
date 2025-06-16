@@ -14,6 +14,7 @@
 - **[erhenken](e/er/erhenken.md)** *vb.* ‘kill by hanging’
 - **[erschüttern](e/er/erschuettern.md)** *vb.* ‘shake’
 - **[überblättern](ue/ueb/ueberblaettern.md)** *vb.* ‘leaf through’
+- **[überbringen](ue/ueb/ueberbringen.md)** *vb.* ‘deliver’
 - **[überfliegen](ue/ueb/ueberfliegen.md)** *vb.* ‘fly over’
 - **[unternehmen](u/un/unternehmen.md)** *vb.* ‘undertake’
 - **[unterschreiben](u/un/unterschreiben.md)** *vb.* ‘sign’
