@@ -1,8 +1,8 @@
 # sammeln
 
-`sammeln` ‘gather’ is a simple [verb](../../index.md).
+`sammeln` ‘gather’ is a [simple verb](../../simpleVerbs.md).
 
-Separable compounds:
+Compounds:
 - **[ansammeln](../../a/an/ansammeln.md)** *vb.* ‘accumulate’
 
 ----
