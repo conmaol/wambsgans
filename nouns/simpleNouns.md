@@ -47,6 +47,7 @@ Loanwords:
 - **[Monarchie](m/mo/Monarchie.md)** *fem.* ‘a monarchy’
 - **[Papier](p/pa/Papier.md)** *neut.* ‘paper’
 - **[Parlament](p/pa/Parlament.md)** *neut.* ‘a parliament’
+- **[Post](p/po/Post.md)** *fem.* ‘post’
 - **[Produktion](p/pr/Produktion.md)** *fem.* ‘(a) production’
 - **[Prognose](p/pr/Prognose.md)** *fem.* ‘a prognosis’
 - **[Roman](r/ro/Roman.md)** *masc.* ‘a novel’
