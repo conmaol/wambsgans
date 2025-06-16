@@ -1,6 +1,6 @@
 # rufen
 
-`rufen` ‘shout, call’ is a simple [verb](../../index.md).
+`rufen` ‘shout, call’ is a [simple verb](../../simpleVerbs.md).
 
 Derivatives:
 - **[Ruf](../../../nouns/r/ru/Ruf.md)** *masc.* ‘a shout’
