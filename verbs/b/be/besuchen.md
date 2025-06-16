@@ -1,6 +1,6 @@
 # besuchen
 
-`besuchen` ‘visit’ is an inseparable [verb](../../index.md).
+`besuchen` ‘visit’ is an [inseparable verb](../../inseparableVerbs.md).
 
 qv. **[suchen](../../s/su/suchen.md)** *vb.* ‘seek’
 
