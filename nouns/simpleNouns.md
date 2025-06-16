@@ -44,6 +44,7 @@ Loanwords:
 - **[Formel](f/fo/Formel.md)** *fem.* ‘a formula’
 - **[Garant](g/ga/Garant.md)** *masc.* ‘a guarantor’
 - **[Kapital](k/ka/Kapital.md)** *neut.* ‘capital’
+- **[Kuvert](k/ku/Kuvert.md)** *neut.* ‘an envelope’
 - **[Monarchie](m/mo/Monarchie.md)** *fem.* ‘a monarchy’
 - **[Papier](p/pa/Papier.md)** *neut.* ‘paper’
 - **[Parlament](p/pa/Parlament.md)** *neut.* ‘a parliament’
