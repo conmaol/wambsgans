@@ -24,6 +24,7 @@
 - **[kommen](k/ko/kommen.md)** *vb.* ‘come’
 - **[krakeln](k/kr/krakeln.md)** *vb.* ‘scrawl’
 - **[lassen](l/la/lassen.md)** *vb.* ‘let, allow’
+- **[laufen](l/la/laufen.md)** *vb.* ‘run’
 - **[legen](l/le/legen.md)** *vb.* ‘lay’
 - **[melden](m/me/melden.md)** *vb.* ‘report’
 - **[mieten](m/mi/mieten.md)** *vb.* ‘rent, hire’
