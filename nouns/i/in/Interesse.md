@@ -1,6 +1,6 @@
 # Interesse
 
-`Interesse` ‘(an) interest’ is a simple neuter [noun](../../index.md).
+`Interesse` ‘(an) interest’ is a neuter [simple noun](../../simpleNouns.md).
 
 Derivatives:
 - **[interessieren](../../../verbs/i/in/interessieren.md)** *vb.* ‘interest’
