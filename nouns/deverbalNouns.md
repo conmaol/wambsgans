@@ -19,6 +19,7 @@
 - **[Herstellung](h/he/Herstellung.md)** *fem.* ‘production’
 - **[Kunft](k/ku/Kunft.md)** *fem.* ‘coming’
 - **[Miete](m/mi/Miete.md)** *fem.* ‘rent’
+- **[Ruf](r/ru/Ruf.md)** *fem.* ‘a shout’
 - **[Schrift](s/sc/Schrift.md)** *fem.* ‘writing, a script’
 - **[Schriftsteller](s/sc/Schriftsteller.md)** *masc.* ‘a writer’
 - **[Untergang](u/un/Untergang.md)** *masc.* ‘a downfall’
