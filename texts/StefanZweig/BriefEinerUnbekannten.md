@@ -8,7 +8,7 @@
 >
 > Der [Diener](../../nouns/d/di/Diener.md) [meldete](../../verbs/m/me/melden.md) aus der [Zeit](../../nouns/z/ze/Zeit.md) seiner [Abwesenheit](../../nouns/a/ab/Abwesenheit.md) zwei [Besuche](../../nouns/b/be/Besuch.md) sowie einige [Telephonanrufe](../../nouns/t/te/Telephonanruf.md) und [überbrachte](../../verbs/ue/ueb/ueberbringen.md) auf einem [Tablett](../../nouns/t/ta/Tablett.md) die [angesammelte](../../adjectives/a/an/angesammelt.md) [Post](../../nouns/p/po/Post.md).
 >
-> [Lässig](../../adjectives/l/lae/laessig.md) [sah](../../verbs/a/an/ansehen.md) er den [Einlauf](../../nouns/e/ei/Einlauf.md) an, [riß](../../verbs/a/au/aufreissen.md) ein paar [Kuverts](../../nouns/k/ku/Kuvert.md) auf, die ihn durch ihre [Absender](../../nouns/a/ab/Absender.md) [interessierten](../../verbs/i/in/interessieren.md); einen Brief, der fremde Schriftzüge trug und zu umfangreich schien, [schob](../../verbs/b/be/beiseiteschieben.md) er zunächst beiseite.
+> [Lässig](../../adjectives/l/lae/laessig.md) [sah](../../verbs/a/an/ansehen.md) er den [Einlauf](../../nouns/e/ei/Einlauf.md) an, [riß](../../verbs/a/au/aufreissen.md) ein paar [Kuverts](../../nouns/k/ku/Kuvert.md) auf, die ihn durch ihre [Absender](../../nouns/a/ab/Absender.md) [interessierten](../../verbs/i/in/interessieren.md); einen [Brief](../../nouns/b/br/Brief.md), der fremde [Schriftzüge](../../nouns/s/sc/Schriftzug.md) trug und zu umfangreich schien, [schob](../../verbs/b/be/beiseiteschieben.md) er zunächst beiseite.
 >
 > Inzwischen **war** der Tee aufgetragen worden, bequem **lehnte** er sich in den Fauteuil, **durchblätterte** noch einmal die Zeitung und einige Drucksachen; dann **zündete** er sich eine Zigarre an und **griff** nun nach dem zurückgelegten Briefe.
 
