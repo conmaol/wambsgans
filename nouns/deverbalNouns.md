@@ -1,6 +1,7 @@
 # Deverbal nouns
 
 - **[Abschaffung](a/ab/Abschaffung.md)** *fem.* ‘abolition’
+- **[Absender](a/ab/Absender.md)** *masc.* ‘a sender’
 - **[Anfang](a/an/Anfang.md)** *masc.* ‘a beginning’
 - **[Anruf](a/an/Anruf.md)** *masc.* ‘a call’
 - **[Ausbeutung](a/au/Ausbeutung.md)** *fem.* ‘(an) exploitation’
