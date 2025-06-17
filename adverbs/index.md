@@ -7,6 +7,7 @@
 - **[künftighin](k/kue/kuenftighin.md)** *adv.* ‘in (the) future’
 - **[morgens](m/mo/morgens.md)** *adv.* ‘in the morning’
 - **[wieder](w/wi/wieder.md)** *adv.* ‘again’
+- **[zunächst](z/zu/zunaechst.md)** *adv.* ‘first of all, for now’
 - **[zurück](z/zu/zurueck.md)** *adv.* ‘back’
 
 ----
