@@ -11,6 +11,7 @@
 - **[aufwachsen](a/au/aufwachsen.md)** *vb.* ‘grow up’
 - **[ausbeuten](a/au/ausbeuten.md)** *vb.* ‘exploit’
 - **[ausfliegen](a/au/ausfliegen.md)** *vb.* ‘fly out’
+- **[beiseiteschieben](b/be/beiseiteschieben.md)** *vb.* ‘push aside’
 - **[darstellen](d/da/darstellen.md)** *vb.* ‘depict’
 - **[einlaufen](e/ei/einlaufen.md)** *vb.* ‘run in’
 - **[einrichten](e/ei/einrichten.md)** *vb.* ‘set up’
