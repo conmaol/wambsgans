@@ -39,6 +39,7 @@
 - **[schüttern](s/sc/schuettern.md)** *vb.*
 - **[schüttern](s/sc/schuettern.md)** *vb.*
 - **[sehen](s/se/sehen.md)** *vb.* ‘see’
+- **[senden](s/se/senden.md)** *vb.* ‘send’
 - **[sperren](s/sp/sperren.md)** *vb.* ‘lock’
 - **[stehen](s/st/stehen.md)** *vb.* ‘stand’
 - **[stellen](s/st/stellen.md)** *vb.* ‘put’
