@@ -35,6 +35,7 @@
 - **[sammeln](s/sa/sammeln.md)** *vb.* ‘gather’
 - **[schaffen](s/sc/schaffen.md)** *vb.* ‘create, manage’
 - **[scheinen](s/sc/scheinen.md)** *vb.* ‘shine, seem’
+- **[schieben](s/sc/schieben.md)** *vb.* ‘push, shove’
 - **[schreiben](s/sc/schreiben.md)** *vb.* ‘write’
 - **[schüttern](s/sc/schuettern.md)** *vb.*
 - **[schüttern](s/sc/schuettern.md)** *vb.*
