@@ -1,6 +1,6 @@
 # absenden
 
-`absenden` ‘send on, forward’ is a separable [verb](../../index.md).
+`absenden` ‘send on, forward’ is a [separable verb](../../separableVerbs.md).
 
 *qv.* **[senden](../../s/se/senden.md)** *vb.* ‘send’
 
