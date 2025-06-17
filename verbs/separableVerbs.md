@@ -1,6 +1,7 @@
 # Separable verbs
 
 - **[abschaffen](a/ab/abschaffen.md)** *vb.* ‘abolish’
+- **[absenden](a/ab/absenden.md)** *vb.* ‘send on’
 - **[anfangen](a/an/anfangen.md)** *vb.* ‘begin’
 - **[anklagen](a/an/anklagen.md)** *vb.* ‘indict’
 - **[anrufen](a/an/anrufen.md)** *vb.* ‘call’
