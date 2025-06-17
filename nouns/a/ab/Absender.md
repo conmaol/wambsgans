@@ -1,6 +1,6 @@
 # Absender
 
-`Absender` ‘a sender, a return address’ is a masculine [deverbal noun](../../deverbalNoun.md).
+`Absender` ‘a sender, a return address’ is a masculine [deverbal noun](../../deverbalNouns.md).
 
 *qv.* **[absenden](../../../verbs/a/ab/absenden.md)** *vb.* ‘send on, forward’
 
