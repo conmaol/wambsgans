@@ -1,8 +1,8 @@
 # senden
 
-`senden` ‘send’ is a simple [verb](../../index.md).
+`senden` ‘send’ is a [simple verb](../../simpleVerbs.md).
 
-Separable compounds:
+Compounds:
 - **[absenden](../../a/ab/absenden.md)** *vb.* ‘send on, forward’
 
 ----
