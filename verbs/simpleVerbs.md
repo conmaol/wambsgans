@@ -45,6 +45,7 @@
 - **[stehen](s/st/stehen.md)** *vb.* ‘stand’
 - **[stellen](s/st/stellen.md)** *vb.* ‘put’
 - **[suchen](s/su/suchen.md)** *vb.* ‘seek’
+- **[tragen](t/tr/tragen.md)** *vb.* ‘carry, bear’
 - **[trauen](t/tr/trauen.md)** *vb.* ‘trust’
 - **[wachsen](w/wa/wachsen.md)** *vb.* ‘grow’
 - **[wohnen](w/wo/wohnen.md)** *vb.* ‘reside’
