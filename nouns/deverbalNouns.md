@@ -24,6 +24,7 @@
 - **[Ruf](r/ru/Ruf.md)** *fem.* ‘a shout’
 - **[Schrift](s/sc/Schrift.md)** *fem.* ‘writing, a script’
 - **[Schriftsteller](s/sc/Schriftsteller.md)** *masc.* ‘a writer’
+- **[Umfang](u/um/Umfang.md)** *masc.* ‘an extent’
 - **[Untergang](u/un/Untergang.md)** *masc.* ‘a downfall’
 - **[Unternehmung](u/un/Unternehmung.md)** *fem.* ‘an undertaking’
 - **[Unterschrift](u/un/Unterschrift.md)** *fem.* ‘a signature’
