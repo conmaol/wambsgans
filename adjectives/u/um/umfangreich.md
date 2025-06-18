@@ -1,6 +1,6 @@
 # umfangreich
 
-`umfangreich` ‘extensive’ is a [compound adjective](../../compoundAdjectives.md).
+`umfangreich` ‘extensive’ is a [denominal adjective](../../denominalAdjectives.md).
 
 *qv.* **[Umfang](../../../nouns/u/um/Umfang.md)** *masc.* ‘an extent’, **[reich](../../r/re/reich.md)** *adj.* ‘rich’
 
