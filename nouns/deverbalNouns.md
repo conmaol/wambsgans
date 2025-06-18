@@ -30,6 +30,7 @@
 - **[Verbrechen](v/ve/Verbrechen.md)** *neut.* ‘a crime’
 - **[Verhältnis](v/ve/Verhaeltnis.md)** *neut.* ‘a relation(ship)’
 - **[Wohnung](w/wo/Wohnung.md)** *fem.* ‘an apartment’
+- **[Zug](z/zu/Zug.md)** *masc.* ‘a train, a feature’
 
 ----
 
