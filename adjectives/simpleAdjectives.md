@@ -3,6 +3,7 @@
 Monosyllables:
 - **[alt](a/al/alt.md)** *adj.* ‘old’
 - **[fest](f/fe/fest.md)** *adj.* ‘firm’
+- **[fremd](f/fr/fremd.md)** *adj.* ‘strange’
 - **[frisch](f/fr/frisch.md)** *adj.* ‘fresh’
 - **[früh](f/fr/frueh.md)** *adj.* ‘early’
 - **[groß](g/gr/gross.md)** *adj.* ‘big’
