@@ -11,6 +11,7 @@
 - **[österreichisch](oe/oes/oesterreichisch.md)** *adj.* ‘Austrian’
 - **[prognostisch](p/pr/prognostisch.md)** *adj.* ‘prognostic’
 - **[tausendjährig](t/ta/tausendjaehrig.md)** *adj.* ‘lasting for a thousand years, thousand year old’
+- **[umfangreich](u/um/umfangreich.md)** *adj.* ‘extensive’
 
 ----
 
