@@ -1,8 +1,8 @@
 # Umfang
 
-`Umfang` ‘an extent’ is a derived masculine [noun](../../index.md).
+`Umfang` ‘an extent’ is a masculine [deverbal noun](../../deverbalNouns.md).
 
-qv. **[umfangen](../../../verbs/u/um/umfangen.md)** *adj.* ‘embrace, surround’
+*qv.* **[umfangen](../../../verbs/u/um/umfangen.md)** *adj.* ‘embrace, surround’
 
 Compounds:
 - **[umfangreich](../../../adjectives/u/um/umfangreich.md)** *adj.* ‘extensive’
