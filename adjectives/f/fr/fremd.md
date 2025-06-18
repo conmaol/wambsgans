@@ -1,6 +1,6 @@
 # fremd
 
-`fremd` ‘strange, foreign, unfamiliar’ is a [simpleAdjective](../../simpleAdjectives.md).
+`fremd` ‘strange, foreign, unfamiliar’ is a [simple adjective](../../simpleAdjectives.md).
 
 Examples:
 
