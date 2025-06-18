@@ -1,6 +1,6 @@
 # ziehen
 
-`ziehen` ‘pull, drag’ is a simple [verb](../../index.md).
+`ziehen` ‘pull, drag’ is a [simple verb](../../simpleVerbs.md).
 
 Derivatives:
 - **[Zug](../../../nouns/z/zu/Zug.md)** *masc.* ‘a draught’
