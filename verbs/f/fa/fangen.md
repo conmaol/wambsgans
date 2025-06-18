@@ -4,6 +4,7 @@
 
 Derivatives:
 - **[gefangen](../../../adjectives/g/ge/gefangen.md)** *adj.* ‘caught’
+- **[umfangen](../../u/um/umfangen.md)** *vb.* ‘embrace’
 
 Compounds:
 - **[anfangen](../../a/an/anfangen.md)** *vb.* ‘begin’
