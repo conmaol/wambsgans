@@ -1,6 +1,6 @@
 # reich
 
-`reich` ‘rich’ is a simple [adjective](../../index.md).
+`reich` ‘rich’ is a [simple adjective](../../simpleAdjectives.md).
 
 Compounds:
 - **[umfangreich](../../u/um/umfangreich.md)** *adj.* ‘extensive’
