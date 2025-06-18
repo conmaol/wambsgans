@@ -10,6 +10,7 @@
 - **[Mietautomobil](m/mi/Mietautomobil.md)** *neut.* ‘a taxi’
 - **[Produktionsweise](p/pr/Produktionsweise.md)** *fem.* ‘a mode of production’
 - **[Romanschriftsteller](r/ro/Romanschriftsteller.md)** *masc.* ‘a novelist’
+- **[Schriftzug](s/sc/Schriftzug.md)** *masc.* ‘an inscription’
 - **[Telephonanruf](t/te/Telephonanruf.md)** *masc.* ‘a telephone call’
 - **[Weltkrieg](w/we/Weltkrieg.md)** *masc.* ‘a world war’
 - **[Zeigefinger](z/ze/Zeigefinger.md)** *masc.* ‘an index finger’
