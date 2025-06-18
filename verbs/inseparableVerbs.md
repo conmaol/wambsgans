@@ -16,6 +16,7 @@
 - **[überblättern](ue/ueb/ueberblaettern.md)** *vb.* ‘leaf through’
 - **[überbringen](ue/ueb/ueberbringen.md)** *vb.* ‘deliver’
 - **[überfliegen](ue/ueb/ueberfliegen.md)** *vb.* ‘fly over’
+- **[umfangen](u/um/umfangen.md)** *vb.* ‘embrace’
 - **[unternehmen](u/un/unternehmen.md)** *vb.* ‘undertake’
 - **[unterschreiben](u/un/unterschreiben.md)** *vb.* ‘sign’
 - **[verbrechen](v/ve/verbrechen.md)** *vb.* ‘breach’
