@@ -1,8 +1,8 @@
 # Zug
 
-`Zug` ‘a train, a feature’ is a masculine derived [noun](../../index.md).
+`Zug` ‘a train, a feature’ is a masculine [deverbal noun](../../deverbalNouns.md).
 
-qv. **[ziehen](../../../verbs/z/zi/ziehen.md)** *vb.* ‘pull, drag’
+*qv.* **[ziehen](../../../verbs/z/zi/ziehen.md)** *vb.* ‘pull, drag’
 
 Compounds:
 - **[Schriftzug](../../s/sc/Schriftzug.md)** *masc.* ‘an inscription’
