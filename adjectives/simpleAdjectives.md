@@ -11,6 +11,7 @@ Monosyllables:
 - **[lahm](l/la/lahm.md)** *adj.* ‘lame’
 - **[rasch](r/ra/rasch.md)** *adj.* ‘quick’
 - **[recht](r/re/recht.md)** *adj.* ‘right’
+- **[reich](r/re/reich.md)** *adj.* ‘rich’
 - **[scharf](s/sc/scharf.md)** *adj.* ‘sharp’
 - **[steif](s/st/steif.md)** *adj.* ‘stiff’
 - **[weh](w/we/weh.md)** *adj.* ‘sore’
