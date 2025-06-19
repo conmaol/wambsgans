@@ -26,6 +26,7 @@
 - **[lassen](l/la/lassen.md)** *vb.* ‘let, allow’
 - **[laufen](l/la/laufen.md)** *vb.* ‘run’
 - **[legen](l/le/legen.md)** *vb.* ‘lay’
+- **[lehnen](l/le/lehnen.md)** *vb.* ‘lean’
 - **[melden](m/me/melden.md)** *vb.* ‘report’
 - **[mieten](m/mi/mieten.md)** *vb.* ‘rent, hire’
 - **[mögen](m/moe/moegen.md)** *vb.* ‘like’
