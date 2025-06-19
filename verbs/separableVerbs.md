@@ -8,6 +8,7 @@
 - **[ansammeln](a/an/ansammeln.md)** *vb.* ‘accumulate’
 - **[ansehen](a/an/ansehen.md)** *vb.* ‘look at, watch’
 - **[aufreißen](a/au/aufreissen.md)** *vb.* ‘tear open’
+- **[auftragen](a/au/auftragen.md)** *vb.* ‘carry up’
 - **[aufwachsen](a/au/aufwachsen.md)** *vb.* ‘grow up’
 - **[ausbeuten](a/au/ausbeuten.md)** *vb.* ‘exploit’
 - **[ausfliegen](a/au/ausfliegen.md)** *vb.* ‘fly out’
