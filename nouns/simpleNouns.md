@@ -54,6 +54,7 @@ Loanwords:
 - **[Prognose](p/pr/Prognose.md)** *fem.* ‘a prognosis’
 - **[Roman](r/ro/Roman.md)** *masc.* ‘a novel’
 - **[Tablett](t/ta/Tablett.md)** *neut.* ‘a tray’
+- **[Tee](t/te/Tee.md)** *masc.* ‘tea’
 
 ----
 
