@@ -18,6 +18,7 @@ Monosyllables:
 - **[wohl](w/wo/wohl.md)** *adj.* ‘well’
 
 Disyllables:
+- **[bequem](b/be/bequem.md)** *adj.* ‘comfortable’
 - **[gewahr](g/ge/gewahr.md)** *adj.* ‘aware’
 - **[obere(r)](o/ob/oberer.md)** *adj.* ‘upper, superior’
 - **[sicher](s/si/sicher.md)** *adj.* ‘safe, secure’
