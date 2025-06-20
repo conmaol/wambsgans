@@ -2,7 +2,7 @@
 
 `Drucksache` ‘an item of printed matter, a circular’ is a feminine [compound noun](../../compoundNouns.md).
 
-*qv.* **[Druck](../../d/dr/Druck.md)** *masc.* ‘print’, **[Sache](../../s/sa/Sache.md)** *fem.* ‘a thing’
+*qv.* **[Druck](Druck.md)** *masc.* ‘print’, **[Sache](../../s/sa/Sache.md)** *fem.* ‘a thing’
 
 Examples:
 
