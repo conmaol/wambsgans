@@ -2,6 +2,7 @@
 
 - **[Augenblick](a/au/Augenblick.md)** *neut.* ‘a blink of an eye’
 - **[Bahnhof](b/ba/Bahnhof.md)** *masc.* ‘a railway station’
+- **[Drucksache](d/dr/Drucksache.md)** *fem.* ‘an item of printed matter’
 - **[Erderschütterung](e/er/Erderschuetterung.md)** *fem.* ‘an earthquake‘
 - **[Geburtstag](g/ge/Geburtstag.md)** *masc.* ‘a birthday’
 - **[Grundverhältnis](g/gr/Grundverhaeltnis.md)** *neut.* ‘a basic relationship’
