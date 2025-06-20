@@ -7,6 +7,7 @@
 - **[bestehen](b/be/bestehen.md)** *vb.* ‘exist, insist, consist’
 - **[besuchen](b/be/besuchen.md)** *vb.* ‘visit’
 - **[bewegen](b/be/bewegen.md)** *vb.* ‘move’
+- **[durchblättern](d/du/durchblaettern.md)** *vb.* ‘leaf through’
 - **[entlassen](e/en/entlassen.md)** *vb.* ‘release’
 - **[erinnern](e/er/erinnern.md)** *vb.* ‘remind’
 - **[erfrischen](e/er/erfrischen.md)** *vb.* ‘refresh’
