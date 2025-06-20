@@ -41,6 +41,7 @@ Loanwords:
 - **[Analyse](a/an/Analyse.md)** *fem.* ‘an analysis’
 - **[Automobil](a/au/Automobil.md)** *neut.* ‘an automobile, a car’
 - **[Datum](d/da/Datum.md)** *neut.* ‘a date’
+- **[Fauteuil](f/fa/Fauteuil.md)** *masc.* ‘an armchair’
 - **[Formel](f/fo/Formel.md)** *fem.* ‘a formula’
 - **[Garant](g/ga/Garant.md)** *masc.* ‘a guarantor’
 - **[Interesse](i/in/Interesse.md)** *neut.* ‘(an) interest’
