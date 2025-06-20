@@ -33,6 +33,7 @@ Disyllables:
 - **[Morgen](m/mo/Morgen.md)** *masc.* ‘a morning’
 - **[Mühe](m/mue/Muehe.md)** *fem.* ‘effort, difficulty’
 - **[Pfeiler](p/pf/Pfeiler.md)** *masc.* ‘a pillar’
+- **[Sache](s/sa/Sache.md)** *fem.* ‘a thing’
 - **[Seite](s/se/Seite.md)** *fem.* ‘a side’
 - **[Tausend](t/ta/Tausend.md)** *neut.* ‘a thousand’
 - **[Weise](w/we/Weise.md)** *fem.* ‘a way’
