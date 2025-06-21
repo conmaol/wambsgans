@@ -5,7 +5,7 @@
 - **[dauern](d/da/dauern.md)** *vb.* ‘persist’
 - **[dienen](d/di/dienen.md)** *vb.* ‘serve’
 - **[dingen](d/di/dingen.md)** *vb.* ‘hire (for a crime)’
-- **[drücken](d/dr/drücken.md)** *vb.* ‘press’
+- **[drücken](d/dr/druecken.md)** *vb.* ‘press’
 - **[fahren](f/fa/fahren.md)** *vb.* ‘go’
 - **[fangen](f/fa/fangen.md)** *vb.* ‘catch’
 - **[finden](f/fi/finden.md)** *vb.* ‘find’
