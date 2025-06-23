@@ -53,6 +53,7 @@
 - **[wohnen](w/wo/wohnen.md)** *vb.* ‘reside’
 - **[zeigen](z/ze/zeigen.md)** *vb.* ‘point, show’
 - **[ziehen](z/zi/ziehen.md)** *vb.* ‘pull’
+- **[zünden](z/zue/zuenden.md)** *vb.* ‘kindle, ignite’
 
 ----
 
