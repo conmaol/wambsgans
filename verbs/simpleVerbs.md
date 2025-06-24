@@ -13,6 +13,7 @@
 - **[fliehen](f/fl/fliehen.md)** *vb.* ‘flee’
 - **[geben](g/ge/geben.md)** *vb.* ‘give’
 - **[gehen](g/ge/gehen.md)** *vb.* ‘go’
+- **[greifen](g/gr/greifen.md)** *vb.* ‘grip, grab’
 - **[halten](h/ha/halten.md)** *vb.* ‘hold’
 - **[henken](h/he/henken.md)** *vb.* ‘hang’
 - **[hoffen](h/ho/hoffen.md)** *vb.* ‘hope’
