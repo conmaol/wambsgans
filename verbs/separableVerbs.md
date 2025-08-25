@@ -25,6 +25,7 @@
 - **[zunehmen](z/zu/zunehmen.md)** *vb.* ‘increase’
 - **[zurückgehen](z/zu/zurueckgehen.md)** *vb.* ‘return’
 - **[zurückkehren](z/zu/zurueckkehren.md)** *vb.* ‘return’
+- **[zusehen](z/zu/zusehen.md)** *vb.* ‘watch’
 - **[zutrauen](z/zu/zutrauen.md)** *vb.* ‘think someone capable of’
 
 ----
