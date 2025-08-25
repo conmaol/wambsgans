@@ -4,6 +4,7 @@
 
 Compounds:
 - **[ansehen](../../a/an/ansehen.md)** *vb.* ‘look at, watch’
+- **[zusehen](../../z/zu/zusehen.md)** *vb.* ‘watch’
 
 ----
 
