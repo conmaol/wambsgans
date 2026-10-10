@@ -32,6 +32,7 @@
 - **[melden](m/me/melden.md)** *vb.* ‘report’
 - **[mieten](m/mi/mieten.md)** *vb.* ‘rent, hire’
 - **[mögen](m/moe/moegen.md)** *vb.* ‘like’
+- **[nehmen](n/ne/nehmen.md)** *vb.* ‘take’
 - **[reißen](r/re/reissen.md)** *vb.* ‘rip’
 - **[rufen](r/ru/rufen.md)** *vb.* ‘shout’
 - **[sagen](s/sa/sagen.md)** *vb.* ‘say’
