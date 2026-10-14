@@ -7,7 +7,7 @@
 - **[Ausbeutung](a/au/Ausbeutung.md)** *fem.* ‘(an) exploitation’
 - **[Ausflug](a/au/Ausflug.md)** *masc.* ‘an excursion’
 - **[Bedingung](b/be/Bedingung.md)** *fem.* ‘a condition’
-- **[Beerdigung](b/be/Beerdigung.md)** *fem.* ‘a funeral, burial’
+- **[Beerdigung](b/be/Beerdigung.md)** *fem.* ‘a funeral, a burial’
 - **[Bestand](b/be/Bestand.md)** *masc.* ‘durable existence’
 - **[Besuch](b/be/Besuch.md)** *masc.* ‘a visit’
 - **[Dauer](d/da/Dauer.md)** *fem.* ‘duration, permanence’
