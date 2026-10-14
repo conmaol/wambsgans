@@ -6,7 +6,7 @@
 
 Examples:
 
-> Noch am [Morgen](../../m/mo/Morgen.md) der <mark>Beerdigung</mark> war ich unschlüssig, ob ich [hingehen](../../../verbs/h/hi/hingehen.md) sollte. (*[Christoph Hein](../../../texts/ChristophHein/Drachenblut.md)*) *‘On the morning of the funeral, I was still undecided whether I should go (to it).’*
+> Noch am [Morgen](../../m/mo/Morgen.md) der <mark>Beerdigung</mark> war ich unschlüssig, ob ich [hingehen](../../../verbs/h/hi/hingehen.md) sollte. (*[Christoph Hein](../../../texts/ChristophHein/Drachenblut.md)*) *‘On the morning of the funeral, I was still undecided whether (or not) I should go (to it).’*
 
 ----
 
