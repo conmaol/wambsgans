@@ -2,7 +2,7 @@
 
 `Beerdigung` ‘a burial, a funeral’ is a feminine [deverbal noun](../../deverbalNouns.md).
 
-*qv.* [beerdigen](../../../verbs/b/be/beerdigen.md) *vb.* ‘bury, inter’
+*qv.* **[beerdigen](../../../verbs/b/be/beerdigen.md)** *vb.* ‘bury, inter’
 
 Examples:
 
